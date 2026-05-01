@@ -1,6 +1,4 @@
-# Exclude large directories from Vercel deployment
-content/photos/
-content/digital-art/
+# Exclude dev-only or bulky paths from Vercel deployment (not whole galleries)
 scripts/
 __pycache__/
 *.pyc
@@ -8,13 +6,6 @@ __pycache__/
 *.pyd
 .Python
 node_modules/
-
-# Large image files
-*.PNG
-*.JPG
-*.jpg
-*.png
-content/photos/photos\ large/
 
 # Python virtual environments
 venv/
