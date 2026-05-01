@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Photo Spectrum · Gallery</title>
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="assets/css/styles.css" />
+  </head>
+  <body class="page-light" data-page="gallery">
+    <script src="assets/js/theme-bootstrap.js"></script>
+    <nav class="top-nav" aria-label="Main navigation">
+      <div class="nav-container" id="nav-menu">
+        <a class="nav-link" data-page="home" href="index.html"><span class="nav-label">home</span></a>
+        <a class="nav-link" data-page="gallery" href="gallery.html"><span class="nav-label">photo gallery</span></a>
+        <a class="nav-link" data-page="music" href="music.html"><span class="nav-label">music</span></a>
+        <a class="nav-link" data-page="projects" href="projects.html"><span class="nav-label">The PBB Belt</span></a>
+        <a class="nav-link" data-page="life-development" href="life-development.html"><span class="nav-label">life development</span></a>
+        <a class="nav-link" data-page="about" href="about.html"><span class="nav-label">about</span></a>
+      </div>
+    </nav>
+    <div id="album-view-bg" class="album-view-bg" hidden aria-hidden="true">
+      <img class="album-view-bg__image" src="" alt="" decoding="async" />
+      <div class="album-view-bg__scrim" aria-hidden="true"></div>
+    </div>
+    <div class="page-scroll">
+      <main class="gallery-main">
+        <section id="photos" class="collection-panel is-active" aria-label="Photo gallery">
+          <section class="albums-section" aria-label="Albums">
+            <div class="album-list" id="album-list" role="list"></div>
+            <template id="album-card-template">
+              <button class="album-card" type="button" role="listitem">
+                <div class="album-thumbnail"></div>
+                <span class="album-title"></span>
+                <span class="album-description"></span>
+                <span class="album-count"></span>
+              </button>
+            </template>
+          </section>
+
+          <div id="album-view-header" class="album-view-header" hidden aria-hidden="true">
+            <div class="album-view-inner">
+              <div class="album-scrabble-wrapper">
+                <div class="album-scrabble">
+                  <div class="album-scrabble-orbit"></div>
+                  <div class="album-scrabble-tiles"></div>
+                </div>
+              </div>
+              <div class="album-info">
+                <h2 class="album-view-title"></h2>
+                <p class="album-view-description"></p>
+              </div>
+            </div>
+          </div>
+          <div id="gallery" class="gallery-grid" aria-live="polite"></div>
+          <template id="image-card-template">
+            <figure class="gallery-card">
+              <img loading="lazy" alt="" />
+            </figure>
+          </template>
+          <div id="loading" class="loading-state">Loading gallery...</div>
+          <div id="error" class="error-state" hidden></div>
+        </section>
+
+        <section
+          id="digital-art"
+          class="collection-panel"
+          aria-label="Digital art gallery"
+          hidden
+        >
+          <div id="digital-art-gallery" class="gallery-grid" aria-live="polite"></div>
+          <template id="digital-art-template">
+            <figure class="gallery-card">
+              <img loading="lazy" alt="" />
+            </figure>
+          </template>
+          <div id="digital-art-loading" class="loading-state" hidden>Loading digital art...</div>
+          <div id="digital-art-error" class="error-state" hidden></div>
+        </section>
+      </main>
+    </div>
+
+    <dialog id="lightbox" class="lightbox" aria-modal="true">
+      <div class="lightbox-content">
+        <img id="lightbox-image" alt="" />
+        <video id="lightbox-video" controls preload="metadata" style="display: none;"></video>
+        <aside id="lightbox-caption" class="lightbox-caption" aria-live="polite">
+          <h2 class="caption-title"></h2>
+          <div class="caption-text"></div>
+        </aside>
+      </div>
+    </dialog>
+
+    <div id="album-photo-viewer" class="album-photo-viewer">
+      <button class="close-button" aria-label="Back"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="13 3 6 10 13 17"/></svg></button>
+      <div id="album-viewer-container" class="viewer-container">
+        <img id="album-viewer-image" class="viewer-image" alt="" />
+        <img id="album-viewer-image-2" class="viewer-image viewer-image-overlay" alt="" />
+        <video id="album-viewer-video" class="viewer-video" autoplay loop muted playsinline preload="auto"></video>
+        <div id="album-viewer-caption" class="viewer-caption"></div>
+      </div>
+    </div>
+
+    <script type="module" src="assets/js/main.js" defer></script>
+  </body>
+</html>
+
+

@@ -1,0 +1,15 @@
+{
+  "functions": {
+    "api/bricklink-random-part.js": {
+      "maxDuration": 10,
+      "memory": 1024
+    },
+    "api/proxy-video.js": {
+      "maxDuration": 30,
+      "memory": 1024
+    }
+  },
+  "buildCommand": "echo 'No build needed'",
+  "outputDirectory": "."
+}
+

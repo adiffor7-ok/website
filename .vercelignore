@@ -1,0 +1,40 @@
+# Exclude large directories from Vercel deployment
+content/photos/
+content/digital-art/
+scripts/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+node_modules/
+
+# Large image files
+*.PNG
+*.JPG
+*.jpg
+*.png
+content/photos/photos\ large/
+
+# Python virtual environments
+venv/
+env/
+.venv/
+
+# Git
+.git/
+.gitignore
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ship data/*.json and data/documents.manifest.js; exclude local backup only
+data/*.google-backup
+
+# Never upload OAuth secrets with CLI deploy (belt-and-suspenders; also gitignored)
+credentials.json
+token.json
+google-photos-credentials.json

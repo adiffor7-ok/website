@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Documents · Photo Spectrum</title>
+    <link rel="stylesheet" href="assets/css/styles.css" />
+  </head>
+  <body class="page-light" data-page="projects">
+    <script src="assets/js/theme-bootstrap.js"></script>
+    <nav class="top-nav" aria-label="Main navigation">
+      <div class="nav-container" id="nav-menu">
+        <a class="nav-link" data-page="home" href="index.html"><span class="nav-label">home</span></a>
+        <a class="nav-link" data-page="gallery" href="gallery.html"><span class="nav-label">photo gallery</span></a>
+        <a class="nav-link" data-page="music" href="music.html"><span class="nav-label">music</span></a>
+        <a class="nav-link" data-page="projects" href="projects.html"><span class="nav-label">The PBB Belt</span></a>
+        <a class="nav-link" data-page="life-development" href="life-development.html"><span class="nav-label">life development</span></a>
+        <a class="nav-link" data-page="about" href="about.html"><span class="nav-label">about</span></a>
+      </div>
+    </nav>
+    <div class="page-scroll">
+      <main class="blog-main">
+        <header class="blog-header">
+          <a href="projects.html" class="celeste-back-link">Back to The PBB Belt</a>
+          <h1 class="blog-title">Documents</h1>
+        </header>
+        <article class="blog-content">
+          <section class="blog-section" aria-label="Document downloads">
+            <p id="documents-load-error" class="documents-load-error blog-placeholder" hidden>
+              Could not load the document list.
+            </p>
+            <div id="documents-root" class="documents-root" hidden></div>
+          </section>
+        </article>
+      </main>
+    </div>
+    <!-- Inlined manifest so file:// opens work; edits go in data/documents.manifest.js -->
+    <script src="data/documents.manifest.js?v=20260430"></script>
+    <script defer src="assets/js/documents.js?v=202604302"></script>
+    <script type="module">import { setupNavMobile } from './assets/js/nav.js'; setupNavMobile();</script>
+  </body>
+</html>

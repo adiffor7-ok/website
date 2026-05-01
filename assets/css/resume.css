@@ -1,0 +1,166 @@
+body {
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #000;
+  background: white;
+}
+
+.page {
+  max-width: 8.5in;
+  margin: 0.5in auto;
+  padding: 0.5in;
+  background: white;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+}
+
+.name {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 4px;
+  padding-bottom: 8px;
+  color: #2F4F3F;
+}
+
+.tagline {
+  font-size: 8.5pt;
+  color: #666;
+  margin-bottom: 8px;
+  text-align: center;
+}
+
+.contact-info {
+  font-size: 10pt;
+  color: #000;
+  line-height: 1.6;
+}
+
+.contact-info a {
+  color: #000;
+  text-decoration: none;
+}
+
+.contact-info a:hover {
+  text-decoration: underline;
+}
+
+h2 {
+  font-size: 11pt;
+  font-weight: 700;
+  color: #2F4F3F;
+  margin: 22px 0 12px 0;
+  border-bottom: 1.5px solid #2F4F3F;
+  padding-bottom: 4px;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+}
+
+.skill-section {
+  margin-bottom: 15px;
+}
+
+.experience-container {
+  margin-bottom: 0;
+}
+
+.skill-category {
+  font-weight: 700;
+  font-size: 10pt;
+  margin: 8px 0 4px 0;
+  color: #000;
+}
+
+ul {
+  margin: 5px 0 5px 20px;
+  padding: 0;
+}
+
+li {
+  font-size: 9.5pt;
+  line-height: 1.4;
+  margin-bottom: 1px;
+}
+
+.job-header {
+  width: 100%;
+  margin-bottom: 3px;
+}
+
+.job-header-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.company-name,
+.company {
+  font-weight: 600;
+  font-size: 10pt;
+  color: #000;
+}
+
+.job-title {
+  font-weight: 700;
+  font-size: 10pt;
+  color: #000;
+}
+
+.dates {
+  font-size: 10pt;
+  color: #666;
+}
+
+.job-header-table .dates {
+  text-align: right;
+  vertical-align: baseline;
+  padding-left: 20px;
+  white-space: nowrap;
+  color: #2F4F3F;
+}
+
+.experience-item {
+  margin-bottom: 7px;
+}
+
+.education-item {
+  margin-bottom: 10px;
+}
+
+.education-detail {
+  font-size: 10pt;
+  line-height: 1.5;
+}
+
+.redirect-note {
+  font-size: 10pt;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.redirect-note a {
+  color: #2F4F3F;
+  font-weight: 600;
+}
+
+@media print {
+  body {
+    background: white;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .page {
+    margin: 0;
+    padding: 0.5in;
+    max-width: 100%;
+  }
+
+  * {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}

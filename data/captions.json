@@ -1,0 +1,164 @@
+{
+  "photos": {
+    "dawning-wheat": {
+      "caption": "Dawning Wheat",
+      "description": "Capturing warm light to the East in my grandparent's field.",
+      "details": {
+        "camera": "Sony Alpha 7 III",
+        "lens": "Sigma 50mm f/1.4 ART",
+        "exposure": "1/25 seconds",
+        "iso": "200",
+        "aperture": "f/2"
+      }
+
+    },
+    "sunrise-panorama": {
+      "caption": "Panoramic Sunrise",
+      "description": "An image of the sunrise. 4 photos stitched together in Photoshop.",
+      "details": {
+        "camera": "Sony Alpha 7 III",
+        "lens": "Sigma 50mm f/1.4 ART",
+        "exposure": "1/125 seconds",
+        "iso": "200",
+        "aperture": "f/2"
+      }
+
+    },
+    "milky-way": {
+      "caption": "Milky Way Composite #1",
+      "description": "A view of the Milky Way looking South from my Grandparents' yard. Edited in Photoshop.",
+      "details": {
+        "camera": "Sony Alpha 7 III",
+        "lens": "Sigma 50mm f/1.4 ART",
+        "exposure": "NA- Composite",
+        "iso": "3200",
+        "aperture": "f/2.0"
+      }
+
+    },
+    "leaf-pile": {
+      "caption": "Leaf Pile",
+      "description": "We gathered lots of leaves from the street into garbage bags. Linda was curious.",
+      "details": {
+        "camera": "Canon PowerShot SD1300 IS",
+        "lens": "EF-S 18-55mm f/3.5-5.6 IS",
+        "exposure": "1 second",
+        "iso": "400",
+        "aperture": "f/2.8"
+      }
+
+    },
+    "lukas-chop": {
+      "caption": "Making a Catapult",
+      "description": "Lukas using a machete to break down a stool. We were attempting to make a catapult.",
+      "details": {
+        "camera": "Canon PowerShot SD1300 IS",
+        "lens": "EF-S 18-55mm f/3.5-5.6 IS",
+        "exposure": "1/8 second",
+        "iso": "800",
+        "aperture": "f/2.8"
+      },
+      "metadata": {}
+    },
+    "lukas-dap": {
+      "caption": "Lukas Stance",
+      "description": "Lukas posing for a photo after playing in the leaves.",
+      "details": {
+        "camera": "Canon PowerShot SD1300 IS",
+        "lens": "EF-S 18-55mm f/3.5-5.6 IS",
+        "exposure": "1 second",
+        "iso": "400",
+        "aperture": "f/2.8"
+      },
+      "metadata": {}
+    },
+    "lukas-pedalboard": {
+      "caption": "Lukas and His 'Pedalboard'",
+      "description": "An experimental photo of Lukas' pedalboard. It's made out of a shoebox!",
+      "details": {
+        "camera": "Canon PowerShot SD1300 IS",
+        "lens": "EF-S 18-55mm f/3.5-5.6 IS",
+        "exposure": "1 second",
+        "iso": "400",
+        "aperture": "f/2.8"
+      },
+      "metadata": {}
+    },
+    "room-of-ideas": {
+      "caption": "Room Of Ideas",
+      "description": "An abstract photo depicting the brilliance of the ideas that come out of Lukas' room and mind.",
+      "details": {
+        "camera": "Canon PowerShot SD1300 IS",
+        "lens": "EF-S 18-55mm f/3.5-5.6 IS",
+        "exposure": "1 second",
+        "iso": "1600",
+        "aperture": "f/2.8"
+      },
+      "metadata": {}
+    },
+    "first-show": {
+      "caption": "First Show",
+      "description": "This was the first time we held a show in the garage. We made our debut along with From Within and Monarch. They signed the wall of the garage afterward. It's still there today.",
+      "details": {
+        "camera": "Canon PowerShot SD1300 IS",
+        "lens": "EF-S 18-55mm f/3.5-5.6 IS",
+        "exposure": "1/15 second",
+        "iso": "400",
+        "aperture": "f/2.8"
+      },
+      "metadata": {}
+    },
+    "recording-in-garage": {
+      "caption": "Recording In Garage",
+      "description": "Setting up for recording in the garage.",
+      "details": {
+        "camera": "Canon PowerShot SD1300 IS",
+        "lens": "EF-S 18-55mm f/3.5-5.6 IS",
+        "exposure": "1/8 second",
+        "iso": "800",
+        "aperture": "f/2.8"
+      },
+      "metadata": {}
+    },
+    "lukas-onboard": {
+      "caption": "Ready for Recording",
+      "description": "Lukas at his workstation. We recorded a lot of music in the garage. It was his favorite spot.",
+      "details": {
+        "camera": "Canon PowerShot SD1300 IS",
+        "lens": "EF-S 18-55mm f/3.5-5.6 IS",
+        "exposure": "1/15 seconds",
+        "iso": "400",
+        "aperture": "f/2.8"
+      },
+      "metadata": {}
+    },
+    "day-after-show": {
+      "caption": "The Aftermath",
+      "description": "Taken just after the show. It doesn't capture the broken glass or the mess.",
+      "details": {
+        "camera": "Canon PowerShot SD1300 IS",
+        "lens": "EF-S 18-55mm f/3.5-5.6 IS",
+        "exposure": "1/15 seconds",
+        "iso": "400",
+        "aperture": "f/2.8"
+      },
+      "metadata": {}
+    }
+  },
+  "digital": {
+    "boat": {
+      "caption": "Digital boat study",
+      "description": "Experimenting with painterly textures.",
+      "details": {
+        "camera": "",
+        "lens": "",
+        "exposure": "",
+        "iso": "",
+        "aperture": ""
+      },
+      "metadata": {
+        "software": "Adobe Photoshop"
+      }
+    }
+  }
+}

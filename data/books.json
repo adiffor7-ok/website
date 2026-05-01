@@ -1,0 +1,173 @@
+{
+  "shelves": [
+    {
+      "id": "2026",
+      "label": "2026",
+      "books": [
+        {
+          "title": "The Glass Castle",
+          "author": "Jeanette Walls",
+          "cover": "assets/images/books/glass-castle.webp",
+          "spineColor": "#e8e5e0",
+          "widthInches": 0.25
+        },
+        {
+          "title": "Bicycling with Butterflies",
+          "author": "Sarah Dykman",
+          "spineColor": "#e95625",
+          "widthInches": 0.333333
+        },
+        {
+          "title": "Boys & Sex",
+          "author": "Peggy Orenstein",
+          "spineColor": "#0082c5",
+          "widthInches": 0.333333
+        },
+        {
+          "title": "Girls & Sex",
+          "author": "Peggy Orenstein",
+          "spineColor": "#d30b28",
+          "widthInches": 0.333333
+        },
+        {
+          "title": "Smart Sex",
+          "author": "Emily Morse",
+          "spineColor": "#b31934",
+          "widthInches": 0.333333
+        },
+        {
+          "title": "In the Garden of Desire",
+          "author": "Wendy Maltz & Suzie Boss",
+          "spineColor": "#faefcf",
+          "widthInches": 0.333333
+        }
+      ]
+    },
+    {
+      "id": "series",
+      "label": "Series",
+      "books": [
+        { "title": "The Lightning Thief", "author": "Rick Riordan", "spineColor": "#1e3a5f", "widthInches": 0.25 },
+        { "title": "The Sea of Monsters", "author": "Rick Riordan", "spineColor": "#2a4a6e", "widthInches": 0.25 },
+        { "title": "The Titan's Curse", "author": "Rick Riordan", "spineColor": "#1a3350", "widthInches": 0.25 },
+        { "title": "The Battle of the Labyrinth", "author": "Rick Riordan", "spineColor": "#243d5c", "widthInches": 0.25 },
+        { "title": "The Last Olympian", "author": "Rick Riordan", "spineColor": "#163048", "widthInches": 0.25 },
+        { "title": "The Lost Hero", "author": "Rick Riordan", "spineColor": "#3d2a1f", "widthInches": 0.25 },
+        { "title": "The Son of Neptune", "author": "Rick Riordan", "spineColor": "#4a3228", "widthInches": 0.25 },
+        { "title": "The Mark of Athena", "author": "Rick Riordan", "spineColor": "#352418", "widthInches": 0.25 },
+        { "title": "The House of Hades", "author": "Rick Riordan", "spineColor": "#2d1f15", "widthInches": 0.25 },
+        { "title": "The Blood of Olympus", "author": "Rick Riordan", "spineColor": "#3a281c", "widthInches": 0.25 },
+        { "title": "The Maze Runner", "author": "James Dashner", "spineColor": "#3a3a3a", "widthInches": 0.25 },
+        { "title": "The Scorch Trials", "author": "James Dashner", "spineColor": "#2f2f2f", "widthInches": 0.25 },
+        { "title": "The Death Cure", "author": "James Dashner", "spineColor": "#454545", "widthInches": 0.25 },
+        { "title": "The Kill Order", "author": "James Dashner", "spineColor": "#383838", "widthInches": 0.25 },
+        { "title": "The Fever Code", "author": "James Dashner", "spineColor": "#333333", "widthInches": 0.25 },
+        { "title": "The Hunger Games", "author": "Suzanne Collins", "spineColor": "#8b4513", "widthInches": 0.25 },
+        { "title": "Catching Fire", "author": "Suzanne Collins", "spineColor": "#a0522d", "widthInches": 0.25 },
+        { "title": "Mockingjay", "author": "Suzanne Collins", "spineColor": "#6b3410", "widthInches": 0.25 }
+      ]
+    },
+    {
+      "id": "series-2",
+      "label": "Series",
+      "hidePlaque": true,
+      "books": [
+        { "title": "Harry Potter and the Philosopher's Stone", "author": "J.K. Rowling", "spineColor": "#5c2d7a", "widthInches": 0.25 },
+        { "title": "Harry Potter and the Chamber of Secrets", "author": "J.K. Rowling", "spineColor": "#6b3588", "widthInches": 0.25 },
+        { "title": "Harry Potter and the Prisoner of Azkaban", "author": "J.K. Rowling", "spineColor": "#4a2460", "widthInches": 0.25 },
+        { "title": "Harry Potter and the Goblet of Fire", "author": "J.K. Rowling", "spineColor": "#7a3d95", "widthInches": 0.25 },
+        { "title": "Harry Potter and the Order of the Phoenix", "author": "J.K. Rowling", "spineColor": "#552970", "widthInches": 0.25 },
+        { "title": "Harry Potter and the Half-Blood Prince", "author": "J.K. Rowling", "spineColor": "#633080", "widthInches": 0.25 },
+        { "title": "Harry Potter and the Deathly Hallows", "author": "J.K. Rowling", "spineColor": "#4a1f5c", "widthInches": 0.25 },
+        { "title": "The Fellowship of the Ring", "author": "J.R.R. Tolkien", "spineColor": "#2d4a2d", "widthInches": 0.25 },
+        { "title": "The Two Towers", "author": "J.R.R. Tolkien", "spineColor": "#355035", "widthInches": 0.25 },
+        { "title": "The Return of the King", "author": "J.R.R. Tolkien", "spineColor": "#283828", "widthInches": 0.25 },
+        { "title": "The Lion, the Witch and the Wardrobe", "author": "C.S. Lewis", "spineColor": "#6b4423", "widthInches": 0.25 },
+        { "title": "Prince Caspian", "author": "C.S. Lewis", "spineColor": "#7a5030", "widthInches": 0.25 },
+        { "title": "The Voyage of the Dawn Treader", "author": "C.S. Lewis", "spineColor": "#5c3818", "widthInches": 0.25 },
+        { "title": "The Silver Chair", "author": "C.S. Lewis", "spineColor": "#4a3010", "widthInches": 0.25 },
+        { "title": "The Horse and His Boy", "author": "C.S. Lewis", "spineColor": "#8b5a2b", "widthInches": 0.25 },
+        { "title": "The Magician's Nephew", "author": "C.S. Lewis", "spineColor": "#5a3d22", "widthInches": 0.25 },
+        { "title": "The Last Battle", "author": "C.S. Lewis", "spineColor": "#3d2815", "widthInches": 0.25 }
+      ]
+    },
+    {
+      "id": "series-3",
+      "label": "Series",
+      "hidePlaque": true,
+      "books": [
+        { "title": "Relic", "author": "Douglas Preston & Lincoln Child", "spineColor": "#1a2f3d", "widthInches": 0.25 },
+        { "title": "Reliquary", "author": "Douglas Preston & Lincoln Child", "spineColor": "#243a4a", "widthInches": 0.25 },
+        { "title": "The Cabinet of Curiosities", "author": "Douglas Preston & Lincoln Child", "spineColor": "#1e3542", "widthInches": 0.25 },
+        { "title": "Still Life with Crows", "author": "Douglas Preston & Lincoln Child", "spineColor": "#2a3d4f", "widthInches": 0.25 },
+        { "title": "Brimstone", "author": "Douglas Preston & Lincoln Child", "spineColor": "#1f2e38", "widthInches": 0.25 },
+        { "title": "Dance of Death", "author": "Douglas Preston & Lincoln Child", "spineColor": "#253545", "widthInches": 0.25 },
+        { "title": "The Book of the Dead", "author": "Douglas Preston & Lincoln Child", "spineColor": "#1a2832", "widthInches": 0.25 },
+        { "title": "The Wheel of Darkness", "author": "Douglas Preston & Lincoln Child", "spineColor": "#223848", "widthInches": 0.25 },
+        { "title": "Cemetery Dance", "author": "Douglas Preston & Lincoln Child", "spineColor": "#2d3f50", "widthInches": 0.25 },
+        { "title": "Fever Dream", "author": "Douglas Preston & Lincoln Child", "spineColor": "#182830", "widthInches": 0.25 },
+        { "title": "Cold Vengeance", "author": "Douglas Preston & Lincoln Child", "spineColor": "#1e3644", "widthInches": 0.25 },
+        { "title": "Two Graves", "author": "Douglas Preston & Lincoln Child", "spineColor": "#263a48", "widthInches": 0.25 },
+        { "title": "White Fire", "author": "Douglas Preston & Lincoln Child", "spineColor": "#2a4050", "widthInches": 0.25 },
+        { "title": "Blue Labyrinth", "author": "Douglas Preston & Lincoln Child", "spineColor": "#1c3040", "widthInches": 0.25 },
+        { "title": "Crimson Shore", "author": "Douglas Preston & Lincoln Child", "spineColor": "#3a2830", "widthInches": 0.25 },
+        { "title": "Beyond the Ice Limit", "author": "Douglas Preston & Lincoln Child", "spineColor": "#1f3545", "widthInches": 0.25 },
+        { "title": "The Obsidian Chamber", "author": "Douglas Preston & Lincoln Child", "spineColor": "#223848", "widthInches": 0.25 },
+        { "title": "City of Endless Night", "author": "Douglas Preston & Lincoln Child", "spineColor": "#182a36", "widthInches": 0.25 }
+      ]
+    },
+    {
+      "id": "series-4",
+      "label": "Series",
+      "hidePlaque": true,
+      "books": [
+        { "title": "Verses for the Dead", "author": "Douglas Preston & Lincoln Child", "spineColor": "#243848", "widthInches": 0.25 },
+        { "title": "Crooked River", "author": "Douglas Preston & Lincoln Child", "spineColor": "#1e3442", "widthInches": 0.25 },
+        { "title": "Bloodless", "author": "Douglas Preston & Lincoln Child", "spineColor": "#2a1820", "widthInches": 0.25 },
+        { "title": "The Cabinet of Dr. Leng", "author": "Douglas Preston & Lincoln Child", "spineColor": "#1a2834", "widthInches": 0.25 },
+        { "title": "Angel of Vengeance", "author": "Douglas Preston & Lincoln Child", "spineColor": "#283848", "widthInches": 0.25 }
+      ]
+    },
+    {
+      "id": "philosophy-spiritual",
+      "label": "Philosophy & Spiritual Works",
+      "books": [
+        { "title": "The Bible", "author": "Many authors", "spineColor": "#2a1810", "widthInches": 0.333333 },
+        { "title": "Journey into Oneness", "author": "Michael J. Roads", "spineColor": "#4a6b8c", "widthInches": 0.25 },
+        { "title": "The Alchemist", "author": "Paulo Coelho", "spineColor": "#c9a227", "widthInches": 0.25 },
+        { "title": "The Art of Solitude", "author": "Stephen Batchelor", "spineColor": "#3d4f5c", "widthInches": 0.25 },
+        { "title": "The Untethered Soul", "author": "Michael A. Singer", "spineColor": "#5c4a6b", "widthInches": 0.25 },
+        { "title": "The Doors of Perception", "author": "Aldous Huxley", "spineColor": "#6b3d4a", "widthInches": 0.25 },
+        { "title": "Black", "author": "Ted Dekker", "spineColor": "#141414", "widthInches": 0.25 },
+        { "title": "Red", "author": "Ted Dekker", "spineColor": "#6b1518", "widthInches": 0.25 },
+        { "title": "White", "author": "Ted Dekker", "spineColor": "#dcd6cc", "widthInches": 0.25 },
+        { "title": "Green", "author": "Ted Dekker", "spineColor": "#1a4a30", "widthInches": 0.25 },
+        { "title": "This Present Darkness", "author": "Frank E. Peretti", "spineColor": "#2a221c", "widthInches": 0.25 },
+        { "title": "Piercing the Darkness", "author": "Frank E. Peretti", "spineColor": "#322a24", "widthInches": 0.25 }
+      ]
+    },
+    { "id": "emotional-growth", "label": "Emotional Growth", "books": [] },
+    {
+      "id": "discipline-crafts",
+      "label": "Discipline & Crafts",
+      "books": [
+        { "title": "The 4-Hour Workweek", "author": "Timothy Ferriss", "spineColor": "#1a4d3a", "widthInches": 0.25 },
+        { "title": "The Subtle Art of Not Giving a Fuck", "author": "Mark Manson", "spineColor": "#1f1f1f", "widthInches": 0.25 }
+      ]
+    },
+    {
+      "id": "art",
+      "label": "Art",
+      "books": [
+        { "title": "This Is Your Brain on Music", "author": "Daniel J. Levitin", "spineColor": "#3d2d4a", "widthInches": 0.25 },
+        { "title": "Song and Wind", "author": "Arnold Jacobs", "spineColor": "#2a3d52", "widthInches": 0.25 },
+        { "title": "The Art of French Horn Playing", "author": "Philip Farkas", "spineColor": "#5c4a38", "widthInches": 0.25 },
+        { "title": "The Creative Act", "author": "Rick Rubin", "spineColor": "#e8e4dc", "widthInches": 0.25 }
+      ]
+    }
+  ],
+  "currentlyReading": {
+    "shelfId": "2026",
+    "title": "The Glass Castle"
+  }
+}

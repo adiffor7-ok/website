@@ -1,0 +1,3031 @@
+{
+  "generatedAt": "2026-04-27T18:42:23.032817+00:00",
+  "count": 156,
+  "images": [
+    {
+      "id": "bokeh-edit-13",
+      "thumbnail": "content/photos/albums/Bokeh/edit-13-thumb.webp",
+      "full": "content/photos/albums/Bokeh/edit-13.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-13.webp",
+        "type": "image"
+      },
+      "caption": "Edit 13",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "bokeh-edit-15",
+      "thumbnail": "content/photos/albums/Bokeh/edit-15-thumb.webp",
+      "full": "content/photos/albums/Bokeh/edit-15.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-15.webp",
+        "type": "image"
+      },
+      "caption": "Edit 15",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "bokeh-edit-20",
+      "thumbnail": "content/photos/albums/Bokeh/edit-20-thumb.webp",
+      "full": "content/photos/albums/Bokeh/edit-20.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-20.webp",
+        "type": "image"
+      },
+      "caption": "Edit 20",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "bokeh-stick-e",
+      "thumbnail": "content/photos/albums/Bokeh/stick-e-thumb.webp",
+      "full": "content/photos/albums/Bokeh/stick-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "stick-e.webp",
+        "type": "image"
+      },
+      "caption": "Stick E",
+      "description": "",
+      "orientation": "landscape",
+      "hover": "content/photos/albums/Bokeh/stick-ue.webp"
+    },
+    {
+      "id": "cars-bmw-bmw-e",
+      "thumbnail": "content/photos/albums/Cars/BMW/bmw-e-thumb.webp",
+      "full": "content/photos/albums/Cars/BMW/bmw-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "bmw-e.webp",
+        "type": "image"
+      },
+      "caption": "Bmw E",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "cars-bmw-bmw-ii",
+      "thumbnail": "content/photos/albums/Cars/BMW/bmw-ii-thumb.webp",
+      "full": "content/photos/albums/Cars/BMW/bmw-ii.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "bmw-ii.webp",
+        "type": "image"
+      },
+      "caption": "Bmw Ii",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "cars-bmw-bmw-iii",
+      "thumbnail": "content/photos/albums/Cars/BMW/bmw-iii-thumb.webp",
+      "full": "content/photos/albums/Cars/BMW/bmw-iii.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "bmw-iii.webp",
+        "type": "image"
+      },
+      "caption": "Bmw Iii",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "cars-bmw-bmw-iv",
+      "thumbnail": "content/photos/albums/Cars/BMW/bmw-iv-thumb.webp",
+      "full": "content/photos/albums/Cars/BMW/bmw-iv.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "bmw-iv.webp",
+        "type": "image"
+      },
+      "caption": "Bmw Iv",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "cars-bmw-bmw-rocket-e",
+      "thumbnail": "content/photos/albums/Cars/BMW/bmw-rocket-e-thumb.webp",
+      "full": "content/photos/albums/Cars/BMW/bmw-rocket-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "bmw-rocket-e.webp",
+        "type": "image"
+      },
+      "caption": "Bmw Rocket E",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-24-disk-art-slight-fade-large",
+      "thumbnail": "content/photos/albums/Digital Art/24-disk-art-slight-fade-large-thumb.webp",
+      "full": "content/photos/albums/Digital Art/24-disk-art-slight-fade-large.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "24-disk-art-slight-fade-large.webp",
+        "type": "image"
+      },
+      "caption": "24 Disk Art Slight Fade Large",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-24-pack-print",
+      "thumbnail": "content/photos/albums/Digital Art/24-pack-print-thumb.webp",
+      "full": "content/photos/albums/Digital Art/24-pack-print.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "24-pack-print.webp",
+        "type": "image"
+      },
+      "caption": "24 Pack Print",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-artwork-1",
+      "thumbnail": "content/photos/albums/Digital Art/artwork-1-thumb.webp",
+      "full": "content/photos/albums/Digital Art/artwork-1.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "artwork-1.webp",
+        "type": "image"
+      },
+      "caption": "Artwork 1",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-balm-ii",
+      "thumbnail": "content/photos/albums/Digital Art/balm-ii-thumb.webp",
+      "full": "content/photos/albums/Digital Art/balm-ii.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "balm-ii.webp",
+        "type": "image"
+      },
+      "caption": "Balm Ii",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-bookshelf",
+      "thumbnail": "content/photos/albums/Digital Art/bookshelf-thumb.webp",
+      "full": "content/photos/albums/Digital Art/bookshelf.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "bookshelf.webp",
+        "type": "image"
+      },
+      "caption": "Bookshelf",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-cloud-over-2",
+      "thumbnail": "content/photos/albums/Digital Art/cloud-over-2-thumb.webp",
+      "full": "content/photos/albums/Digital Art/cloud-over-2.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "cloud-over-2.webp",
+        "type": "image"
+      },
+      "caption": "Cloud Over 2",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-dawn-ii",
+      "thumbnail": "content/photos/albums/Digital Art/dawn-ii-thumb.webp",
+      "full": "content/photos/albums/Digital Art/dawn-ii.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "dawn-ii.webp",
+        "type": "image"
+      },
+      "caption": "Dawn Ii",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-earthday-e",
+      "thumbnail": "content/photos/albums/Digital Art/earthday-e-thumb.webp",
+      "full": "content/photos/albums/Digital Art/earthday-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "earthday-e.webp",
+        "type": "image"
+      },
+      "caption": "Earthday E",
+      "description": "",
+      "orientation": "landscape",
+      "hover": "content/photos/albums/Digital Art/earthday-ue.webp"
+    },
+    {
+      "id": "digital-art-edit1fade",
+      "thumbnail": "content/photos/albums/Digital Art/edit1fade-thumb.webp",
+      "full": "content/photos/albums/Digital Art/edit1fade.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit1fade.webp",
+        "type": "image"
+      },
+      "caption": "Edit1Fade",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-fissure-i",
+      "thumbnail": "content/photos/albums/Digital Art/fissure-i-thumb.webp",
+      "full": "content/photos/albums/Digital Art/fissure-i.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "fissure-i.webp",
+        "type": "image"
+      },
+      "caption": "Fissure I",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-fractal-1",
+      "thumbnail": "content/photos/albums/Digital Art/fractal-1-thumb.webp",
+      "full": "content/photos/albums/Digital Art/fractal-1.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "fractal-1.webp",
+        "type": "image"
+      },
+      "caption": "Fractal 1",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-fractal-7",
+      "thumbnail": "content/photos/albums/Digital Art/fractal-7-thumb.webp",
+      "full": "content/photos/albums/Digital Art/fractal-7.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "fractal-7.webp",
+        "type": "image"
+      },
+      "caption": "Fractal 7",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-idhta",
+      "thumbnail": "content/photos/albums/Digital Art/idhta-thumb.webp",
+      "full": "content/photos/albums/Digital Art/idhta.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "idhta.webp",
+        "type": "image"
+      },
+      "caption": "Idhta",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-idhta-iib",
+      "thumbnail": "content/photos/albums/Digital Art/idhta-iib-thumb.webp",
+      "full": "content/photos/albums/Digital Art/idhta-iib.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "idhta-iib.webp",
+        "type": "image"
+      },
+      "caption": "Idhta Iib",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-img-0009",
+      "thumbnail": "content/photos/albums/Digital Art/img_0009-thumb.webp",
+      "full": "content/photos/albums/Digital Art/img_0009.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "img_0009.webp",
+        "type": "image"
+      },
+      "caption": "Img 0009",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-img-0106",
+      "thumbnail": "content/photos/albums/Digital Art/img_0106-thumb.webp",
+      "full": "content/photos/albums/Digital Art/img_0106.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "img_0106.webp",
+        "type": "image"
+      },
+      "caption": "Img 0106",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-img-0116",
+      "thumbnail": "content/photos/albums/Digital Art/img_0116-thumb.webp",
+      "full": "content/photos/albums/Digital Art/img_0116.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "img_0116.webp",
+        "type": "image"
+      },
+      "caption": "Img 0116",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-img-0135",
+      "thumbnail": "content/photos/albums/Digital Art/img_0135-thumb.webp",
+      "full": "content/photos/albums/Digital Art/img_0135.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "img_0135.webp",
+        "type": "image"
+      },
+      "caption": "Img 0135",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-img-0761",
+      "thumbnail": "content/photos/albums/Digital Art/img_0761-thumb.webp",
+      "full": "content/photos/albums/Digital Art/img_0761.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "img_0761.webp",
+        "type": "image"
+      },
+      "caption": "Img 0761",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-ing-front-noise",
+      "thumbnail": "content/photos/albums/Digital Art/ing-front-noise-thumb.webp",
+      "full": "content/photos/albums/Digital Art/ing-front-noise.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "ing-front-noise.webp",
+        "type": "image"
+      },
+      "caption": "Ing Front Noise",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-lauren-e",
+      "thumbnail": "content/photos/albums/Digital Art/lauren-e-thumb.webp",
+      "full": "content/photos/albums/Digital Art/lauren-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "lauren-e.webp",
+        "type": "image"
+      },
+      "caption": "Lauren E",
+      "description": "",
+      "orientation": "landscape",
+      "hover": "content/photos/albums/Digital Art/lauren-ue.webp"
+    },
+    {
+      "id": "digital-art-lauren-ii-e",
+      "thumbnail": "content/photos/albums/Digital Art/lauren-ii-e-thumb.webp",
+      "full": "content/photos/albums/Digital Art/lauren-ii-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "lauren-ii-e.webp",
+        "type": "image"
+      },
+      "caption": "Lauren Ii E",
+      "description": "",
+      "orientation": "landscape",
+      "hover": "content/photos/albums/Digital Art/lauren-ii-ue.webp"
+    },
+    {
+      "id": "digital-art-midi-prisms",
+      "thumbnail": "content/photos/albums/Digital Art/midi-prisms-thumb.webp",
+      "full": "content/photos/albums/Digital Art/midi-prisms.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "midi-prisms.webp",
+        "type": "image"
+      },
+      "caption": "Midi Prisms",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-mpso1218",
+      "thumbnail": "content/photos/albums/Digital Art/mpso1218-thumb.webp",
+      "full": "content/photos/albums/Digital Art/mpso1218.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "mpso1218.webp",
+        "type": "image"
+      },
+      "caption": "Mpso1218",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-mrj-shirt-01",
+      "thumbnail": "content/photos/albums/Digital Art/mrj-shirt-01-thumb.webp",
+      "full": "content/photos/albums/Digital Art/mrj-shirt-01.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "mrj-shirt-01.webp",
+        "type": "image"
+      },
+      "caption": "Mrj Shirt 01",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-night-candy-cover-larger",
+      "thumbnail": "content/photos/albums/Digital Art/night-candy-cover-larger-thumb.webp",
+      "full": "content/photos/albums/Digital Art/night-candy-cover-larger.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "night-candy-cover-larger.webp",
+        "type": "image"
+      },
+      "caption": "Night Candy Cover Larger",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-oudi1215",
+      "thumbnail": "content/photos/albums/Digital Art/oudi1215-thumb.webp",
+      "full": "content/photos/albums/Digital Art/oudi1215.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "oudi1215.webp",
+        "type": "image"
+      },
+      "caption": "Oudi1215",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-poly-ep",
+      "thumbnail": "content/photos/albums/Digital Art/poly-ep-thumb.webp",
+      "full": "content/photos/albums/Digital Art/poly-ep.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "poly-ep.webp",
+        "type": "image"
+      },
+      "caption": "Poly Ep",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-poly-ii",
+      "thumbnail": "content/photos/albums/Digital Art/poly-ii-thumb.webp",
+      "full": "content/photos/albums/Digital Art/poly-ii.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "poly-ii.webp",
+        "type": "image"
+      },
+      "caption": "Poly Ii",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-pxcv3618",
+      "thumbnail": "content/photos/albums/Digital Art/pxcv3618-thumb.webp",
+      "full": "content/photos/albums/Digital Art/pxcv3618.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "pxcv3618.webp",
+        "type": "image"
+      },
+      "caption": "Pxcv3618",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-spot-hp",
+      "thumbnail": "content/photos/albums/Digital Art/spot-hp-thumb.webp",
+      "full": "content/photos/albums/Digital Art/spot-hp.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "spot-hp.webp",
+        "type": "image"
+      },
+      "caption": "Spot Hp",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-spot-lotr",
+      "thumbnail": "content/photos/albums/Digital Art/spot-lotr-thumb.webp",
+      "full": "content/photos/albums/Digital Art/spot-lotr.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "spot-lotr.webp",
+        "type": "image"
+      },
+      "caption": "Spot Lotr",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-spot-meteor",
+      "thumbnail": "content/photos/albums/Digital Art/spot-meteor-thumb.webp",
+      "full": "content/photos/albums/Digital Art/spot-meteor.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "spot-meteor.webp",
+        "type": "image"
+      },
+      "caption": "Spot Meteor",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-spot-synths-i",
+      "thumbnail": "content/photos/albums/Digital Art/spot-synths-i-thumb.webp",
+      "full": "content/photos/albums/Digital Art/spot-synths-i.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "spot-synths-i.webp",
+        "type": "image"
+      },
+      "caption": "Spot Synths I",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-spot-synths-ii",
+      "thumbnail": "content/photos/albums/Digital Art/spot-synths-ii-thumb.webp",
+      "full": "content/photos/albums/Digital Art/spot-synths-ii.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "spot-synths-ii.webp",
+        "type": "image"
+      },
+      "caption": "Spot Synths Ii",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-spot-synths-iii",
+      "thumbnail": "content/photos/albums/Digital Art/spot-synths-iii-thumb.webp",
+      "full": "content/photos/albums/Digital Art/spot-synths-iii.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "spot-synths-iii.webp",
+        "type": "image"
+      },
+      "caption": "Spot Synths Iii",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-tributes-e-i",
+      "thumbnail": "content/photos/albums/Digital Art/tributes-e-i-thumb.webp",
+      "full": "content/photos/albums/Digital Art/tributes-e-i.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "tributes-e-i.webp",
+        "type": "image"
+      },
+      "caption": "Tributes E I",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-tributes-ii",
+      "thumbnail": "content/photos/albums/Digital Art/tributes-ii-thumb.webp",
+      "full": "content/photos/albums/Digital Art/tributes-ii.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "tributes-ii.webp",
+        "type": "image"
+      },
+      "caption": "Tributes Ii",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-tributes-iii",
+      "thumbnail": "content/photos/albums/Digital Art/tributes-iii-thumb.webp",
+      "full": "content/photos/albums/Digital Art/tributes-iii.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "tributes-iii.webp",
+        "type": "image"
+      },
+      "caption": "Tributes Iii",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-watty",
+      "thumbnail": "content/photos/albums/Digital Art/watty-thumb.webp",
+      "full": "content/photos/albums/Digital Art/watty.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "watty.webp",
+        "type": "image"
+      },
+      "caption": "Watty",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "digital-art-xerophthalmia",
+      "thumbnail": "content/photos/albums/Digital Art/xerophthalmia-thumb.webp",
+      "full": "content/photos/albums/Digital Art/xerophthalmia.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "xerophthalmia.webp",
+        "type": "image"
+      },
+      "caption": "Xerophthalmia",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-2021-11-30-230755",
+      "thumbnail": "content/photos/albums/Minecraft/2021-11-30_230755-thumb.webp",
+      "full": "content/photos/albums/Minecraft/2021-11-30_230755.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "2021-11-30_230755.webp",
+        "type": "image"
+      },
+      "caption": "2021 11 30 230755",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-2021-12-22-213311",
+      "thumbnail": "content/photos/albums/Minecraft/2021-12-22_213311-thumb.webp",
+      "full": "content/photos/albums/Minecraft/2021-12-22_213311.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "2021-12-22_213311.webp",
+        "type": "image"
+      },
+      "caption": "2021 12 22 213311",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-2021-12-23-234002",
+      "thumbnail": "content/photos/albums/Minecraft/2021-12-23_234002-thumb.webp",
+      "full": "content/photos/albums/Minecraft/2021-12-23_234002.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "2021-12-23_234002.webp",
+        "type": "image"
+      },
+      "caption": "2021 12 23 234002",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-2022-07-10-130712",
+      "thumbnail": "content/photos/albums/Minecraft/2022-07-10_130712-thumb.webp",
+      "full": "content/photos/albums/Minecraft/2022-07-10_130712.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "2022-07-10_130712.webp",
+        "type": "image"
+      },
+      "caption": "2022 07 10 130712",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-2022-07-17-110139",
+      "thumbnail": "content/photos/albums/Minecraft/2022-07-17_110139-thumb.webp",
+      "full": "content/photos/albums/Minecraft/2022-07-17_110139.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "2022-07-17_110139.webp",
+        "type": "image"
+      },
+      "caption": "2022 07 17 110139",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-2022-09-17-113619",
+      "thumbnail": "content/photos/albums/Minecraft/2022-09-17_113619-thumb.webp",
+      "full": "content/photos/albums/Minecraft/2022-09-17_113619.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "2022-09-17_113619.webp",
+        "type": "image"
+      },
+      "caption": "2022 09 17 113619",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-2022-09-24-102506",
+      "thumbnail": "content/photos/albums/Minecraft/2022-09-24_102506-thumb.webp",
+      "full": "content/photos/albums/Minecraft/2022-09-24_102506.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "2022-09-24_102506.webp",
+        "type": "image"
+      },
+      "caption": "2022 09 24 102506",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-2022-10-03-155551",
+      "thumbnail": "content/photos/albums/Minecraft/2022-10-03_155551-thumb.webp",
+      "full": "content/photos/albums/Minecraft/2022-10-03_155551.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "2022-10-03_155551.webp",
+        "type": "image"
+      },
+      "caption": "2022 10 03 155551",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-2022-10-08-152259",
+      "thumbnail": "content/photos/albums/Minecraft/2022-10-08_152259-thumb.webp",
+      "full": "content/photos/albums/Minecraft/2022-10-08_152259.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "2022-10-08_152259.webp",
+        "type": "image"
+      },
+      "caption": "2022 10 08 152259",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-2022-10-09-105733",
+      "thumbnail": "content/photos/albums/Minecraft/2022-10-09_105733-thumb.webp",
+      "full": "content/photos/albums/Minecraft/2022-10-09_105733.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "2022-10-09_105733.webp",
+        "type": "image"
+      },
+      "caption": "2022 10 09 105733",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-2022-10-31-143045",
+      "thumbnail": "content/photos/albums/Minecraft/2022-10-31_143045-thumb.webp",
+      "full": "content/photos/albums/Minecraft/2022-10-31_143045.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "2022-10-31_143045.webp",
+        "type": "image"
+      },
+      "caption": "2022 10 31 143045",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-2022-10-31-221127",
+      "thumbnail": "content/photos/albums/Minecraft/2022-10-31_221127-thumb.webp",
+      "full": "content/photos/albums/Minecraft/2022-10-31_221127.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "2022-10-31_221127.webp",
+        "type": "image"
+      },
+      "caption": "2022 10 31 221127",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-2024-06-29-133543",
+      "thumbnail": "content/photos/albums/Minecraft/2024-06-29_133543-thumb.webp",
+      "full": "content/photos/albums/Minecraft/2024-06-29_133543.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "2024-06-29_133543.webp",
+        "type": "image"
+      },
+      "caption": "2024 06 29 133543",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-2025-05-24-152124",
+      "thumbnail": "content/photos/albums/Minecraft/2025-05-24_152124-thumb.webp",
+      "full": "content/photos/albums/Minecraft/2025-05-24_152124.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "2025-05-24_152124.webp",
+        "type": "image"
+      },
+      "caption": "2025 05 24 152124",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-2025-05-24-231624",
+      "thumbnail": "content/photos/albums/Minecraft/2025-05-24_231624-thumb.webp",
+      "full": "content/photos/albums/Minecraft/2025-05-24_231624.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "2025-05-24_231624.webp",
+        "type": "image"
+      },
+      "caption": "2025 05 24 231624",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-2026-02-04-223520",
+      "thumbnail": "content/photos/albums/Minecraft/2026-02-04_223520-thumb.webp",
+      "full": "content/photos/albums/Minecraft/2026-02-04_223520.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "2026-02-04_223520.webp",
+        "type": "image"
+      },
+      "caption": "2026 02 04 223520",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-2026-02-04-225626",
+      "thumbnail": "content/photos/albums/Minecraft/2026-02-04_225626-thumb.webp",
+      "full": "content/photos/albums/Minecraft/2026-02-04_225626.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "2026-02-04_225626.webp",
+        "type": "image"
+      },
+      "caption": "2026 02 04 225626",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-2026-02-06-140722",
+      "thumbnail": "content/photos/albums/Minecraft/2026-02-06_140722-thumb.webp",
+      "full": "content/photos/albums/Minecraft/2026-02-06_140722.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "2026-02-06_140722.webp",
+        "type": "image"
+      },
+      "caption": "2026 02 06 140722",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-2026-02-07-224407",
+      "thumbnail": "content/photos/albums/Minecraft/2026-02-07_224407-thumb.webp",
+      "full": "content/photos/albums/Minecraft/2026-02-07_224407.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "2026-02-07_224407.webp",
+        "type": "image"
+      },
+      "caption": "2026 02 07 224407",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-2026-02-07-224429",
+      "thumbnail": "content/photos/albums/Minecraft/2026-02-07_224429-thumb.webp",
+      "full": "content/photos/albums/Minecraft/2026-02-07_224429.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "2026-02-07_224429.webp",
+        "type": "image"
+      },
+      "caption": "2026 02 07 224429",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-2026-02-08-000447",
+      "thumbnail": "content/photos/albums/Minecraft/2026-02-08_000447-thumb.webp",
+      "full": "content/photos/albums/Minecraft/2026-02-08_000447.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "2026-02-08_000447.webp",
+        "type": "image"
+      },
+      "caption": "2026 02 08 000447",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-2026-02-08-000458",
+      "thumbnail": "content/photos/albums/Minecraft/2026-02-08_000458-thumb.webp",
+      "full": "content/photos/albums/Minecraft/2026-02-08_000458.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "2026-02-08_000458.webp",
+        "type": "image"
+      },
+      "caption": "2026 02 08 000458",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-2026-02-10-200156",
+      "thumbnail": "content/photos/albums/Minecraft/2026-02-10_200156-thumb.webp",
+      "full": "content/photos/albums/Minecraft/2026-02-10_200156.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "2026-02-10_200156.webp",
+        "type": "image"
+      },
+      "caption": "2026 02 10 200156",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-2026-02-21-005701",
+      "thumbnail": "content/photos/albums/Minecraft/2026-02-21_005701-thumb.webp",
+      "full": "content/photos/albums/Minecraft/2026-02-21_005701.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "2026-02-21_005701.webp",
+        "type": "image"
+      },
+      "caption": "2026 02 21 005701",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-aixj6543",
+      "thumbnail": "content/photos/albums/Minecraft/aixj6543-thumb.webp",
+      "full": "content/photos/albums/Minecraft/aixj6543.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "aixj6543.webp",
+        "type": "image"
+      },
+      "caption": "Aixj6543",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-img-2862",
+      "thumbnail": "content/photos/albums/Minecraft/img_2862-thumb.webp",
+      "full": "content/photos/albums/Minecraft/img_2862.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "img_2862.webp",
+        "type": "image"
+      },
+      "caption": "Img 2862",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-minecraft-gui-v004",
+      "thumbnail": "content/photos/albums/Minecraft/minecraft-gui-v004-thumb.webp",
+      "full": "content/photos/albums/Minecraft/minecraft-gui-v004.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "minecraft-gui-v004.webp",
+        "type": "image"
+      },
+      "caption": "Minecraft Gui V004",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-minecraft-screen2",
+      "thumbnail": "content/photos/albums/Minecraft/minecraft-screen2-thumb.webp",
+      "full": "content/photos/albums/Minecraft/minecraft-screen2.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "minecraft-screen2.webp",
+        "type": "image"
+      },
+      "caption": "Minecraft Screen2",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-minecraft-shot",
+      "thumbnail": "content/photos/albums/Minecraft/minecraft-shot-thumb.webp",
+      "full": "content/photos/albums/Minecraft/minecraft-shot.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "minecraft-shot.webp",
+        "type": "image"
+      },
+      "caption": "Minecraft Shot",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-qzmc9165",
+      "thumbnail": "content/photos/albums/Minecraft/qzmc9165-thumb.webp",
+      "full": "content/photos/albums/Minecraft/qzmc9165.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "qzmc9165.webp",
+        "type": "image"
+      },
+      "caption": "Qzmc9165",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "minecraft-tpte1981",
+      "thumbnail": "content/photos/albums/Minecraft/tpte1981-thumb.webp",
+      "full": "content/photos/albums/Minecraft/tpte1981.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "tpte1981.webp",
+        "type": "image"
+      },
+      "caption": "Tpte1981",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "nature-fire-edit-10",
+      "thumbnail": "content/photos/albums/Nature/Fire/edit-10-thumb.webp",
+      "full": "content/photos/albums/Nature/Fire/edit-10.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-10.webp",
+        "type": "image"
+      },
+      "caption": "Edit 10",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "nature-fire-edit-150",
+      "thumbnail": "content/photos/albums/Nature/Fire/edit-150-thumb.webp",
+      "full": "content/photos/albums/Nature/Fire/edit-150.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-150.webp",
+        "type": "image"
+      },
+      "caption": "Edit 150",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "nature-fire-edit-71",
+      "thumbnail": "content/photos/albums/Nature/Fire/edit-71-thumb.webp",
+      "full": "content/photos/albums/Nature/Fire/edit-71.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-71.webp",
+        "type": "image"
+      },
+      "caption": "Edit 71",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "nature-lightning-lightning-e",
+      "thumbnail": "content/photos/albums/Nature/Lightning/lightning-e-thumb.webp",
+      "full": "content/photos/albums/Nature/Lightning/lightning-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "lightning-e.webp",
+        "type": "image"
+      },
+      "caption": "Lightning E",
+      "description": "",
+      "orientation": "landscape",
+      "hover": "content/photos/albums/Nature/Lightning/lightning-ue.webp"
+    },
+    {
+      "id": "nature-lightning-lightning-ii-e",
+      "thumbnail": "content/photos/albums/Nature/Lightning/lightning-ii-e-thumb.webp",
+      "full": "content/photos/albums/Nature/Lightning/lightning-ii-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "lightning-ii-e.webp",
+        "type": "image"
+      },
+      "caption": "Lightning Ii E",
+      "description": "",
+      "orientation": "landscape",
+      "hover": "content/photos/albums/Nature/Lightning/lightning-ii-ue.webp"
+    },
+    {
+      "id": "nature-lightning-lightning-iii-e",
+      "thumbnail": "content/photos/albums/Nature/Lightning/lightning-iii-e-thumb.webp",
+      "full": "content/photos/albums/Nature/Lightning/lightning-iii-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "lightning-iii-e.webp",
+        "type": "image"
+      },
+      "caption": "Lightning Iii E",
+      "description": "",
+      "orientation": "landscape",
+      "hover": "content/photos/albums/Nature/Lightning/lightning-iii-ue.webp"
+    },
+    {
+      "id": "nature-macros-dand-e",
+      "thumbnail": "content/photos/albums/Nature/Macros/dand-e-thumb.webp",
+      "full": "content/photos/albums/Nature/Macros/dand-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "dand-e.webp",
+        "type": "image"
+      },
+      "caption": "Dand E",
+      "description": "",
+      "orientation": "landscape",
+      "hover": "content/photos/albums/Nature/Macros/dand-ue.webp"
+    },
+    {
+      "id": "nature-macros-grass-e",
+      "thumbnail": "content/photos/albums/Nature/Macros/grass-e-thumb.webp",
+      "full": "content/photos/albums/Nature/Macros/grass-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "grass-e.webp",
+        "type": "image"
+      },
+      "caption": "Grass E",
+      "description": "",
+      "orientation": "landscape",
+      "hover": "content/photos/albums/Nature/Macros/grass-ue.webp"
+    },
+    {
+      "id": "nature-macros-grass-ii-e",
+      "thumbnail": "content/photos/albums/Nature/Macros/grass-ii-e-thumb.webp",
+      "full": "content/photos/albums/Nature/Macros/grass-ii-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "grass-ii-e.webp",
+        "type": "image"
+      },
+      "caption": "Grass Ii E",
+      "description": "",
+      "orientation": "landscape",
+      "hover": "content/photos/albums/Nature/Macros/grass-ii-ue.webp"
+    },
+    {
+      "id": "nature-macros-grass-iii-e",
+      "thumbnail": "content/photos/albums/Nature/Macros/grass-iii-e-thumb.webp",
+      "full": "content/photos/albums/Nature/Macros/grass-iii-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "grass-iii-e.webp",
+        "type": "image"
+      },
+      "caption": "Grass Iii E",
+      "description": "",
+      "orientation": "landscape",
+      "hover": "content/photos/albums/Nature/Macros/grass-iii-ue.webp"
+    },
+    {
+      "id": "nature-macros-leaf-i",
+      "thumbnail": "content/photos/albums/Nature/Macros/leaf-i-thumb.webp",
+      "full": "content/photos/albums/Nature/Macros/leaf-i.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "leaf-i.webp",
+        "type": "image"
+      },
+      "caption": "Leaf I",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "nature-macros-log-e",
+      "thumbnail": "content/photos/albums/Nature/Macros/log-e-thumb.webp",
+      "full": "content/photos/albums/Nature/Macros/log-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "log-e.webp",
+        "type": "image"
+      },
+      "caption": "Log E",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "nature-macros-moss-i",
+      "thumbnail": "content/photos/albums/Nature/Macros/moss-i-thumb.webp",
+      "full": "content/photos/albums/Nature/Macros/moss-i.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "moss-i.webp",
+        "type": "image"
+      },
+      "caption": "Moss I",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "nature-macros-mushroom-i",
+      "thumbnail": "content/photos/albums/Nature/Macros/mushroom-i-thumb.webp",
+      "full": "content/photos/albums/Nature/Macros/mushroom-i.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "mushroom-i.webp",
+        "type": "image"
+      },
+      "caption": "Mushroom I",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "nature-macros-mushroom-iia",
+      "thumbnail": "content/photos/albums/Nature/Macros/mushroom-iia-thumb.webp",
+      "full": "content/photos/albums/Nature/Macros/mushroom-iia.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "mushroom-iia.webp",
+        "type": "image"
+      },
+      "caption": "Mushroom Iia",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "nature-macros-wisco-m-ii-e",
+      "thumbnail": "content/photos/albums/Nature/Macros/wisco-m-ii-e-thumb.webp",
+      "full": "content/photos/albums/Nature/Macros/wisco-m-ii-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "wisco-m-ii-e.webp",
+        "type": "image"
+      },
+      "caption": "Wisco M Ii E",
+      "description": "",
+      "orientation": "landscape",
+      "hover": "content/photos/albums/Nature/Macros/wisco-m-ii-ue.webp"
+    },
+    {
+      "id": "nature-mark-twain-twain-sky",
+      "thumbnail": "content/photos/albums/Nature/Mark Twain/twain-sky-thumb.webp",
+      "full": "content/photos/albums/Nature/Mark Twain/twain-sky.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "twain-sky.webp",
+        "type": "image"
+      },
+      "caption": "Twain Sky",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "nature-mark-twain-twain-tents",
+      "thumbnail": "content/photos/albums/Nature/Mark Twain/twain-tents-thumb.webp",
+      "full": "content/photos/albums/Nature/Mark Twain/twain-tents.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "twain-tents.webp",
+        "type": "image"
+      },
+      "caption": "Twain Tents",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "nature-milky-way-mw-e",
+      "thumbnail": "content/photos/albums/Nature/Milky Way/mw-e-thumb.webp",
+      "full": "content/photos/albums/Nature/Milky Way/mw-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "mw-e.webp",
+        "type": "image"
+      },
+      "caption": "Mw E",
+      "description": "",
+      "orientation": "landscape",
+      "hover": "content/photos/albums/Nature/Milky Way/mw-ue.webp"
+    },
+    {
+      "id": "nature-milky-way-mw-ii-e",
+      "thumbnail": "content/photos/albums/Nature/Milky Way/mw-ii-e-thumb.webp",
+      "full": "content/photos/albums/Nature/Milky Way/mw-ii-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "mw-ii-e.webp",
+        "type": "image"
+      },
+      "caption": "Mw Ii E",
+      "description": "",
+      "orientation": "landscape",
+      "hover": "content/photos/albums/Nature/Milky Way/mw-ii-ue.webp"
+    },
+    {
+      "id": "nature-night-andromeda-e",
+      "thumbnail": "content/photos/albums/Nature/Night/andromeda-e-thumb.webp",
+      "full": "content/photos/albums/Nature/Night/andromeda-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "andromeda-e.webp",
+        "type": "image"
+      },
+      "caption": "Andromeda E",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "nature-night-orion-edit",
+      "thumbnail": "content/photos/albums/Nature/Night/orion-edit-thumb.webp",
+      "full": "content/photos/albums/Nature/Night/orion-edit.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "orion-edit.webp",
+        "type": "image"
+      },
+      "caption": "Orion Edit",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "nature-night-siloh-e",
+      "thumbnail": "content/photos/albums/Nature/Night/siloh-e-thumb.webp",
+      "full": "content/photos/albums/Nature/Night/siloh-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "siloh-e.webp",
+        "type": "image"
+      },
+      "caption": "Siloh E",
+      "description": "",
+      "orientation": "landscape",
+      "hover": "content/photos/albums/Nature/Night/siloh-ue.webp"
+    },
+    {
+      "id": "nature-night-street-e",
+      "thumbnail": "content/photos/albums/Nature/Night/street-e-thumb.webp",
+      "full": "content/photos/albums/Nature/Night/street-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "street-e.webp",
+        "type": "image"
+      },
+      "caption": "Street E",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "nature-solar-system-eclipse-e",
+      "thumbnail": "content/photos/albums/Nature/Solar System/eclipse-e-thumb.webp",
+      "full": "content/photos/albums/Nature/Solar System/eclipse-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "eclipse-e.webp",
+        "type": "image"
+      },
+      "caption": "Eclipse E",
+      "description": "",
+      "orientation": "landscape",
+      "hover": "content/photos/albums/Nature/Solar System/eclipse-ue.webp"
+    },
+    {
+      "id": "nature-solar-system-jupiter-resize-sharpen-ii",
+      "thumbnail": "content/photos/albums/Nature/Solar System/jupiter_resize_sharpen_ii-thumb.webp",
+      "full": "content/photos/albums/Nature/Solar System/jupiter_resize_sharpen_ii.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "jupiter_resize_sharpen_ii.webp",
+        "type": "image"
+      },
+      "caption": "Jupiter Resize Sharpen Ii",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "nature-solar-system-mars",
+      "thumbnail": "content/photos/albums/Nature/Solar System/mars-thumb.webp",
+      "full": "content/photos/albums/Nature/Solar System/mars.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "mars.webp",
+        "type": "image"
+      },
+      "caption": "Mars",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "nature-solar-system-moon-stacked-e",
+      "thumbnail": "content/photos/albums/Nature/Solar System/moon-stacked-e-thumb.webp",
+      "full": "content/photos/albums/Nature/Solar System/moon-stacked-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "moon-stacked-e.webp",
+        "type": "image"
+      },
+      "caption": "Moon Stacked E",
+      "description": "",
+      "orientation": "landscape",
+      "hover": "content/photos/albums/Nature/Solar System/moon-stacked-ue.webp"
+    },
+    {
+      "id": "nature-solar-system-saturn",
+      "thumbnail": "content/photos/albums/Nature/Solar System/saturn-thumb.webp",
+      "full": "content/photos/albums/Nature/Solar System/saturn.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "saturn.webp",
+        "type": "image"
+      },
+      "caption": "Saturn",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "nature-wisconsin-w-pan-e",
+      "thumbnail": "content/photos/albums/Nature/Wisconsin/w-pan-e-thumb.webp",
+      "full": "content/photos/albums/Nature/Wisconsin/w-pan-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "w-pan-e.webp",
+        "type": "image"
+      },
+      "caption": "W Pan E",
+      "description": "",
+      "orientation": "landscape",
+      "hover": "content/photos/albums/Nature/Wisconsin/w-pan-ue.webp"
+    },
+    {
+      "id": "nature-wisconsin-wisco-m-e",
+      "thumbnail": "content/photos/albums/Nature/Wisconsin/wisco-m-e-thumb.webp",
+      "full": "content/photos/albums/Nature/Wisconsin/wisco-m-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "wisco-m-e.webp",
+        "type": "image"
+      },
+      "caption": "Wisco M E",
+      "description": "",
+      "orientation": "landscape",
+      "hover": "content/photos/albums/Nature/Wisconsin/wisco-m-ue.webp"
+    },
+    {
+      "id": "other-ia",
+      "thumbnail": "content/photos/albums/Other/ia-thumb.webp",
+      "full": "content/photos/albums/Other/ia.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "ia.webp",
+        "type": "image"
+      },
+      "caption": "Ia",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "other-ii-2",
+      "thumbnail": "content/photos/albums/Other/ii-2-thumb.webp",
+      "full": "content/photos/albums/Other/ii-2.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "ii-2.webp",
+        "type": "image"
+      },
+      "caption": "Ii 2",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "other-iii",
+      "thumbnail": "content/photos/albums/Other/iii-thumb.webp",
+      "full": "content/photos/albums/Other/iii.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "iii.webp",
+        "type": "image"
+      },
+      "caption": "Iii",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "other-norm-e",
+      "thumbnail": "content/photos/albums/Other/norm-e-thumb.webp",
+      "full": "content/photos/albums/Other/norm-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "norm-e.webp",
+        "type": "image"
+      },
+      "caption": "Norm E",
+      "description": "",
+      "orientation": "landscape",
+      "hover": "content/photos/albums/Other/norm-ue.webp"
+    },
+    {
+      "id": "people-football-edit-144",
+      "thumbnail": "content/photos/albums/People/football/edit-144-thumb.webp",
+      "full": "content/photos/albums/People/football/edit-144.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-144.webp",
+        "type": "image"
+      },
+      "caption": "Edit 144",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-football-edit-174",
+      "thumbnail": "content/photos/albums/People/football/edit-174-thumb.webp",
+      "full": "content/photos/albums/People/football/edit-174.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-174.webp",
+        "type": "image"
+      },
+      "caption": "Edit 174",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-football-edit-176",
+      "thumbnail": "content/photos/albums/People/football/edit-176-thumb.webp",
+      "full": "content/photos/albums/People/football/edit-176.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-176.webp",
+        "type": "image"
+      },
+      "caption": "Edit 176",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-football-edit-195",
+      "thumbnail": "content/photos/albums/People/football/edit-195-thumb.webp",
+      "full": "content/photos/albums/People/football/edit-195.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-195.webp",
+        "type": "image"
+      },
+      "caption": "Edit 195",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-football-edit-29",
+      "thumbnail": "content/photos/albums/People/football/edit-29-thumb.webp",
+      "full": "content/photos/albums/People/football/edit-29.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-29.webp",
+        "type": "image"
+      },
+      "caption": "Edit 29",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-football-edit-473",
+      "thumbnail": "content/photos/albums/People/football/edit-473-thumb.webp",
+      "full": "content/photos/albums/People/football/edit-473.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-473.webp",
+        "type": "image"
+      },
+      "caption": "Edit 473",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-football-edit-515",
+      "thumbnail": "content/photos/albums/People/football/edit-515-thumb.webp",
+      "full": "content/photos/albums/People/football/edit-515.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-515.webp",
+        "type": "image"
+      },
+      "caption": "Edit 515",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-football-edit-6",
+      "thumbnail": "content/photos/albums/People/football/edit-6-thumb.webp",
+      "full": "content/photos/albums/People/football/edit-6.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-6.webp",
+        "type": "image"
+      },
+      "caption": "Edit 6",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-football-edit-80",
+      "thumbnail": "content/photos/albums/People/football/edit-80-thumb.webp",
+      "full": "content/photos/albums/People/football/edit-80.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-80.webp",
+        "type": "image"
+      },
+      "caption": "Edit 80",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-mrj-china-shipping",
+      "thumbnail": "content/photos/albums/People/mrj/china-shipping-thumb.webp",
+      "full": "content/photos/albums/People/mrj/china-shipping.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "china-shipping.webp",
+        "type": "image"
+      },
+      "caption": "China Shipping",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-mrj-iiif",
+      "thumbnail": "content/photos/albums/People/mrj/iiif-thumb.webp",
+      "full": "content/photos/albums/People/mrj/iiif.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "iiif.webp",
+        "type": "image"
+      },
+      "caption": "Iiif",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-mrj-img-0002",
+      "thumbnail": "content/photos/albums/People/mrj/img_0002-thumb.webp",
+      "full": "content/photos/albums/People/mrj/img_0002.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "img_0002.webp",
+        "type": "image"
+      },
+      "caption": "Img 0002",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-mrj-iv",
+      "thumbnail": "content/photos/albums/People/mrj/iv-thumb.webp",
+      "full": "content/photos/albums/People/mrj/iv.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "iv.webp",
+        "type": "image"
+      },
+      "caption": "Iv",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-mrj-mrj-i",
+      "thumbnail": "content/photos/albums/People/mrj/mrj-i-thumb.webp",
+      "full": "content/photos/albums/People/mrj/mrj-i.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "mrj-i.webp",
+        "type": "image"
+      },
+      "caption": "Mrj I",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-mrj-mrj-ii",
+      "thumbnail": "content/photos/albums/People/mrj/mrj-ii-thumb.webp",
+      "full": "content/photos/albums/People/mrj/mrj-ii.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "mrj-ii.webp",
+        "type": "image"
+      },
+      "caption": "Mrj Ii",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-mrj-mrj-iv",
+      "thumbnail": "content/photos/albums/People/mrj/mrj-iv-thumb.webp",
+      "full": "content/photos/albums/People/mrj/mrj-iv.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "mrj-iv.webp",
+        "type": "image"
+      },
+      "caption": "Mrj Iv",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-mrj-mrj-ix",
+      "thumbnail": "content/photos/albums/People/mrj/mrj-ix-thumb.webp",
+      "full": "content/photos/albums/People/mrj/mrj-ix.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "mrj-ix.webp",
+        "type": "image"
+      },
+      "caption": "Mrj Ix",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-mrj-mrj-v",
+      "thumbnail": "content/photos/albums/People/mrj/mrj-v-thumb.webp",
+      "full": "content/photos/albums/People/mrj/mrj-v.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "mrj-v.webp",
+        "type": "image"
+      },
+      "caption": "Mrj V",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-mrj-mrj-vi",
+      "thumbnail": "content/photos/albums/People/mrj/mrj-vi-thumb.webp",
+      "full": "content/photos/albums/People/mrj/mrj-vi.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "mrj-vi.webp",
+        "type": "image"
+      },
+      "caption": "Mrj Vi",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-mrj-mrj-vii",
+      "thumbnail": "content/photos/albums/People/mrj/mrj-vii-thumb.webp",
+      "full": "content/photos/albums/People/mrj/mrj-vii.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "mrj-vii.webp",
+        "type": "image"
+      },
+      "caption": "Mrj Vii",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-mrj-mrj-x",
+      "thumbnail": "content/photos/albums/People/mrj/mrj-x-thumb.webp",
+      "full": "content/photos/albums/People/mrj/mrj-x.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "mrj-x.webp",
+        "type": "image"
+      },
+      "caption": "Mrj X",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-mrj-tagabow",
+      "thumbnail": "content/photos/albums/People/mrj/tagabow-thumb.webp",
+      "full": "content/photos/albums/People/mrj/tagabow.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "tagabow.webp",
+        "type": "image"
+      },
+      "caption": "Tagabow",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-mrj-tagabow-ii",
+      "thumbnail": "content/photos/albums/People/mrj/tagabow-ii-thumb.webp",
+      "full": "content/photos/albums/People/mrj/tagabow-ii.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "tagabow-ii.webp",
+        "type": "image"
+      },
+      "caption": "Tagabow Ii",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-mrj-tagabow-iii",
+      "thumbnail": "content/photos/albums/People/mrj/tagabow-iii-thumb.webp",
+      "full": "content/photos/albums/People/mrj/tagabow-iii.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "tagabow-iii.webp",
+        "type": "image"
+      },
+      "caption": "Tagabow Iii",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-parades-edit-108",
+      "thumbnail": "content/photos/albums/People/parades/edit-108-thumb.webp",
+      "full": "content/photos/albums/People/parades/edit-108.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-108.webp",
+        "type": "image"
+      },
+      "caption": "Edit 108",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-parades-edit-222",
+      "thumbnail": "content/photos/albums/People/parades/edit-222-thumb.webp",
+      "full": "content/photos/albums/People/parades/edit-222.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-222.webp",
+        "type": "image"
+      },
+      "caption": "Edit 222",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-parades-edit-229",
+      "thumbnail": "content/photos/albums/People/parades/edit-229-thumb.webp",
+      "full": "content/photos/albums/People/parades/edit-229.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-229.webp",
+        "type": "image"
+      },
+      "caption": "Edit 229",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-parades-edit-43",
+      "thumbnail": "content/photos/albums/People/parades/edit-43-thumb.webp",
+      "full": "content/photos/albums/People/parades/edit-43.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-43.webp",
+        "type": "image"
+      },
+      "caption": "Edit 43",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-parades-edit-87",
+      "thumbnail": "content/photos/albums/People/parades/edit-87-thumb.webp",
+      "full": "content/photos/albums/People/parades/edit-87.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-87.webp",
+        "type": "image"
+      },
+      "caption": "Edit 87",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-parades-edit-99",
+      "thumbnail": "content/photos/albums/People/parades/edit-99-thumb.webp",
+      "full": "content/photos/albums/People/parades/edit-99.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-99.webp",
+        "type": "image"
+      },
+      "caption": "Edit 99",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-portraits-meg-e",
+      "thumbnail": "content/photos/albums/People/portraits/meg-e-thumb.webp",
+      "full": "content/photos/albums/People/portraits/meg-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "meg-e.webp",
+        "type": "image"
+      },
+      "caption": "Meg E",
+      "description": "",
+      "orientation": "landscape",
+      "hover": "content/photos/albums/People/portraits/meg-ue.webp"
+    },
+    {
+      "id": "people-portraits-meg-ii-e",
+      "thumbnail": "content/photos/albums/People/portraits/meg-ii-e-thumb.webp",
+      "full": "content/photos/albums/People/portraits/meg-ii-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "meg-ii-e.webp",
+        "type": "image"
+      },
+      "caption": "Meg Ii E",
+      "description": "",
+      "orientation": "landscape",
+      "hover": "content/photos/albums/People/portraits/meg-ii-ue.webp"
+    },
+    {
+      "id": "people-portraits-meg-iii-e",
+      "thumbnail": "content/photos/albums/People/portraits/meg-iii-e-thumb.webp",
+      "full": "content/photos/albums/People/portraits/meg-iii-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "meg-iii-e.webp",
+        "type": "image"
+      },
+      "caption": "Meg Iii E",
+      "description": "",
+      "orientation": "landscape",
+      "hover": "content/photos/albums/People/portraits/meg-iii-ue.webp"
+    },
+    {
+      "id": "people-portraits-meg-iv-e",
+      "thumbnail": "content/photos/albums/People/portraits/meg-iv-e-thumb.webp",
+      "full": "content/photos/albums/People/portraits/meg-iv-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "meg-iv-e.webp",
+        "type": "image"
+      },
+      "caption": "Meg Iv E",
+      "description": "",
+      "orientation": "landscape",
+      "hover": "content/photos/albums/People/portraits/meg-iv-ue.webp"
+    },
+    {
+      "id": "people-portraits-tom-e",
+      "thumbnail": "content/photos/albums/People/portraits/tom-e-thumb.webp",
+      "full": "content/photos/albums/People/portraits/tom-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "tom-e.webp",
+        "type": "image"
+      },
+      "caption": "Tom E",
+      "description": "",
+      "orientation": "landscape",
+      "hover": "content/photos/albums/People/portraits/tom-ue.webp"
+    },
+    {
+      "id": "people-soccer-edit-49",
+      "thumbnail": "content/photos/albums/People/soccer/edit-49-thumb.webp",
+      "full": "content/photos/albums/People/soccer/edit-49.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-49.webp",
+        "type": "image"
+      },
+      "caption": "Edit 49",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-soccer-edit-79",
+      "thumbnail": "content/photos/albums/People/soccer/edit-79-thumb.webp",
+      "full": "content/photos/albums/People/soccer/edit-79.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-79.webp",
+        "type": "image"
+      },
+      "caption": "Edit 79",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "people-soccer-edit-97",
+      "thumbnail": "content/photos/albums/People/soccer/edit-97-thumb.webp",
+      "full": "content/photos/albums/People/soccer/edit-97.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-97.webp",
+        "type": "image"
+      },
+      "caption": "Edit 97",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "stardew-valley-jester-2-16-2025-58252739",
+      "thumbnail": "content/photos/albums/Stardew Valley/jester_2-16-2025_58252739-thumb.webp",
+      "full": "content/photos/albums/Stardew Valley/jester_2-16-2025_58252739.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "jester_2-16-2025_58252739.webp",
+        "type": "image"
+      },
+      "caption": "Jester 2 16 2025 58252739",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "stardew-valley-reyna-10-17-2025-15757888",
+      "thumbnail": "content/photos/albums/Stardew Valley/reyna_10-17-2025_15757888-thumb.webp",
+      "full": "content/photos/albums/Stardew Valley/reyna_10-17-2025_15757888.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "reyna_10-17-2025_15757888.webp",
+        "type": "image"
+      },
+      "caption": "Reyna 10 17 2025 15757888",
+      "description": "",
+      "orientation": "landscape"
+    }
+  ],
+  "albums": [
+    {
+      "id": "bokeh",
+      "name": "Bokeh",
+      "description": "Creamy bokeh from the powerful duo of the Sony A7III + Sigma 50mm f/1.4 ART.",
+      "items": [
+        {
+          "id": "bokeh-edit-13",
+          "thumbnail": "content/photos/albums/Bokeh/edit-13-thumb.webp",
+          "full": "content/photos/albums/Bokeh/edit-13.webp"
+        },
+        {
+          "id": "bokeh-edit-15",
+          "thumbnail": "content/photos/albums/Bokeh/edit-15-thumb.webp",
+          "full": "content/photos/albums/Bokeh/edit-15.webp"
+        },
+        {
+          "id": "bokeh-edit-20",
+          "thumbnail": "content/photos/albums/Bokeh/edit-20-thumb.webp",
+          "full": "content/photos/albums/Bokeh/edit-20.webp"
+        },
+        {
+          "id": "bokeh-stick-e",
+          "thumbnail": "content/photos/albums/Bokeh/stick-e-thumb.webp",
+          "full": "content/photos/albums/Bokeh/stick-e.webp"
+        }
+      ],
+      "cover": "bokeh-stick-e",
+      "albumViewBackgroundId": "bokeh-edit-15",
+      "albumViewBackground": "content/photos/albums/Bokeh/edit-15-thumb.webp"
+    },
+    {
+      "id": "cars-bmw",
+      "name": "BMW",
+      "description": "A series of black & white images showcasing my friend and his BMW 325i.",
+      "items": [
+        {
+          "id": "cars-bmw-bmw-e",
+          "thumbnail": "content/photos/albums/Cars/BMW/bmw-e-thumb.webp",
+          "full": "content/photos/albums/Cars/BMW/bmw-e.webp"
+        },
+        {
+          "id": "cars-bmw-bmw-ii",
+          "thumbnail": "content/photos/albums/Cars/BMW/bmw-ii-thumb.webp",
+          "full": "content/photos/albums/Cars/BMW/bmw-ii.webp"
+        },
+        {
+          "id": "cars-bmw-bmw-iii",
+          "thumbnail": "content/photos/albums/Cars/BMW/bmw-iii-thumb.webp",
+          "full": "content/photos/albums/Cars/BMW/bmw-iii.webp"
+        },
+        {
+          "id": "cars-bmw-bmw-iv",
+          "thumbnail": "content/photos/albums/Cars/BMW/bmw-iv-thumb.webp",
+          "full": "content/photos/albums/Cars/BMW/bmw-iv.webp"
+        },
+        {
+          "id": "cars-bmw-bmw-rocket-e",
+          "thumbnail": "content/photos/albums/Cars/BMW/bmw-rocket-e-thumb.webp",
+          "full": "content/photos/albums/Cars/BMW/bmw-rocket-e.webp"
+        }
+      ],
+      "cover": "cars-bmw-bmw-e",
+      "albumViewBackgroundId": "cars-bmw-bmw-ii",
+      "albumViewBackground": "content/photos/albums/Cars/BMW/bmw-ii-thumb.webp"
+    },
+    {
+      "id": "digital-art",
+      "name": "Digital Art",
+      "description": "",
+      "items": [
+        {
+          "id": "digital-art-24-disk-art-slight-fade-large",
+          "thumbnail": "content/photos/albums/Digital Art/24-disk-art-slight-fade-large-thumb.webp",
+          "full": "content/photos/albums/Digital Art/24-disk-art-slight-fade-large.webp"
+        },
+        {
+          "id": "digital-art-24-pack-print",
+          "thumbnail": "content/photos/albums/Digital Art/24-pack-print-thumb.webp",
+          "full": "content/photos/albums/Digital Art/24-pack-print.webp"
+        },
+        {
+          "id": "digital-art-artwork-1",
+          "thumbnail": "content/photos/albums/Digital Art/artwork-1-thumb.webp",
+          "full": "content/photos/albums/Digital Art/artwork-1.webp"
+        },
+        {
+          "id": "digital-art-balm-ii",
+          "thumbnail": "content/photos/albums/Digital Art/balm-ii-thumb.webp",
+          "full": "content/photos/albums/Digital Art/balm-ii.webp"
+        },
+        {
+          "id": "digital-art-bookshelf",
+          "thumbnail": "content/photos/albums/Digital Art/bookshelf-thumb.webp",
+          "full": "content/photos/albums/Digital Art/bookshelf.webp"
+        },
+        {
+          "id": "digital-art-cloud-over-2",
+          "thumbnail": "content/photos/albums/Digital Art/cloud-over-2-thumb.webp",
+          "full": "content/photos/albums/Digital Art/cloud-over-2.webp"
+        },
+        {
+          "id": "digital-art-dawn-ii",
+          "thumbnail": "content/photos/albums/Digital Art/dawn-ii-thumb.webp",
+          "full": "content/photos/albums/Digital Art/dawn-ii.webp"
+        },
+        {
+          "id": "digital-art-earthday-e",
+          "thumbnail": "content/photos/albums/Digital Art/earthday-e-thumb.webp",
+          "full": "content/photos/albums/Digital Art/earthday-e.webp"
+        },
+        {
+          "id": "digital-art-edit1fade",
+          "thumbnail": "content/photos/albums/Digital Art/edit1fade-thumb.webp",
+          "full": "content/photos/albums/Digital Art/edit1fade.webp"
+        },
+        {
+          "id": "digital-art-fissure-i",
+          "thumbnail": "content/photos/albums/Digital Art/fissure-i-thumb.webp",
+          "full": "content/photos/albums/Digital Art/fissure-i.webp"
+        },
+        {
+          "id": "digital-art-fractal-1",
+          "thumbnail": "content/photos/albums/Digital Art/fractal-1-thumb.webp",
+          "full": "content/photos/albums/Digital Art/fractal-1.webp"
+        },
+        {
+          "id": "digital-art-fractal-7",
+          "thumbnail": "content/photos/albums/Digital Art/fractal-7-thumb.webp",
+          "full": "content/photos/albums/Digital Art/fractal-7.webp"
+        },
+        {
+          "id": "digital-art-idhta",
+          "thumbnail": "content/photos/albums/Digital Art/idhta-thumb.webp",
+          "full": "content/photos/albums/Digital Art/idhta.webp"
+        },
+        {
+          "id": "digital-art-idhta-iib",
+          "thumbnail": "content/photos/albums/Digital Art/idhta-iib-thumb.webp",
+          "full": "content/photos/albums/Digital Art/idhta-iib.webp"
+        },
+        {
+          "id": "digital-art-img-0009",
+          "thumbnail": "content/photos/albums/Digital Art/img_0009-thumb.webp",
+          "full": "content/photos/albums/Digital Art/img_0009.webp"
+        },
+        {
+          "id": "digital-art-img-0106",
+          "thumbnail": "content/photos/albums/Digital Art/img_0106-thumb.webp",
+          "full": "content/photos/albums/Digital Art/img_0106.webp"
+        },
+        {
+          "id": "digital-art-img-0116",
+          "thumbnail": "content/photos/albums/Digital Art/img_0116-thumb.webp",
+          "full": "content/photos/albums/Digital Art/img_0116.webp"
+        },
+        {
+          "id": "digital-art-img-0135",
+          "thumbnail": "content/photos/albums/Digital Art/img_0135-thumb.webp",
+          "full": "content/photos/albums/Digital Art/img_0135.webp"
+        },
+        {
+          "id": "digital-art-img-0761",
+          "thumbnail": "content/photos/albums/Digital Art/img_0761-thumb.webp",
+          "full": "content/photos/albums/Digital Art/img_0761.webp"
+        },
+        {
+          "id": "digital-art-ing-front-noise",
+          "thumbnail": "content/photos/albums/Digital Art/ing-front-noise-thumb.webp",
+          "full": "content/photos/albums/Digital Art/ing-front-noise.webp"
+        },
+        {
+          "id": "digital-art-lauren-e",
+          "thumbnail": "content/photos/albums/Digital Art/lauren-e-thumb.webp",
+          "full": "content/photos/albums/Digital Art/lauren-e.webp"
+        },
+        {
+          "id": "digital-art-lauren-ii-e",
+          "thumbnail": "content/photos/albums/Digital Art/lauren-ii-e-thumb.webp",
+          "full": "content/photos/albums/Digital Art/lauren-ii-e.webp"
+        },
+        {
+          "id": "digital-art-midi-prisms",
+          "thumbnail": "content/photos/albums/Digital Art/midi-prisms-thumb.webp",
+          "full": "content/photos/albums/Digital Art/midi-prisms.webp"
+        },
+        {
+          "id": "digital-art-mpso1218",
+          "thumbnail": "content/photos/albums/Digital Art/mpso1218-thumb.webp",
+          "full": "content/photos/albums/Digital Art/mpso1218.webp"
+        },
+        {
+          "id": "digital-art-mrj-shirt-01",
+          "thumbnail": "content/photos/albums/Digital Art/mrj-shirt-01-thumb.webp",
+          "full": "content/photos/albums/Digital Art/mrj-shirt-01.webp"
+        },
+        {
+          "id": "digital-art-night-candy-cover-larger",
+          "thumbnail": "content/photos/albums/Digital Art/night-candy-cover-larger-thumb.webp",
+          "full": "content/photos/albums/Digital Art/night-candy-cover-larger.webp"
+        },
+        {
+          "id": "digital-art-oudi1215",
+          "thumbnail": "content/photos/albums/Digital Art/oudi1215-thumb.webp",
+          "full": "content/photos/albums/Digital Art/oudi1215.webp"
+        },
+        {
+          "id": "digital-art-poly-ep",
+          "thumbnail": "content/photos/albums/Digital Art/poly-ep-thumb.webp",
+          "full": "content/photos/albums/Digital Art/poly-ep.webp"
+        },
+        {
+          "id": "digital-art-poly-ii",
+          "thumbnail": "content/photos/albums/Digital Art/poly-ii-thumb.webp",
+          "full": "content/photos/albums/Digital Art/poly-ii.webp"
+        },
+        {
+          "id": "digital-art-pxcv3618",
+          "thumbnail": "content/photos/albums/Digital Art/pxcv3618-thumb.webp",
+          "full": "content/photos/albums/Digital Art/pxcv3618.webp"
+        },
+        {
+          "id": "digital-art-spot-hp",
+          "thumbnail": "content/photos/albums/Digital Art/spot-hp-thumb.webp",
+          "full": "content/photos/albums/Digital Art/spot-hp.webp"
+        },
+        {
+          "id": "digital-art-spot-lotr",
+          "thumbnail": "content/photos/albums/Digital Art/spot-lotr-thumb.webp",
+          "full": "content/photos/albums/Digital Art/spot-lotr.webp"
+        },
+        {
+          "id": "digital-art-spot-meteor",
+          "thumbnail": "content/photos/albums/Digital Art/spot-meteor-thumb.webp",
+          "full": "content/photos/albums/Digital Art/spot-meteor.webp"
+        },
+        {
+          "id": "digital-art-spot-synths-i",
+          "thumbnail": "content/photos/albums/Digital Art/spot-synths-i-thumb.webp",
+          "full": "content/photos/albums/Digital Art/spot-synths-i.webp"
+        },
+        {
+          "id": "digital-art-spot-synths-ii",
+          "thumbnail": "content/photos/albums/Digital Art/spot-synths-ii-thumb.webp",
+          "full": "content/photos/albums/Digital Art/spot-synths-ii.webp"
+        },
+        {
+          "id": "digital-art-spot-synths-iii",
+          "thumbnail": "content/photos/albums/Digital Art/spot-synths-iii-thumb.webp",
+          "full": "content/photos/albums/Digital Art/spot-synths-iii.webp"
+        },
+        {
+          "id": "digital-art-tributes-e-i",
+          "thumbnail": "content/photos/albums/Digital Art/tributes-e-i-thumb.webp",
+          "full": "content/photos/albums/Digital Art/tributes-e-i.webp"
+        },
+        {
+          "id": "digital-art-tributes-ii",
+          "thumbnail": "content/photos/albums/Digital Art/tributes-ii-thumb.webp",
+          "full": "content/photos/albums/Digital Art/tributes-ii.webp"
+        },
+        {
+          "id": "digital-art-tributes-iii",
+          "thumbnail": "content/photos/albums/Digital Art/tributes-iii-thumb.webp",
+          "full": "content/photos/albums/Digital Art/tributes-iii.webp"
+        },
+        {
+          "id": "digital-art-watty",
+          "thumbnail": "content/photos/albums/Digital Art/watty-thumb.webp",
+          "full": "content/photos/albums/Digital Art/watty.webp"
+        },
+        {
+          "id": "digital-art-xerophthalmia",
+          "thumbnail": "content/photos/albums/Digital Art/xerophthalmia-thumb.webp",
+          "full": "content/photos/albums/Digital Art/xerophthalmia.webp"
+        }
+      ],
+      "cover": "digital-art-24-disk-art-slight-fade-large",
+      "albumViewBackgroundId": "digital-art-mpso1218",
+      "albumViewBackground": "content/photos/albums/Digital Art/mpso1218-thumb.webp"
+    },
+    {
+      "id": "minecraft",
+      "name": "Minecraft",
+      "description": "",
+      "items": [
+        {
+          "id": "minecraft-2021-11-30-230755",
+          "thumbnail": "content/photos/albums/Minecraft/2021-11-30_230755-thumb.webp",
+          "full": "content/photos/albums/Minecraft/2021-11-30_230755.webp"
+        },
+        {
+          "id": "minecraft-2021-12-22-213311",
+          "thumbnail": "content/photos/albums/Minecraft/2021-12-22_213311-thumb.webp",
+          "full": "content/photos/albums/Minecraft/2021-12-22_213311.webp"
+        },
+        {
+          "id": "minecraft-2021-12-23-234002",
+          "thumbnail": "content/photos/albums/Minecraft/2021-12-23_234002-thumb.webp",
+          "full": "content/photos/albums/Minecraft/2021-12-23_234002.webp"
+        },
+        {
+          "id": "minecraft-2022-07-10-130712",
+          "thumbnail": "content/photos/albums/Minecraft/2022-07-10_130712-thumb.webp",
+          "full": "content/photos/albums/Minecraft/2022-07-10_130712.webp"
+        },
+        {
+          "id": "minecraft-2022-07-17-110139",
+          "thumbnail": "content/photos/albums/Minecraft/2022-07-17_110139-thumb.webp",
+          "full": "content/photos/albums/Minecraft/2022-07-17_110139.webp"
+        },
+        {
+          "id": "minecraft-2022-09-17-113619",
+          "thumbnail": "content/photos/albums/Minecraft/2022-09-17_113619-thumb.webp",
+          "full": "content/photos/albums/Minecraft/2022-09-17_113619.webp"
+        },
+        {
+          "id": "minecraft-2022-09-24-102506",
+          "thumbnail": "content/photos/albums/Minecraft/2022-09-24_102506-thumb.webp",
+          "full": "content/photos/albums/Minecraft/2022-09-24_102506.webp"
+        },
+        {
+          "id": "minecraft-2022-10-03-155551",
+          "thumbnail": "content/photos/albums/Minecraft/2022-10-03_155551-thumb.webp",
+          "full": "content/photos/albums/Minecraft/2022-10-03_155551.webp"
+        },
+        {
+          "id": "minecraft-2022-10-08-152259",
+          "thumbnail": "content/photos/albums/Minecraft/2022-10-08_152259-thumb.webp",
+          "full": "content/photos/albums/Minecraft/2022-10-08_152259.webp"
+        },
+        {
+          "id": "minecraft-2022-10-09-105733",
+          "thumbnail": "content/photos/albums/Minecraft/2022-10-09_105733-thumb.webp",
+          "full": "content/photos/albums/Minecraft/2022-10-09_105733.webp"
+        },
+        {
+          "id": "minecraft-2022-10-31-143045",
+          "thumbnail": "content/photos/albums/Minecraft/2022-10-31_143045-thumb.webp",
+          "full": "content/photos/albums/Minecraft/2022-10-31_143045.webp"
+        },
+        {
+          "id": "minecraft-2022-10-31-221127",
+          "thumbnail": "content/photos/albums/Minecraft/2022-10-31_221127-thumb.webp",
+          "full": "content/photos/albums/Minecraft/2022-10-31_221127.webp"
+        },
+        {
+          "id": "minecraft-2024-06-29-133543",
+          "thumbnail": "content/photos/albums/Minecraft/2024-06-29_133543-thumb.webp",
+          "full": "content/photos/albums/Minecraft/2024-06-29_133543.webp"
+        },
+        {
+          "id": "minecraft-2025-05-24-152124",
+          "thumbnail": "content/photos/albums/Minecraft/2025-05-24_152124-thumb.webp",
+          "full": "content/photos/albums/Minecraft/2025-05-24_152124.webp"
+        },
+        {
+          "id": "minecraft-2025-05-24-231624",
+          "thumbnail": "content/photos/albums/Minecraft/2025-05-24_231624-thumb.webp",
+          "full": "content/photos/albums/Minecraft/2025-05-24_231624.webp"
+        },
+        {
+          "id": "minecraft-2026-02-04-223520",
+          "thumbnail": "content/photos/albums/Minecraft/2026-02-04_223520-thumb.webp",
+          "full": "content/photos/albums/Minecraft/2026-02-04_223520.webp"
+        },
+        {
+          "id": "minecraft-2026-02-04-225626",
+          "thumbnail": "content/photos/albums/Minecraft/2026-02-04_225626-thumb.webp",
+          "full": "content/photos/albums/Minecraft/2026-02-04_225626.webp"
+        },
+        {
+          "id": "minecraft-2026-02-06-140722",
+          "thumbnail": "content/photos/albums/Minecraft/2026-02-06_140722-thumb.webp",
+          "full": "content/photos/albums/Minecraft/2026-02-06_140722.webp"
+        },
+        {
+          "id": "minecraft-2026-02-07-224407",
+          "thumbnail": "content/photos/albums/Minecraft/2026-02-07_224407-thumb.webp",
+          "full": "content/photos/albums/Minecraft/2026-02-07_224407.webp"
+        },
+        {
+          "id": "minecraft-2026-02-07-224429",
+          "thumbnail": "content/photos/albums/Minecraft/2026-02-07_224429-thumb.webp",
+          "full": "content/photos/albums/Minecraft/2026-02-07_224429.webp"
+        },
+        {
+          "id": "minecraft-2026-02-08-000447",
+          "thumbnail": "content/photos/albums/Minecraft/2026-02-08_000447-thumb.webp",
+          "full": "content/photos/albums/Minecraft/2026-02-08_000447.webp"
+        },
+        {
+          "id": "minecraft-2026-02-08-000458",
+          "thumbnail": "content/photos/albums/Minecraft/2026-02-08_000458-thumb.webp",
+          "full": "content/photos/albums/Minecraft/2026-02-08_000458.webp"
+        },
+        {
+          "id": "minecraft-2026-02-10-200156",
+          "thumbnail": "content/photos/albums/Minecraft/2026-02-10_200156-thumb.webp",
+          "full": "content/photos/albums/Minecraft/2026-02-10_200156.webp"
+        },
+        {
+          "id": "minecraft-2026-02-21-005701",
+          "thumbnail": "content/photos/albums/Minecraft/2026-02-21_005701-thumb.webp",
+          "full": "content/photos/albums/Minecraft/2026-02-21_005701.webp"
+        },
+        {
+          "id": "minecraft-aixj6543",
+          "thumbnail": "content/photos/albums/Minecraft/aixj6543-thumb.webp",
+          "full": "content/photos/albums/Minecraft/aixj6543.webp"
+        },
+        {
+          "id": "minecraft-img-2862",
+          "thumbnail": "content/photos/albums/Minecraft/img_2862-thumb.webp",
+          "full": "content/photos/albums/Minecraft/img_2862.webp"
+        },
+        {
+          "id": "minecraft-minecraft-gui-v004",
+          "thumbnail": "content/photos/albums/Minecraft/minecraft-gui-v004-thumb.webp",
+          "full": "content/photos/albums/Minecraft/minecraft-gui-v004.webp"
+        },
+        {
+          "id": "minecraft-minecraft-screen2",
+          "thumbnail": "content/photos/albums/Minecraft/minecraft-screen2-thumb.webp",
+          "full": "content/photos/albums/Minecraft/minecraft-screen2.webp"
+        },
+        {
+          "id": "minecraft-minecraft-shot",
+          "thumbnail": "content/photos/albums/Minecraft/minecraft-shot-thumb.webp",
+          "full": "content/photos/albums/Minecraft/minecraft-shot.webp"
+        },
+        {
+          "id": "minecraft-qzmc9165",
+          "thumbnail": "content/photos/albums/Minecraft/qzmc9165-thumb.webp",
+          "full": "content/photos/albums/Minecraft/qzmc9165.webp"
+        },
+        {
+          "id": "minecraft-tpte1981",
+          "thumbnail": "content/photos/albums/Minecraft/tpte1981-thumb.webp",
+          "full": "content/photos/albums/Minecraft/tpte1981.webp"
+        }
+      ],
+      "cover": "minecraft-2021-11-30-230755",
+      "albumViewBackgroundId": "minecraft-aixj6543",
+      "albumViewBackground": "content/photos/albums/Minecraft/aixj6543-thumb.webp"
+    },
+    {
+      "id": "nature-fire",
+      "name": "Fire",
+      "description": "Colorful and abstract photos from a campfire.",
+      "items": [
+        {
+          "id": "nature-fire-edit-10",
+          "thumbnail": "content/photos/albums/Nature/Fire/edit-10-thumb.webp",
+          "full": "content/photos/albums/Nature/Fire/edit-10.webp"
+        },
+        {
+          "id": "nature-fire-edit-150",
+          "thumbnail": "content/photos/albums/Nature/Fire/edit-150-thumb.webp",
+          "full": "content/photos/albums/Nature/Fire/edit-150.webp"
+        },
+        {
+          "id": "nature-fire-edit-71",
+          "thumbnail": "content/photos/albums/Nature/Fire/edit-71-thumb.webp",
+          "full": "content/photos/albums/Nature/Fire/edit-71.webp"
+        }
+      ],
+      "cover": "nature-fire-edit-10",
+      "albumViewBackgroundId": "nature-fire-edit-150",
+      "albumViewBackground": "content/photos/albums/Nature/Fire/edit-150-thumb.webp"
+    },
+    {
+      "id": "nature-lightning",
+      "name": "Lightning",
+      "description": "The electric nature of Spring thunderstorms.",
+      "items": [
+        {
+          "id": "nature-lightning-lightning-e",
+          "thumbnail": "content/photos/albums/Nature/Lightning/lightning-e-thumb.webp",
+          "full": "content/photos/albums/Nature/Lightning/lightning-e.webp"
+        },
+        {
+          "id": "nature-lightning-lightning-ii-e",
+          "thumbnail": "content/photos/albums/Nature/Lightning/lightning-ii-e-thumb.webp",
+          "full": "content/photos/albums/Nature/Lightning/lightning-ii-e.webp"
+        },
+        {
+          "id": "nature-lightning-lightning-iii-e",
+          "thumbnail": "content/photos/albums/Nature/Lightning/lightning-iii-e-thumb.webp",
+          "full": "content/photos/albums/Nature/Lightning/lightning-iii-e.webp"
+        }
+      ],
+      "cover": "nature-lightning-lightning-e",
+      "albumViewBackgroundId": "nature-lightning-lightning-e",
+      "albumViewBackground": "content/photos/albums/Nature/Lightning/lightning-e-thumb.webp"
+    },
+    {
+      "id": "nature-macros",
+      "name": "Macros",
+      "description": "Witness the smalls of nature through my camera. One of my favorite types of photography.",
+      "items": [
+        {
+          "id": "nature-macros-dand-e",
+          "thumbnail": "content/photos/albums/Nature/Macros/dand-e-thumb.webp",
+          "full": "content/photos/albums/Nature/Macros/dand-e.webp"
+        },
+        {
+          "id": "nature-macros-grass-e",
+          "thumbnail": "content/photos/albums/Nature/Macros/grass-e-thumb.webp",
+          "full": "content/photos/albums/Nature/Macros/grass-e.webp"
+        },
+        {
+          "id": "nature-macros-grass-ii-e",
+          "thumbnail": "content/photos/albums/Nature/Macros/grass-ii-e-thumb.webp",
+          "full": "content/photos/albums/Nature/Macros/grass-ii-e.webp"
+        },
+        {
+          "id": "nature-macros-grass-iii-e",
+          "thumbnail": "content/photos/albums/Nature/Macros/grass-iii-e-thumb.webp",
+          "full": "content/photos/albums/Nature/Macros/grass-iii-e.webp"
+        },
+        {
+          "id": "nature-macros-leaf-i",
+          "thumbnail": "content/photos/albums/Nature/Macros/leaf-i-thumb.webp",
+          "full": "content/photos/albums/Nature/Macros/leaf-i.webp"
+        },
+        {
+          "id": "nature-macros-log-e",
+          "thumbnail": "content/photos/albums/Nature/Macros/log-e-thumb.webp",
+          "full": "content/photos/albums/Nature/Macros/log-e.webp"
+        },
+        {
+          "id": "nature-macros-moss-i",
+          "thumbnail": "content/photos/albums/Nature/Macros/moss-i-thumb.webp",
+          "full": "content/photos/albums/Nature/Macros/moss-i.webp"
+        },
+        {
+          "id": "nature-macros-mushroom-i",
+          "thumbnail": "content/photos/albums/Nature/Macros/mushroom-i-thumb.webp",
+          "full": "content/photos/albums/Nature/Macros/mushroom-i.webp"
+        },
+        {
+          "id": "nature-macros-mushroom-iia",
+          "thumbnail": "content/photos/albums/Nature/Macros/mushroom-iia-thumb.webp",
+          "full": "content/photos/albums/Nature/Macros/mushroom-iia.webp"
+        },
+        {
+          "id": "nature-macros-wisco-m-ii-e",
+          "thumbnail": "content/photos/albums/Nature/Macros/wisco-m-ii-e-thumb.webp",
+          "full": "content/photos/albums/Nature/Macros/wisco-m-ii-e.webp"
+        }
+      ],
+      "cover": "nature-macros-moss-i",
+      "albumViewBackgroundId": "nature-macros-grass-e",
+      "albumViewBackground": "content/photos/albums/Nature/Macros/grass-ue-thumb.webp"
+    },
+    {
+      "id": "nature-mark-twain",
+      "name": "Mark Twain",
+      "description": "A selection of photos from my brother and I's trip to Mark Twain National Forest in the summer of 2024.",
+      "items": [
+        {
+          "id": "nature-mark-twain-twain-sky",
+          "thumbnail": "content/photos/albums/Nature/Mark Twain/twain-sky-thumb.webp",
+          "full": "content/photos/albums/Nature/Mark Twain/twain-sky.webp"
+        },
+        {
+          "id": "nature-mark-twain-twain-tents",
+          "thumbnail": "content/photos/albums/Nature/Mark Twain/twain-tents-thumb.webp",
+          "full": "content/photos/albums/Nature/Mark Twain/twain-tents.webp"
+        }
+      ],
+      "cover": "nature-mark-twain-twain-sky",
+      "albumViewBackgroundId": "nature-mark-twain-twain-tents",
+      "albumViewBackground": "content/photos/albums/Nature/Mark Twain/twain-tents-thumb.webp"
+    },
+    {
+      "id": "nature-milky-way",
+      "name": "Milky Way",
+      "description": "The stunning beauty of our galaxy from dark skies both in Wisconsin and Illinois.",
+      "items": [
+        {
+          "id": "nature-milky-way-mw-e",
+          "thumbnail": "content/photos/albums/Nature/Milky Way/mw-e-thumb.webp",
+          "full": "content/photos/albums/Nature/Milky Way/mw-e.webp"
+        },
+        {
+          "id": "nature-milky-way-mw-ii-e",
+          "thumbnail": "content/photos/albums/Nature/Milky Way/mw-ii-e-thumb.webp",
+          "full": "content/photos/albums/Nature/Milky Way/mw-ii-e.webp"
+        }
+      ],
+      "cover": "nature-milky-way-mw-e",
+      "albumViewBackgroundId": "nature-milky-way-mw-e",
+      "albumViewBackground": "content/photos/albums/Nature/Milky Way/mw-e-thumb.webp"
+    },
+    {
+      "id": "nature-night",
+      "name": "Night",
+      "description": "A collection of images captured when the sun is below the horizon.",
+      "items": [
+        {
+          "id": "nature-night-andromeda-e",
+          "thumbnail": "content/photos/albums/Nature/Night/andromeda-e-thumb.webp",
+          "full": "content/photos/albums/Nature/Night/andromeda-e.webp"
+        },
+        {
+          "id": "nature-night-orion-edit",
+          "thumbnail": "content/photos/albums/Nature/Night/orion-edit-thumb.webp",
+          "full": "content/photos/albums/Nature/Night/orion-edit.webp"
+        },
+        {
+          "id": "nature-night-siloh-e",
+          "thumbnail": "content/photos/albums/Nature/Night/siloh-e-thumb.webp",
+          "full": "content/photos/albums/Nature/Night/siloh-e.webp"
+        },
+        {
+          "id": "nature-night-street-e",
+          "thumbnail": "content/photos/albums/Nature/Night/street-e-thumb.webp",
+          "full": "content/photos/albums/Nature/Night/street-e.webp"
+        }
+      ],
+      "cover": "nature-night-siloh-e",
+      "albumViewBackgroundId": "nature-night-orion-edit",
+      "albumViewBackground": "content/photos/albums/Nature/Night/orion-edit-thumb.webp"
+    },
+    {
+      "id": "nature-solar-system",
+      "name": "Solar System",
+      "description": "The celestial bodies of our solar system, captured through my Grandfather'sMeade ETX-90 telescope.",
+      "items": [
+        {
+          "id": "nature-solar-system-eclipse-e",
+          "thumbnail": "content/photos/albums/Nature/Solar System/eclipse-e-thumb.webp",
+          "full": "content/photos/albums/Nature/Solar System/eclipse-e.webp"
+        },
+        {
+          "id": "nature-solar-system-jupiter-resize-sharpen-ii",
+          "thumbnail": "content/photos/albums/Nature/Solar System/jupiter_resize_sharpen_ii-thumb.webp",
+          "full": "content/photos/albums/Nature/Solar System/jupiter_resize_sharpen_ii.webp"
+        },
+        {
+          "id": "nature-solar-system-mars",
+          "thumbnail": "content/photos/albums/Nature/Solar System/mars-thumb.webp",
+          "full": "content/photos/albums/Nature/Solar System/mars.webp"
+        },
+        {
+          "id": "nature-solar-system-moon-stacked-e",
+          "thumbnail": "content/photos/albums/Nature/Solar System/moon-stacked-e-thumb.webp",
+          "full": "content/photos/albums/Nature/Solar System/moon-stacked-e.webp"
+        },
+        {
+          "id": "nature-solar-system-saturn",
+          "thumbnail": "content/photos/albums/Nature/Solar System/saturn-thumb.webp",
+          "full": "content/photos/albums/Nature/Solar System/saturn.webp"
+        }
+      ],
+      "cover": "nature-solar-system-moon-stacked-e",
+      "albumViewBackgroundId": "nature-solar-system-eclipse-e",
+      "albumViewBackground": "content/photos/albums/Nature/Solar System/eclipse-e-thumb.webp"
+    },
+    {
+      "id": "nature-wisconsin",
+      "name": "Wisconsin",
+      "description": "A morning in Wisconsin, witnessed shortly before sunrise.",
+      "items": [
+        {
+          "id": "nature-wisconsin-w-pan-e",
+          "thumbnail": "content/photos/albums/Nature/Wisconsin/w-pan-e-thumb.webp",
+          "full": "content/photos/albums/Nature/Wisconsin/w-pan-e.webp"
+        },
+        {
+          "id": "nature-wisconsin-wisco-m-e",
+          "thumbnail": "content/photos/albums/Nature/Wisconsin/wisco-m-e-thumb.webp",
+          "full": "content/photos/albums/Nature/Wisconsin/wisco-m-e.webp"
+        }
+      ],
+      "cover": "nature-wisconsin-w-pan-e",
+      "albumViewBackgroundId": "nature-wisconsin-wisco-m-e",
+      "albumViewBackground": "content/photos/albums/Nature/Wisconsin/wisco-m-e-thumb.webp"
+    },
+    {
+      "id": "other",
+      "name": "Other",
+      "description": "Uncategorized photos I didn't know where to display.",
+      "items": [
+        {
+          "id": "other-ia",
+          "thumbnail": "content/photos/albums/Other/ia-thumb.webp",
+          "full": "content/photos/albums/Other/ia.webp"
+        },
+        {
+          "id": "other-ii-2",
+          "thumbnail": "content/photos/albums/Other/ii-2-thumb.webp",
+          "full": "content/photos/albums/Other/ii-2.webp"
+        },
+        {
+          "id": "other-iii",
+          "thumbnail": "content/photos/albums/Other/iii-thumb.webp",
+          "full": "content/photos/albums/Other/iii.webp"
+        },
+        {
+          "id": "other-norm-e",
+          "thumbnail": "content/photos/albums/Other/norm-e-thumb.webp",
+          "full": "content/photos/albums/Other/norm-e.webp"
+        }
+      ],
+      "cover": "other-norm-e",
+      "albumViewBackgroundId": "other-norm-e",
+      "albumViewBackground": "content/photos/albums/Other/norm-e-thumb.webp"
+    },
+    {
+      "id": "people-football",
+      "name": "football",
+      "description": "Moments from Illinois State football games while I was on the sidelines.",
+      "items": [
+        {
+          "id": "people-football-edit-144",
+          "thumbnail": "content/photos/albums/People/football/edit-144-thumb.webp",
+          "full": "content/photos/albums/People/football/edit-144.webp"
+        },
+        {
+          "id": "people-football-edit-174",
+          "thumbnail": "content/photos/albums/People/football/edit-174-thumb.webp",
+          "full": "content/photos/albums/People/football/edit-174.webp"
+        },
+        {
+          "id": "people-football-edit-176",
+          "thumbnail": "content/photos/albums/People/football/edit-176-thumb.webp",
+          "full": "content/photos/albums/People/football/edit-176.webp"
+        },
+        {
+          "id": "people-football-edit-195",
+          "thumbnail": "content/photos/albums/People/football/edit-195-thumb.webp",
+          "full": "content/photos/albums/People/football/edit-195.webp"
+        },
+        {
+          "id": "people-football-edit-29",
+          "thumbnail": "content/photos/albums/People/football/edit-29-thumb.webp",
+          "full": "content/photos/albums/People/football/edit-29.webp"
+        },
+        {
+          "id": "people-football-edit-473",
+          "thumbnail": "content/photos/albums/People/football/edit-473-thumb.webp",
+          "full": "content/photos/albums/People/football/edit-473.webp"
+        },
+        {
+          "id": "people-football-edit-515",
+          "thumbnail": "content/photos/albums/People/football/edit-515-thumb.webp",
+          "full": "content/photos/albums/People/football/edit-515.webp"
+        },
+        {
+          "id": "people-football-edit-6",
+          "thumbnail": "content/photos/albums/People/football/edit-6-thumb.webp",
+          "full": "content/photos/albums/People/football/edit-6.webp"
+        },
+        {
+          "id": "people-football-edit-80",
+          "thumbnail": "content/photos/albums/People/football/edit-80-thumb.webp",
+          "full": "content/photos/albums/People/football/edit-80.webp"
+        }
+      ],
+      "cover": "people-football-edit-80",
+      "albumViewBackgroundId": "people-football-edit-195",
+      "albumViewBackground": "content/photos/albums/People/football/edit-195-thumb.webp"
+    },
+    {
+      "id": "people-mrj",
+      "name": "mrj",
+      "description": "moreraspberryjam.. does not have a Wikipedia page.",
+      "items": [
+        {
+          "id": "people-mrj-china-shipping",
+          "thumbnail": "content/photos/albums/People/mrj/china-shipping-thumb.webp",
+          "full": "content/photos/albums/People/mrj/china-shipping.webp"
+        },
+        {
+          "id": "people-mrj-iiif",
+          "thumbnail": "content/photos/albums/People/mrj/iiif-thumb.webp",
+          "full": "content/photos/albums/People/mrj/iiif.webp"
+        },
+        {
+          "id": "people-mrj-img-0002",
+          "thumbnail": "content/photos/albums/People/mrj/img_0002-thumb.webp",
+          "full": "content/photos/albums/People/mrj/img_0002.webp"
+        },
+        {
+          "id": "people-mrj-iv",
+          "thumbnail": "content/photos/albums/People/mrj/iv-thumb.webp",
+          "full": "content/photos/albums/People/mrj/iv.webp"
+        },
+        {
+          "id": "people-mrj-mrj-i",
+          "thumbnail": "content/photos/albums/People/mrj/mrj-i-thumb.webp",
+          "full": "content/photos/albums/People/mrj/mrj-i.webp"
+        },
+        {
+          "id": "people-mrj-mrj-ii",
+          "thumbnail": "content/photos/albums/People/mrj/mrj-ii-thumb.webp",
+          "full": "content/photos/albums/People/mrj/mrj-ii.webp"
+        },
+        {
+          "id": "people-mrj-mrj-iv",
+          "thumbnail": "content/photos/albums/People/mrj/mrj-iv-thumb.webp",
+          "full": "content/photos/albums/People/mrj/mrj-iv.webp"
+        },
+        {
+          "id": "people-mrj-mrj-ix",
+          "thumbnail": "content/photos/albums/People/mrj/mrj-ix-thumb.webp",
+          "full": "content/photos/albums/People/mrj/mrj-ix.webp"
+        },
+        {
+          "id": "people-mrj-mrj-v",
+          "thumbnail": "content/photos/albums/People/mrj/mrj-v-thumb.webp",
+          "full": "content/photos/albums/People/mrj/mrj-v.webp"
+        },
+        {
+          "id": "people-mrj-mrj-vi",
+          "thumbnail": "content/photos/albums/People/mrj/mrj-vi-thumb.webp",
+          "full": "content/photos/albums/People/mrj/mrj-vi.webp"
+        },
+        {
+          "id": "people-mrj-mrj-vii",
+          "thumbnail": "content/photos/albums/People/mrj/mrj-vii-thumb.webp",
+          "full": "content/photos/albums/People/mrj/mrj-vii.webp"
+        },
+        {
+          "id": "people-mrj-mrj-x",
+          "thumbnail": "content/photos/albums/People/mrj/mrj-x-thumb.webp",
+          "full": "content/photos/albums/People/mrj/mrj-x.webp"
+        },
+        {
+          "id": "people-mrj-tagabow",
+          "thumbnail": "content/photos/albums/People/mrj/tagabow-thumb.webp",
+          "full": "content/photos/albums/People/mrj/tagabow.webp"
+        },
+        {
+          "id": "people-mrj-tagabow-ii",
+          "thumbnail": "content/photos/albums/People/mrj/tagabow-ii-thumb.webp",
+          "full": "content/photos/albums/People/mrj/tagabow-ii.webp"
+        },
+        {
+          "id": "people-mrj-tagabow-iii",
+          "thumbnail": "content/photos/albums/People/mrj/tagabow-iii-thumb.webp",
+          "full": "content/photos/albums/People/mrj/tagabow-iii.webp"
+        }
+      ],
+      "cover": "people-mrj-iv",
+      "albumViewBackgroundId": "people-mrj-mrj-i",
+      "albumViewBackground": "content/photos/albums/People/mrj/mrj-i-thumb.webp"
+    },
+    {
+      "id": "people-parades",
+      "name": "parades",
+      "description": "Moments from parades, runs, and other events while I was a part of University Marketing at Illinois State.",
+      "items": [
+        {
+          "id": "people-parades-edit-108",
+          "thumbnail": "content/photos/albums/People/parades/edit-108-thumb.webp",
+          "full": "content/photos/albums/People/parades/edit-108.webp"
+        },
+        {
+          "id": "people-parades-edit-222",
+          "thumbnail": "content/photos/albums/People/parades/edit-222-thumb.webp",
+          "full": "content/photos/albums/People/parades/edit-222.webp"
+        },
+        {
+          "id": "people-parades-edit-229",
+          "thumbnail": "content/photos/albums/People/parades/edit-229-thumb.webp",
+          "full": "content/photos/albums/People/parades/edit-229.webp"
+        },
+        {
+          "id": "people-parades-edit-43",
+          "thumbnail": "content/photos/albums/People/parades/edit-43-thumb.webp",
+          "full": "content/photos/albums/People/parades/edit-43.webp"
+        },
+        {
+          "id": "people-parades-edit-87",
+          "thumbnail": "content/photos/albums/People/parades/edit-87-thumb.webp",
+          "full": "content/photos/albums/People/parades/edit-87.webp"
+        },
+        {
+          "id": "people-parades-edit-99",
+          "thumbnail": "content/photos/albums/People/parades/edit-99-thumb.webp",
+          "full": "content/photos/albums/People/parades/edit-99.webp"
+        }
+      ],
+      "cover": "people-parades-edit-108",
+      "albumViewBackgroundId": "people-parades-edit-108",
+      "albumViewBackground": "content/photos/albums/People/parades/edit-108-thumb.webp"
+    },
+    {
+      "id": "people-portraits",
+      "name": "portraits",
+      "description": "A selection of the some portraits of my friends Megan and Tom. The four of Megan were taken with Photo Club at our annual Portrait Demo in September 2021. I learned a lot about portraiture from my friend Julia, and even more about Camera Raw in Photoshop while editing. These photos went through three separate rounds of editing over five years. The one of Tom was taken while racing down a country road in his manual transmission Sonic RS.",
+      "items": [
+        {
+          "id": "people-portraits-meg-e",
+          "thumbnail": "content/photos/albums/People/portraits/meg-e-thumb.webp",
+          "full": "content/photos/albums/People/portraits/meg-e.webp"
+        },
+        {
+          "id": "people-portraits-meg-ii-e",
+          "thumbnail": "content/photos/albums/People/portraits/meg-ii-e-thumb.webp",
+          "full": "content/photos/albums/People/portraits/meg-ii-e.webp"
+        },
+        {
+          "id": "people-portraits-meg-iii-e",
+          "thumbnail": "content/photos/albums/People/portraits/meg-iii-e-thumb.webp",
+          "full": "content/photos/albums/People/portraits/meg-iii-e.webp"
+        },
+        {
+          "id": "people-portraits-meg-iv-e",
+          "thumbnail": "content/photos/albums/People/portraits/meg-iv-e-thumb.webp",
+          "full": "content/photos/albums/People/portraits/meg-iv-e.webp"
+        },
+        {
+          "id": "people-portraits-tom-e",
+          "thumbnail": "content/photos/albums/People/portraits/tom-e-thumb.webp",
+          "full": "content/photos/albums/People/portraits/tom-e.webp"
+        }
+      ],
+      "cover": "people-portraits-meg-e",
+      "albumViewBackgroundId": "people-portraits-meg-iii-e",
+      "albumViewBackground": "content/photos/albums/People/portraits/meg-iii-e-thumb.webp"
+    },
+    {
+      "id": "people-soccer",
+      "name": "soccer",
+      "description": "A collection of photos from when I was a part of University Marketing in 2021. Illinois State vs Southern Illinois Carbondale.",
+      "items": [
+        {
+          "id": "people-soccer-edit-49",
+          "thumbnail": "content/photos/albums/People/soccer/edit-49-thumb.webp",
+          "full": "content/photos/albums/People/soccer/edit-49.webp"
+        },
+        {
+          "id": "people-soccer-edit-79",
+          "thumbnail": "content/photos/albums/People/soccer/edit-79-thumb.webp",
+          "full": "content/photos/albums/People/soccer/edit-79.webp"
+        },
+        {
+          "id": "people-soccer-edit-97",
+          "thumbnail": "content/photos/albums/People/soccer/edit-97-thumb.webp",
+          "full": "content/photos/albums/People/soccer/edit-97.webp"
+        }
+      ],
+      "cover": "people-soccer-edit-97",
+      "albumViewBackgroundId": "people-soccer-edit-97",
+      "albumViewBackground": "content/photos/albums/People/soccer/edit-97-thumb.webp"
+    },
+    {
+      "id": "stardew-valley",
+      "name": "Stardew Valley",
+      "description": "",
+      "items": [
+        {
+          "id": "stardew-valley-jester-2-16-2025-58252739",
+          "thumbnail": "content/photos/albums/Stardew Valley/jester_2-16-2025_58252739-thumb.webp",
+          "full": "content/photos/albums/Stardew Valley/jester_2-16-2025_58252739.webp"
+        },
+        {
+          "id": "stardew-valley-reyna-10-17-2025-15757888",
+          "thumbnail": "content/photos/albums/Stardew Valley/reyna_10-17-2025_15757888-thumb.webp",
+          "full": "content/photos/albums/Stardew Valley/reyna_10-17-2025_15757888.webp"
+        }
+      ],
+      "cover": "stardew-valley-jester-2-16-2025-58252739",
+      "albumViewBackgroundId": "stardew-valley-jester-2-16-2025-58252739",
+      "albumViewBackground": "content/photos/albums/Stardew Valley/jester_2-16-2025_58252739-thumb.webp"
+    }
+  ]
+}

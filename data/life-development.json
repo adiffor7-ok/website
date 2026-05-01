@@ -1,0 +1,319 @@
+{
+  "items": [
+    {
+      "year": "2019.2.1",
+      "type": "course",
+      "courseCode": "TEC 100",
+      "title": "Professional Development in Technology",
+      "description": "Introduction to career and leadership opportunities, employer expectations, job search skills, and placement resources within technology fields of study.",
+      "bullets": ["Resume Building", "Career Fair"]
+    },
+    {
+      "year": "2019.2.2",
+      "type": "course",
+      "courseCode": "TEC 116",
+      "title": "Intro Technical Drawing & Constraint-Based Solid Modeling",
+      "description": "Introduction to technical drawing with emphasis on CAD constraint-based solid modeling, sketching, and basic blueprint reading.",
+      "bullets": ["Autodesk Inventor", "CAD Modeling", "Blueprint Reading"]
+    },
+    {
+      "year": "2019.2.3",
+      "type": "course",
+      "courseCode": "TEC 130",
+      "title": "Introduction To Manufacturing Processes",
+      "description": "Secondary material processes including industrial machinery usage and study in forming, casting, separating, joining, and conditioning.",
+      "bullets": ["Manual Machine Operation", "Additive and Subtractive Machining", "Intro to Material Properties"]
+    },
+
+    {
+      "year": "2020.1.1",
+      "type": "course",
+      "courseCode": "TEC 111",
+      "title": "Fundamentals of Power Technology",
+      "description": "Principles of electrical, electronic, mechanical, and fluid power components and systems as they apply to industrial applications.",
+      "bullets": ["Intro to PLCs", "Electrical Circuits", "Fluid Power", "Mechanical Systems"]
+    },
+    {
+      "year": "2020.1.2",
+      "type": "course",
+      "courseCode": "TEC 150",
+      "title": "Graphic Communications Technology",
+      "description": "Introduction to the history, vocabulary, tools, materials, and process of the graphic communications industry.",
+      "bullets": ["Printing Terminology", "Screen Printing", "Flexography", "Digital Printing", "Offset Press"]
+    },
+    {
+      "year": "2020.2.1",
+      "type": "course",
+      "courseCode": "TEC 151",
+      "title": "Introduction To Computer Systems Technology",
+      "description": "Study and use of basic methods and software used in computer applications for imaging, graphics, and communications.",
+      "bullets": ["Operating Systems", "Basic Networking", "C# Programming"]
+    },
+    {
+      "year": "2020.2.2",
+      "type": "course",
+      "courseCode": "TEC 216",
+      "title": "Constraint-Based Solid Modeling And Production Drawings",
+      "description": "Intermediate course focusing on constraint-based solid modeling, technical drawing practices, and blueprint/tolerance interpretation.",
+      "bullets": ["Assembly Drawings", "Advanced Autodesk Inventor", "Caliper Applications"]
+    },
+    {
+      "year": "2020.2.3",
+      "type": "course",
+      "courseCode": "TEC 250",
+      "title": "Graphic Media Composition",
+      "description": "Study of graphic media production technology to plan and create documents including advertisements, brochures, books, packages, and e-books.",
+      "bullets": ["Adobe InDesign", "Adobe Illustrator", "Layout Techniques", "Interactable PDFs"]
+    },
+    {
+      "year": "2020.2.4",
+      "type": "course",
+      "courseCode": "TEC 253",
+      "title": "Image Capture And Editing",
+      "description": "Digital photography, scanning, image editing software tools, PostScript output, halftones, tone reproduction, densitometry, and reproduction concerns.",
+      "bullets": ["Product Photography", "Studio Photography", "Lighting", "Camera Settings", "RAW Processing"]
+    },
+
+    {
+      "year": "2021.1.1",
+      "type": "course",
+      "courseCode": "TEC 152",
+      "title": "Digital Media Applications",
+      "description": "Study of technology used for digital media and communications.",
+      "bullets": ["Adobe Photoshop", "Adobe Animate", "Dreamweaver", "After Effects", "Premiere Pro"]
+    },
+    {
+      "year": "2021.1.2",
+      "type": "course",
+      "courseCode": "TEC 257",
+      "title": "Print Media Production",
+      "description": "Study of printing production processes including lithography, flexography, screen printing, and digital printing.",
+      "bullets": ["History of Printing", "Finishing / Binding", "Inks", "Cylinder Types"]
+    },
+    {
+      "year": "2021.1.3",
+      "type": "course",
+      "courseCode": "TEC 270",
+      "title": "Managing Technological Systems",
+      "description": "Principles, practices and methods used to plan, organize, lead, and control technological systems.",
+      "bullets": ["Business Structures", "Economics and Terminology", "Goods vs Services", "Profitability Evaluation"]
+    },
+    {
+      "year": "2021.1.4",
+      "type": "course",
+      "courseCode": "TEC 317",
+      "title": "Computer Generated Imagery",
+      "description": "Foundational skills in modeling, texturing, rigging, lighting, animating, and rendering using computer systems.",
+      "bullets": ["3D Modeling", "UV Wrapping", "Rigging", "Autodesk Maya", "Blender 3D"]
+    },
+    {
+      "year": "2021.1.5",
+      "type": "course",
+      "courseCode": "TEC 330",
+      "title": "Engineering Economics",
+      "description": "Applied economic techniques used to determine the relative worth of alternative systems, products, and services.",
+      "bullets": ["Calculating Deviations", "P and Q Values", "Products / Systems Evaluation"]
+    },
+    {
+      "year": "2021.2.1",
+      "type": "course",
+      "courseCode": "TEC 233",
+      "title": "Computer Numerical Control (CNC) & Machining",
+      "description": "Introduction to metals machining processes with emphasis on automation using CNC.",
+      "bullets": ["G-Code Programming", "CNC Programming", "Siemens NX", "Subtractive Manufacturing"]
+    },
+    {
+      "year": "2021.2.2",
+      "type": "course",
+      "courseCode": "TEC 234",
+      "title": "Robotic Systems Integration",
+      "description": "Introduction to robotics including common applications, programming, safety, and integration principles.",
+      "bullets": ["Robotic Programming", "ABB Robot Studio", "RAPID Programming", "Robotic Troubleshooting"]
+    },
+    {
+      "year": "2021.2.3",
+      "type": "course",
+      "courseCode": "TEC 240",
+      "title": "Electric Circuits & Machines",
+      "description": "Electrical principles and applications including circuit diagrams, switches, relays, motors, and transformers.",
+      "bullets": ["Electrical Circuits", "Electrical Schematics", "Electrical Components"]
+    },
+    {
+      "year": "2021.2.4",
+      "type": "course",
+      "courseCode": "TEC 263",
+      "title": "Automated Fluid Power Systems",
+      "description": "Theory and operation of fluid power circuits and intermediate level PLC programming.",
+      "bullets": ["PLC Logic", "PLC Programming", "RSLogix5000", "Systems Integration"]
+    },
+    {
+      "year": "2021.2.5",
+      "type": "course",
+      "courseCode": "TEC 285",
+      "title": "Industrial Plastics",
+      "description": "Resins, processing, fabrication, injection molding, extrusion, rotational molding, compression molding, thermoforming, fiberglass lay-up, identification and testing.",
+      "bullets": ["Plastics Identification", "Material Properties", "Thermosets vs Thermoforms", "Environmental Effects"]
+    },
+
+    {
+      "year": "2022.1.1",
+      "type": "course",
+      "courseCode": "TEC 293",
+      "title": "Mechanical Properties of Materials",
+      "description": "Theory and practice of standardized testing procedures to determine the modulus and strength of engineering materials.",
+      "bullets": ["Tensile / Compression / Impact Testing", "Material Properties", "Evaluating Loads", "Material Selection"]
+    },
+    {
+      "year": "2022.1.2",
+      "type": "course",
+      "courseCode": "TEC 320",
+      "title": "Project Management",
+      "description": "Fundamentals of project management emphasizing planning techniques to meet stakeholder expectations regarding scope, time, cost, and quality.",
+      "bullets": ["Product Cycles", "Gantt Charts", "5S", "Management Techniques"]
+    },
+    {
+      "year": "2022.1.3",
+      "type": "course",
+      "courseCode": "TEC 352",
+      "title": "Prepress Technology",
+      "description": "Utilization of advanced pre-press methods and technologies in the creation and management of print media.",
+      "bullets": ["Preflight Checklist", "Image Processing for Print", "Trapping", "Crop & Bleed", "File Management"]
+    },
+    {
+      "year": "2022.5-2022.8",
+      "type": "experience",
+      "title": "Manufacturing Engineering Intern",
+      "date": "Summer 2022",
+      "description": "Caterpillar Inc.",
+      "bullets": [
+        "Analyzed Key Performance Indicators from machine data to discover the source of downtime",
+        "Built spreadsheets and tools in Microsoft Excel to understand part workflow and bottlenecks",
+        "Collaborated between machine operators and management to improve relationships and communication"
+      ]
+    },
+    {
+      "year": "2022.2.1",
+      "type": "course",
+      "courseCode": "TEC 313",
+      "title": "Quality Systems For Technology",
+      "description": "A managed quality system using statistical tools; control charts, paretos, histograms, scattergrams, flowcharts and problem-solving techniques.",
+      "bullets": ["Business Bottlenecks", "AnyLogic Simulation", "Key Performance Indicators"]
+    },
+    {
+      "year": "2022.2.2",
+      "type": "course",
+      "courseCode": "TEC 350",
+      "title": "Package Design And Production",
+      "description": "Study of design, materials, and production processes used in the manufacture of packages and displays.",
+      "bullets": ["Flexography", "Plate Making", "Digital Packaging", "Large Format Printing", "POP Displays"]
+    },
+    {
+      "year": "2022.2.3",
+      "type": "course",
+      "courseCode": "TEC 351",
+      "title": "Cross-Media Technology",
+      "description": "Technology and processes used in cross-media production, with emphasis on interactive digital print products.",
+      "bullets": ["3D Modeling", "Adobe Aero", "Variable Printing Data", "QR Code Generation"]
+    },
+    {
+      "year": "2022.2.4",
+      "type": "course",
+      "courseCode": "TEC 354",
+      "title": "Print Production Planning and Profitability",
+      "description": "Printing production workflow analysis, cost estimating, scheduling, job costing, and profitability.",
+      "bullets": ["Print Estimating", "Estimating Terminology", "Print Point Software"]
+    },
+
+    {
+      "year": "2023.1.1",
+      "type": "course",
+      "courseCode": "TEC 353",
+      "title": "Color Management",
+      "description": "Study of color theory and measurement, device calibration and profiling, color reproduction variables, color proofing, and color management workflow.",
+      "bullets": ["Display Calibration", "Delta E Values", "Color Spaces", "Munsell Color System"]
+    },
+    {
+      "year": "2023.1.2",
+      "type": "course",
+      "courseCode": "TEC 356",
+      "title": "Graphic Communication Business Practices",
+      "description": "Current management trends with emphasis on production management and legal issues for graphic communications businesses.",
+      "bullets": ["Business Evaluation", "Business Sustainability", "Copyright & Trademark Laws"]
+    },
+    {
+      "year": "2023.1.3",
+      "type": "course",
+      "courseCode": "TEC 358",
+      "title": "E-Publishing Management",
+      "description": "Study of ePublishing technology, media production management, and digital asset management for graphic communications businesses.",
+      "bullets": ["Premiere Pro", "Photoshop", "Dreamweaver", "WordPress", "Magazine Production", "EPUB Creation"]
+    },
+    {
+      "year": "2023.5-2023.8",
+      "type": "experience",
+      "title": "Packaging & Creative Intern",
+      "date": "Summer 2023",
+      "description": "Quad Graphics",
+      "bullets": [
+        "Walked through production facilities in Franklin & Sussex",
+        "Designed and updated graphics for consumer packaging",
+        "Prepared packaging artwork using Esko tools and Adobe Illustrator",
+        "Updated marketing materials to align with new company rebrand",
+        "Created a new demo website for Packaging Insight (South Carolina)"
+      ]
+    },
+    {
+      "year": "2023.2.1",
+      "type": "course",
+      "courseCode": "TEC 392",
+      "title": "Manufacturing Organization And Management",
+      "description": "The study of industrial production systems including product, manufacturing, and plant engineering through managing a production project.",
+      "bullets": ["Group Project Management", "CNC Programming & Machining", "3D Modeling", "Collaboration"]
+    },
+
+    {
+      "year": "2024.2-2024.6",
+      "type": "experience",
+      "title": "Print Production Assistant",
+      "date": "Winter 2024 – Summer 2024",
+      "description": "The Copy Shop",
+      "bullets": [
+        "Communicated with customers about job specifications including sizing, substrate choice, bleeds, crops, and file conversions",
+        "Prepared impositions to maximize ink efficiency and minimize material waste",
+        "Calibrated printers for paper weights, sizes, and coatings",
+        "Printed, bound, resized, and priced blueprints",
+        "Organized physical assets and filed customer orders",
+        "Communicated order status to customers",
+        "Brought in treats to boost team morale"
+      ]
+    },
+    {
+      "year": "2024.7-2025.9",
+      "type": "experience",
+      "title": "Application Engineer",
+      "date": "Summer 2024 – Fall 2025",
+      "description": "Echo Electric",
+      "bullets": [
+        "Designed and managed build prints and electrical schematics for industrial applications",
+        "Operated machinery and equipment safely and effectively",
+        "Programmed industrial control panels and HMIs with Phoenix Contact's PLCNext Engineer",
+        "Created processes and procedures for future engineers to follow",
+        "Communicated with customers about project details, timelines, part delivery",
+        "Resolved build issues with management and technicians",
+        "Improved and updated digital file organization and structure"
+      ]
+    },
+    {
+      "year": "2025.12-2026.4",
+      "type": "experience",
+      "title": "Delivery Driver",
+      "date": "December 2025 – April 2026",
+      "description": "Doordash",
+      "bullets": [
+        "Deliver food and groceries to customers in a friendly and timely manner.",
+        "Learning alternative routes to deliver orders faster.",
+        "Find customer drop off locations and follow customer instructions."
+      ]
+    }
+  ]
+}
