@@ -23,7 +23,7 @@ echo "To activate the virtual environment, run:"
 echo "  source venv/bin/activate"
 echo ""
 echo "Then install dependencies with:"
-echo "  pip install -r requirements.txt"
+echo "  pip install -r scripts/requirements.txt"
 echo ""
 echo "Or run this script again with --install flag to auto-install:"
 echo "  bash setup_venv.sh --install"
@@ -34,7 +34,7 @@ if [ "$1" == "--install" ]; then
     echo "🔧 Activating virtual environment and installing dependencies..."
     source venv/bin/activate
     pip install --upgrade pip
-    pip install -r requirements.txt
+    pip install -r scripts/requirements.txt
     echo ""
     echo "✅ Setup complete! Virtual environment is active."
     echo "You can now run: python3 scripts/fetch_google_photos.py"
