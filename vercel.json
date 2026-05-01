@@ -1,4 +1,5 @@
 {
+  "framework": null,
   "functions": {
     "api/bricklink-random-part.js": {
       "maxDuration": 10,
