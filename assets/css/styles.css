@@ -303,7 +303,7 @@ body[data-theme] {
   color: var(--page-fg);
 }
 
-/* Theme definitions: default (black/white) + gold, each with light/dark */
+/* Theme definitions: default + gold/strawberry/water/coral/cactus/royal/mystery, each light/dark */
 body[data-theme="default-light"] {
   --page-bg: #f4f4f4;
   --accent: #1a1a1a;
@@ -352,6 +352,53 @@ body[data-theme="water-dark"] {
   --page-fg: #f5f5f5;
   --text-muted: rgba(245, 245, 245, 0.75);
 }
+body[data-theme="coral-light"] {
+  --page-bg: #f4f4f4;
+  --accent: #e85d75;
+  --page-fg: #1a1a1a;
+  --text-muted: #5c5c5c;
+}
+body[data-theme="coral-dark"] {
+  --page-bg: #070707;
+  --accent: #ff7a8f;
+  --page-fg: #f5f5f5;
+  --text-muted: rgba(245, 245, 245, 0.75);
+}
+body[data-theme="cactus-light"] {
+  --page-bg: #f4f4f4;
+  --accent: #3d7c47;
+  --page-fg: #1a1a1a;
+  --text-muted: #5c5c5c;
+}
+body[data-theme="cactus-dark"] {
+  --page-bg: #070707;
+  --accent: #6bbf78;
+  --page-fg: #f5f5f5;
+  --text-muted: rgba(245, 245, 245, 0.75);
+}
+body[data-theme="royal-light"] {
+  --page-bg: #f4f4f4;
+  --accent: #5b21b6;
+  --page-fg: #1a1a1a;
+  --text-muted: #5c5c5c;
+}
+body[data-theme="royal-dark"] {
+  --page-bg: #070707;
+  --accent: #a78bfa;
+  --page-fg: #f5f5f5;
+  --text-muted: rgba(245, 245, 245, 0.75);
+}
+/* Mystery accent: set on body via JS (--accent) so each click can cycle palette */
+body[data-theme="mystery-light"] {
+  --page-bg: #f4f4f4;
+  --page-fg: #1a1a1a;
+  --text-muted: #5c5c5c;
+}
+body[data-theme="mystery-dark"] {
+  --page-bg: #070707;
+  --page-fg: #f5f5f5;
+  --text-muted: rgba(245, 245, 245, 0.75);
+}
 
 /* default-dark: ensure dark bg + white text even when page-light class is present */
 body[data-theme="default-dark"],
@@ -366,7 +413,11 @@ body[data-theme="default-dark"].page-light {
 body[data-theme="default-light"] .top-nav,
 body[data-theme="gold-light"] .top-nav,
 body[data-theme="strawberry-light"] .top-nav,
-body[data-theme="water-light"] .top-nav {
+body[data-theme="water-light"] .top-nav,
+body[data-theme="coral-light"] .top-nav,
+body[data-theme="cactus-light"] .top-nav,
+body[data-theme="royal-light"] .top-nav,
+body[data-theme="mystery-light"] .top-nav {
   background: var(--page-bg) !important;
 }
 
@@ -7071,6 +7122,13 @@ body[data-theme*="-dark"] .theme-swatch:hover {
 
 .theme-swatch[aria-pressed="true"] {
   box-shadow: 0 0 0 3px var(--page-bg), 0 0 0 5px var(--accent);
+}
+
+.theme-swatch.theme-swatch--mystery[aria-pressed="true"] {
+  box-shadow:
+    0 0 0 3px var(--page-bg),
+    0 0 0 5px var(--swatch-accent, var(--accent)),
+    0 0 0 8px color-mix(in srgb, var(--swatch-accent, var(--accent)) 45%, transparent);
 }
 
 .theme-swatch-inner {
