@@ -1,13 +1,9 @@
 import { initTheme } from './theme.js';
-import { setupNavMobile } from './nav.js';
+import { setupNavMobile, setupNavHighlight } from './nav.js';
 
 initTheme();
 setupNavMobile();
-
-const currentPage = document.body.getAttribute('data-page');
-document.querySelectorAll('.nav-link').forEach((link) => {
-  link.classList.toggle('is-active', link.getAttribute('data-page') === currentPage);
-});
+setupNavHighlight();
 
 function classifyPhotos() {
   const blocks = Array.from(document.querySelectorAll('.blog-prose-with-margin'));

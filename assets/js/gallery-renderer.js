@@ -1,4 +1,4 @@
-// Gallery rendering functions
+﻿// Gallery rendering functions
 import { state, BLACK_LIGHTNESS_MAX, BLACK_CHROMA_MAX, WHITE_LIGHTNESS_MIN, WHITE_CHROMA_MAX, GREY_CHROMA_MAX, NEUTRAL_GROUPS, NEUTRAL_RANK } from './state.js';
 import { hasGalleryElements, hasDigitalArtElements, slugifyId, resolveAlbumViewerUrl } from './utils.js';
 import { isVideoItem, generateLowQualityPlaceholder, clearImageError, retryImageLoad, setupWebPImage } from './image-handling.js';
@@ -443,7 +443,6 @@ export function renderCollection(images, { container, template }) {
           if (playPromise !== undefined) {
             playPromise
               .then(() => {
-                console.log('Video playing successfully:', video.src);
               })
               .catch(e => {
                 console.warn('Video play failed:', e, 'URL:', video.src);
@@ -482,7 +481,6 @@ export function renderCollection(images, { container, template }) {
           // If original URL fails, try =dv format
           video.addEventListener('error', function tryDvFormat() {
             if (dvUrl && video.error && video.error.code === 4) {
-              console.log('Original URL failed, trying =dv format');
               video.removeEventListener('error', tryDvFormat);
               video.src = dvUrl;
               video.referrerPolicy = 'no-referrer';
@@ -497,15 +495,12 @@ export function renderCollection(images, { container, template }) {
         
         // Wait for video to load, then play
         const onLoadedData = () => {
-          console.log('Video loadeddata, readyState:', video.readyState, 'networkState:', video.networkState);
           playVideo();
         };
         const onCanPlay = () => {
-          console.log('Video canplay, readyState:', video.readyState);
           playVideo();
         };
         const onLoadedMetadata = () => {
-          console.log('Video loadedmetadata, readyState:', video.readyState);
           if (video.readyState >= 1) {
             playVideo();
           }
@@ -544,10 +539,8 @@ export function renderCollection(images, { container, template }) {
           video.removeEventListener('progress', onProgress);
         };
         const onLoadStart = () => {
-          console.log('Video loadstart, networkState:', video.networkState);
         };
         const onProgress = () => {
-          console.log('Video progress, readyState:', video.readyState, 'buffered:', video.buffered.length);
         };
         
         video.addEventListener('loadeddata', onLoadedData, { once: true });
@@ -565,7 +558,6 @@ export function renderCollection(images, { container, template }) {
         setTimeout(() => {
           if (video.paused && video.style.display !== 'none') {
             if (video.readyState >= 1 && !video.error) {
-              console.log('Fallback: attempting to play video, readyState:', video.readyState);
               playVideo();
             } else if (video.error || video.readyState === 0) {
               console.warn('Video not ready after timeout, showing image instead. readyState:', video.readyState, 'networkState:', video.networkState, 'error:', video.error);

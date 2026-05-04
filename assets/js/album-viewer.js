@@ -1,4 +1,4 @@
-// Album viewer functionality
+﻿// Album viewer functionality
 import { state } from './state.js';
 import { isVideoItem } from './image-handling.js';
 import { parseDatasetJSON, resolveAlbumViewerUrl } from './utils.js';
@@ -204,7 +204,6 @@ export function openAlbumPhotoViewer(imgElement, clickEvent, options) {
     if (!isGooglePhotos && baseUrl && baseUrl !== full) {
       albumViewerVideo.addEventListener('error', function tryDvFormat() {
         if (albumViewerVideo.error && albumViewerVideo.error.code === 4) {
-          console.log('Original video URL failed, trying =dv format');
           albumViewerVideo.removeEventListener('error', tryDvFormat);
           const dvUrl = baseUrl + '=dv';
           albumViewerVideo.src = dvUrl;
@@ -213,7 +212,6 @@ export function openAlbumPhotoViewer(imgElement, clickEvent, options) {
           
           // If =dv format also fails, show image instead
           albumViewerVideo.addEventListener('error', function showImageFallback() {
-            console.log('Video formats failed, showing image instead');
             // Completely stop and clear the video
             albumViewerVideo.pause();
             albumViewerVideo.src = '';
@@ -228,7 +226,6 @@ export function openAlbumPhotoViewer(imgElement, clickEvent, options) {
           }, { once: true });
         } else {
           // If error is not code 4, show image immediately
-          console.log('Video error, showing image instead');
           // Completely stop and clear the video
           albumViewerVideo.pause();
           albumViewerVideo.src = '';
@@ -862,7 +859,6 @@ export function navigateAlbumViewer(direction) {
     if (!isGooglePhotos && baseUrl && baseUrl !== full) {
       albumViewerVideo.addEventListener('error', function tryDvFormat() {
         if (albumViewerVideo.error && albumViewerVideo.error.code === 4 && baseUrl) {
-          console.log('Original video URL failed, trying =dv format');
           albumViewerVideo.removeEventListener('error', tryDvFormat);
           const dvUrl = baseUrl + '=dv';
           albumViewerVideo.src = dvUrl;
@@ -871,7 +867,6 @@ export function navigateAlbumViewer(direction) {
           
           // If =dv format also fails, show image instead
           albumViewerVideo.addEventListener('error', function showImageFallback() {
-            console.log('Video formats failed, showing image instead');
             // Completely stop and clear the video
             albumViewerVideo.pause();
             albumViewerVideo.src = '';
@@ -886,7 +881,6 @@ export function navigateAlbumViewer(direction) {
           }, { once: true });
         } else {
           // If error is not code 4, show image immediately
-          console.log('Video error, showing image instead');
           // Completely stop and clear the video
           albumViewerVideo.pause();
           albumViewerVideo.src = '';

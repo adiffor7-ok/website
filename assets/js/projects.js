@@ -1,9 +1,10 @@
 // PBB Belt page: sky with random asteroids/stars, pbb-belt centered
 import { initTheme } from './theme.js';
-import { setupNavMobile } from './nav.js';
+import { setupNavMobile, setupNavHighlight } from './nav.js';
 
 initTheme();
 setupNavMobile();
+setupNavHighlight();
 
 const SKY_ASSETS = [
   'assets/images/asteroids/seattle.svg',
@@ -497,10 +498,6 @@ function initProjects() {
 
   renderSkyDecor();
 
-  const currentPage = document.body.getAttribute('data-page');
-  document.querySelectorAll('.nav-link').forEach((link) => {
-    link.classList.toggle('is-active', link.getAttribute('data-page') === currentPage);
-  });
 }
 
 initProjects();

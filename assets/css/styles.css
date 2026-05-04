@@ -1,12 +1,4 @@
 @font-face {
-  font-family: "Source Serif Regular";
-  src: url("../fonts/Source Serif/Source_Serif_4/static/SourceSerif4-Regular.ttf") format("truetype");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
   font-family: "Belgiano Serif";
   src: url("../fonts/belgiano_serif/Belgiano Serif 2.ttf") format("truetype");
   font-weight: 400;
@@ -23,27 +15,8 @@
 }
 
 @font-face {
-  font-family: "Golden Sans Demo Version";
-  src: url("../fonts/golden_sands/Golden Sands DEMO VERSION.ttf") format("truetype");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
   font-family: "Zagora";
   src: url("../fonts/zagora/Zagora.ttf") format("truetype");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Agora";
-  src: url("../fonts/agora/Agora.ttf") format("truetype"),
-       url("../fonts/Agora.ttf") format("truetype"),
-       url("../fonts/agora/Agora.otf") format("opentype"),
-       url("../fonts/Agora.otf") format("opentype");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -82,14 +55,6 @@
 }
 
 @font-face {
-  font-family: "Motterdam";
-  src: url("../fonts/Motterdam.ttf") format("truetype");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
   font-family: "Nature Beauty";
   src: url("../fonts/NatureBeauty.ttf") format("truetype");
   font-weight: 400;
@@ -101,54 +66,6 @@
   font-family: "Carena";
   src: url("../fonts/carena/Carena-Regular.otf") format("opentype");
   font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Rosean";
-  src: url("../fonts/rosean/Rosean.ttf") format("truetype");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Junicode";
-  src: url("../fonts/junicode/Junicode-Italic.ttf") format("truetype");
-  font-weight: 400;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "DM Serif Text";
-  src: url("../fonts/DM_Serif_Text,Lora,Source_Serif_4/DM_Serif_Text/DMSerifText-Regular.ttf") format("truetype");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Lora";
-  src: url("../fonts/lora/Lora-Regular.ttf") format("truetype");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Vidaloka";
-  src: url("../fonts/Vidaloka-Regular.ttf") format("truetype");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Vidaloka";
-  src: url("../fonts/Vidaloka-Regular.ttf") format("truetype");
-  font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
@@ -6840,51 +6757,6 @@ a.celeste-collectible:hover {
   margin-bottom: clamp(0.75rem, 2vw, 1rem);
 }
 
-.life-development-item-logo {
-  width: clamp(104px, 22vw, 140px);
-  height: auto;
-  flex-shrink: 0;
-  object-fit: contain;
-}
-
-/* Quad logo: quad.svg on light, quad-dark.svg on dark theme */
-.life-development-item-logo-quad {
-  display: inline-flex;
-  width: clamp(104px, 22vw, 140px);
-  flex-shrink: 0;
-}
-
-.life-development-item-logo-quad-dark {
-  display: none !important;
-}
-
-body[data-theme*="-dark"] .life-development-item-logo-quad-light {
-  display: none !important;
-}
-
-body[data-theme*="-dark"] .life-development-item-logo-quad-dark {
-  display: block !important;
-}
-
-/* CAT logo: cat.png on light backgrounds, cat-dark.png on dark theme */
-.life-development-item-logo-cat {
-  display: inline-flex;
-  width: clamp(104px, 22vw, 140px);
-  flex-shrink: 0;
-}
-
-.life-development-item-logo-cat-dark {
-  display: none !important;
-}
-
-body[data-theme*="-dark"] .life-development-item-logo-cat-light {
-  display: none !important;
-}
-
-body[data-theme*="-dark"] .life-development-item-logo-cat-dark {
-  display: block !important;
-}
-
 .life-development-item-title-block {
   flex: 1;
   min-width: 0;
@@ -7210,7 +7082,6 @@ body[data-theme*="-dark"] .project-card-theme-celeste .project-card-description,
 body[data-theme*="-dark"] .project-card-theme-celeste .project-card-meta,
 body[data-theme*="-dark"] .featured-description-title,
 body[data-theme*="-dark"] .featured-description-text,
-body[data-theme*="-dark"] .projects-heading,
 body[data-theme*="-dark"] .books-card-intro,
 body[data-theme*="-dark"] .books-card-placeholder,
 body[data-theme*="-dark"] .collection-placeholder p,

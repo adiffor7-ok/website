@@ -133,48 +133,6 @@ export function checkWebPSupport() {
   return webpSupported;
 }
 
-// Convert Google Photos URL to WebP format if supported
-export function convertToWebP(url) {
-  if (!url || !url.includes('googleusercontent.com')) return url;
-  if (!checkWebPSupport()) return url;
-  
-  // Google Photos supports WebP by adding =rw parameter or modifying the URL
-  // Try adding =rw (request WebP) parameter
-  // If URL already has parameters, we need to be careful
-  if (url.includes('=')) {
-    // URL has parameters, try to add WebP format
-    // Google Photos may support =rw for WebP, but let's try a safer approach
-    // We'll use the picture element instead for better control
-    return url;
-  }
-  
-  return url;
-}
-
-// Generate WebP URL from Google Photos URL
-export function generateWebPUrl(url) {
-  if (!url || !url.includes('googleusercontent.com')) return null;
-  if (!checkWebPSupport()) return null;
-  
-  // Google Photos URLs can request WebP by modifying the format
-  // Some Google Photos URLs support adding format parameters
-  // Try adding =rw (WebP) or modifying existing parameters
-  const baseUrl = url.split('=')[0];
-  if (!baseUrl) return null;
-  
-  // Extract size parameters if they exist
-  const sizeMatch = url.match(/=w(\d+)(?:-h(\d+))?/);
-  if (sizeMatch) {
-    const width = sizeMatch[1];
-    const height = sizeMatch[2] || '';
-    // Try WebP format - Google Photos may support this
-    // Note: This is experimental - Google Photos format support varies
-    return `${baseUrl}=w${width}${height ? `-h${height}` : ''}=rw`;
-  }
-  
-  return null;
-}
-
 export function hasGalleryElements(state) {
   const { gallery, template, loading, error } = state.selectors;
   return Boolean(gallery && template && loading && error);
@@ -185,22 +143,3 @@ export function hasDigitalArtElements(state) {
   return Boolean(digitalGallery && digitalTemplate && digitalLoading && digitalError);
 }
 
-// Helper to get image data from gallery card
-export function getImageDataFromCard(card) {
-  const img = card.querySelector('img');
-  if (!img) return null;
-  
-  return {
-    id: card.dataset.id || img.dataset.id || null,
-    full: img.dataset.full || img.src,
-    thumbnail: img.dataset.thumbnail || img.src,
-    caption: img.dataset.caption || img.alt || '',
-    description: img.dataset.description || '',
-    details: parseDatasetJSON(img.dataset.details),
-    metadata: parseDatasetJSON(img.dataset.metadata),
-    orientation: img.dataset.orientation || '',
-    dominantHex: img.dataset.dominantHex || null,
-    mediaType: img.dataset.mediaType || 'image',
-    alt: img.alt || '',
-  };
-}

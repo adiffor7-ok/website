@@ -1,10 +1,9 @@
 // Service Worker for Photo Spectrum Gallery
-// Version 1.4.5 — bump when clients should drop old CSS/JS/image caches
+// Version 1.4.7 — bump when clients should drop old CSS/JS/image caches
 
-const CACHE_NAME = 'photo-spectrum-v1.4.5';
-const STATIC_CACHE = 'photo-spectrum-static-v1.4.5';
-const IMAGE_CACHE = 'photo-spectrum-images-v1.4.5';
-const DATA_CACHE = 'photo-spectrum-data-v1.4.5';
+const STATIC_CACHE = 'photo-spectrum-static-v1.4.7';
+const IMAGE_CACHE = 'photo-spectrum-images-v1.4.7';
+const DATA_CACHE = 'photo-spectrum-data-v1.4.7';
 
 const MAX_IMAGE_CACHE_SIZE = 100 * 1024 * 1024; // 100MB
 
@@ -51,8 +50,6 @@ const STATIC_ASSETS = [
   '/assets/js/ui.js',
   '/assets/images/signature.svg',
   '/assets/images/profile-small.jpg',
-  '/assets/images/profile.jpg',
-  '/assets/images/soon.svg',
 ];
 
 // Install event - cache static assets
@@ -80,7 +77,6 @@ self.addEventListener('activate', (event) => {
         cacheNames.map((cacheName) => {
           // Delete old caches that don't match current version
           if (
-            cacheName !== CACHE_NAME &&
             cacheName !== STATIC_CACHE &&
             cacheName !== IMAGE_CACHE &&
             cacheName !== DATA_CACHE

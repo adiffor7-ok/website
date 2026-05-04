@@ -6,6 +6,7 @@ __pycache__/
 *.pyd
 .Python
 node_modules/
+assets/fonts/Cinzel-master/sources/
 
 # Python virtual environments
 venv/
