@@ -1,0 +1,9 @@
+{
+  "name": "photo-spectrum-website",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Photo Spectrum static site (Vercel)",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}

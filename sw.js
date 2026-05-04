@@ -1,10 +1,10 @@
 // Service Worker for Photo Spectrum Gallery
-// Version 1.4.3 — bump when clients should drop old CSS/JS/image caches
+// Version 1.4.5 — bump when clients should drop old CSS/JS/image caches
 
-const CACHE_NAME = 'photo-spectrum-v1.4.4';
-const STATIC_CACHE = 'photo-spectrum-static-v1.4.4';
-const IMAGE_CACHE = 'photo-spectrum-images-v1.4.4';
-const DATA_CACHE = 'photo-spectrum-data-v1.4.4';
+const CACHE_NAME = 'photo-spectrum-v1.4.5';
+const STATIC_CACHE = 'photo-spectrum-static-v1.4.5';
+const IMAGE_CACHE = 'photo-spectrum-images-v1.4.5';
+const DATA_CACHE = 'photo-spectrum-data-v1.4.5';
 
 const MAX_IMAGE_CACHE_SIZE = 100 * 1024 * 1024; // 100MB
 
@@ -32,6 +32,7 @@ const STATIC_ASSETS = [
   '/assets/js/books.js',
   '/assets/js/celeste.js',
   '/assets/js/theme-bootstrap.js',
+  '/assets/js/vercel-analytics.js',
   '/assets/js/theme.js',
   '/assets/js/site-shell.js',
   '/assets/js/nav.js',

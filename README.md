@@ -77,3 +77,9 @@ Functions in `api/` (for example `api/bricklink-random-part.js`) need any **envi
 
 The site ships a service worker (`sw.js`). After a deploy, if old assets stick around in the browser, do a hard refresh or clear site data for your Vercel URL so clients pick up new `sw.js` or `gallery.json` versions.
 
+### Vercel Web Analytics
+
+1. In the Vercel project, open **Analytics** and enable **Web Analytics**.
+2. From the repo root, install the official package (optional locally; used for tooling parity with Vercel docs): `npm install`
+3. Production tracking uses `assets/js/vercel-analytics.js`, which loads `/_vercel/insights/script.js` on your deployed domain (skipped on `localhost`). See [Vercel Web Analytics quickstart](https://vercel.com/docs/analytics/quickstart).
+
