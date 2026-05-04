@@ -8,8 +8,20 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../css/resume.css">
+  <style>
+    @media print {
+      @page {
+        size: letter;
+        margin: 0.35in;
+      }
+    }
+  </style>
 </head>
-<body>
+<body class="resume-olberding-onepage">
+  <div class="resume-print-actions no-print">
+    <button type="button" onclick="window.print()">Save as PDF (opens print dialog)</button>
+    <p class="resume-print-hint">Export is <strong>two pages</strong> (Notable Projects and Related Production Experience start on page 2). In the print dialog: Destination <strong>Save as PDF</strong>, turn <strong>off</strong> headers and footers.</p>
+  </div>
   <div class="page">
     <div class="header">
       <div class="name">Alex Diffor</div>
@@ -21,7 +33,7 @@
     </div>
 
     <div class="summary">
-      Graphic Communications graduate with hands-on packaging artwork, color management, and pre-press experience gained through an internship at Quad and production work at a local print shop. Educated in maintaining color standards and brand intent across consumer packaging, working with customers on print specifications and feasibility, and communicating any predictable issues with production staff. Desiring a job with prepress or print production.
+      Graphic Communications graduate with packaging artwork, color management, and pre-press experience gained through an internship at Quad and production work at a local print shop. Educated in maintaining color standards and brand intent across consumer packaging, working with customers on print specifications and feasibility, and communicating any predictable issues with production staff. Desiring a job with prepress or print production.
     </div>
 
     <h2>Education</h2>
@@ -94,9 +106,10 @@
     </div>
 
     <h2>Core Skills</h2>
-    <div class="skill-section">
-      <div class="skill-category">Print &amp; Prepress</div>
-      <ul>
+    <div class="skills-print-columns">
+      <div class="skill-section">
+        <div class="skill-category">Print &amp; Prepress</div>
+        <ul>
         <li>File preflight, bleeds, crops, color spaces, resolution</li>
         <li>Press-ready artwork using Adobe InDesign, Illustrator, and Acrobat</li>
         <li>Digital, lithographic, flexographic, rotogravure, and screen printing fundamentals</li>
@@ -104,12 +117,12 @@
         <li>Color management: maintaining color standards and brand intent across devices using Delta E, profiling, and soft proofing</li>
         <li>Imposition planning and print estimating using PrintPoint</li>
         <li>Consistency and accuracy across multi-file print jobs</li>
-      </ul>
-    </div>
+        </ul>
+      </div>
 
-    <div class="skill-section">
-      <div class="skill-category">Production &amp; Workflow</div>
-      <ul>
+      <div class="skill-section">
+        <div class="skill-category">Production &amp; Workflow</div>
+        <ul>
         <li>Layout optimization to reduce material waste</li>
         <li>Substrate, paper weight, coating, and finish selection</li>
         <li>Quality control and production checklists</li>
@@ -117,20 +130,21 @@
         <li>File naming conventions and version control</li>
         <li>Visual proofing and error detection</li>
         <li>Managing multiple jobs under production deadlines</li>
-      </ul>
-    </div>
+        </ul>
+      </div>
 
-    <div class="skill-section">
-      <div class="skill-category">Software</div>
-      <ul>
+      <div class="skill-section">
+        <div class="skill-category">Software</div>
+        <ul>
         <li>Adobe Creative Suite: InDesign, Illustrator, Photoshop, Acrobat</li>
         <li>Esko Origami and ArtiosCAD for packaging</li>
         <li>Apple macOS and Microsoft Office Suite (Word, Excel, Outlook, PowerPoint)</li>
         <li>CAD tools for production layouts, schematics, and workflow support</li>
-      </ul>
+        </ul>
+      </div>
     </div>
 
-    <h2>Notable Projects</h2>
+    <h2 class="resume-print-page2-start">Notable Projects</h2>
     <div class="experience-container">
       <div class="experience-item">
         <table class="job-header job-header-table">

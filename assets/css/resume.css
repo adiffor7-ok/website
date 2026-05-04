@@ -154,6 +154,124 @@ li {
   font-weight: 600;
 }
 
+/* Olberding resume: slightly smaller type on screen to align with Core Skills density */
+body.resume-olberding-onepage .header {
+  margin-bottom: 14px;
+  padding-bottom: 10px;
+}
+
+body.resume-olberding-onepage .name {
+  font-size: 20px;
+  padding-bottom: 5px;
+}
+
+body.resume-olberding-onepage .tagline {
+  font-size: 8pt;
+}
+
+body.resume-olberding-onepage .contact-info {
+  font-size: 8.75pt;
+  line-height: 1.45;
+}
+
+body.resume-olberding-onepage .summary {
+  font-size: 8.75pt;
+  line-height: 1.45;
+  margin-bottom: 14px;
+}
+
+body.resume-olberding-onepage h2 {
+  font-size: 10pt;
+  margin: 16px 0 9px;
+}
+
+body.resume-olberding-onepage .company-name,
+body.resume-olberding-onepage .job-title,
+body.resume-olberding-onepage .company,
+body.resume-olberding-onepage .education-detail {
+  font-size: 8.75pt;
+}
+
+body.resume-olberding-onepage .dates {
+  font-size: 8.75pt;
+}
+
+body.resume-olberding-onepage li {
+  font-size: 8.75pt;
+  line-height: 1.33;
+}
+
+body.resume-olberding-onepage .skill-category {
+  font-size: 8.75pt;
+}
+
+/* Match Core Skills vertical rhythm to Education / Experience (same h2-to-body and list spacing) */
+body.resume-olberding-onepage .skills-print-columns .skill-category {
+  margin: 8px 0 5px;
+}
+
+body.resume-olberding-onepage .skills-print-columns .skill-section:first-child .skill-category {
+  margin-top: 0;
+}
+
+body.resume-olberding-onepage .skills-print-columns ul {
+  margin: 5px 0 5px 20px;
+  padding: 0;
+  list-style-position: outside;
+}
+
+/* Wide screens: three-column Core Skills with gutters (print uses table layout below) */
+@media screen and (min-width: 700px) {
+  body.resume-olberding-onepage .skills-print-columns {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    column-gap: 22px;
+    width: 100%;
+  }
+}
+
+body.resume-olberding-onepage .skills-print-columns li {
+  line-height: 1.33;
+  margin-bottom: 1px;
+}
+
+body.resume-olberding-onepage .education-item,
+body.resume-olberding-onepage .experience-item {
+  margin-bottom: 6px;
+}
+
+.resume-print-actions {
+  box-sizing: border-box;
+  max-width: 8.5in;
+  margin: 0.75rem auto 0.25rem;
+  padding: 0 0.5in;
+  font-family: 'Inter', sans-serif;
+  font-size: 13px;
+}
+
+.resume-print-actions button {
+  font: inherit;
+  font-weight: 600;
+  padding: 0.4rem 0.9rem;
+  cursor: pointer;
+  background: #2f4f3f;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+}
+
+.resume-print-actions button:hover {
+  background: #254033;
+}
+
+.resume-print-hint {
+  margin: 0.5rem 0 0;
+  color: #555;
+  font-size: 12px;
+  line-height: 1.45;
+  max-width: 42em;
+}
+
 @media print {
   body {
     background: white;
@@ -161,10 +279,178 @@ li {
     print-color-adjust: exact;
   }
 
+  .no-print,
+  .resume-print-actions {
+    display: none !important;
+  }
+
   .page {
     margin: 0;
     padding: 0.5in;
     max-width: 100%;
+  }
+
+  /* Olberding two-page PDF: US Letter @page is set in that HTML file only; page 2 starts at .resume-print-page2-start */
+  body.resume-olberding-onepage .page {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+  }
+
+  body.resume-olberding-onepage .resume-print-page2-start {
+    break-before: page;
+    page-break-before: always;
+  }
+
+  body.resume-olberding-onepage .header {
+    margin-bottom: 6px;
+    padding-bottom: 6px;
+  }
+
+  body.resume-olberding-onepage .name {
+    font-size: 16pt;
+    padding-bottom: 2px;
+    margin-bottom: 2px;
+  }
+
+  body.resume-olberding-onepage .tagline {
+    font-size: 7.5pt;
+    margin-bottom: 4px;
+  }
+
+  body.resume-olberding-onepage .contact-info {
+    font-size: 8.35pt;
+    line-height: 1.35;
+  }
+
+  body.resume-olberding-onepage h2 {
+    font-size: 9pt;
+    margin: 10px 0 6px;
+    padding-bottom: 2px;
+    letter-spacing: 0.85px;
+  }
+
+  body.resume-olberding-onepage h2.resume-print-page2-start {
+    margin-top: 0;
+  }
+
+  body.resume-olberding-onepage .summary {
+    font-size: 8.35pt;
+    line-height: 1.32;
+    margin-bottom: 8px;
+  }
+
+  /* Page 1: keep section headings a bit tighter through Core Skills */
+  body.resume-olberding-onepage .page > h2:nth-of-type(-n + 3) {
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+
+  body.resume-olberding-onepage .page > h2:nth-of-type(1) {
+    margin-top: 0;
+  }
+
+  body.resume-olberding-onepage .page > h2:nth-of-type(3) {
+    margin-top: 6px;
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  /* Print & Creative block only: slightly denser so Core Skills stays on page 1 */
+  body.resume-olberding-onepage .page > h2:nth-of-type(2) + .experience-container .experience-item {
+    margin-bottom: 4px;
+  }
+
+  body.resume-olberding-onepage .page > h2:nth-of-type(2) + .experience-container li {
+    font-size: 8.35pt;
+    line-height: 1.24;
+  }
+
+  body.resume-olberding-onepage .company-name,
+  body.resume-olberding-onepage .job-title,
+  body.resume-olberding-onepage .company,
+  body.resume-olberding-onepage .education-detail,
+  body.resume-olberding-onepage .skill-category {
+    font-size: 8.5pt;
+  }
+
+  body.resume-olberding-onepage .dates {
+    font-size: 8.35pt;
+  }
+
+  body.resume-olberding-onepage li {
+    font-size: 8.35pt;
+    line-height: 1.25;
+    margin-bottom: 1px;
+  }
+
+  body.resume-olberding-onepage ul {
+    margin: 4px 0 4px 16px;
+  }
+
+  body.resume-olberding-onepage .experience-item {
+    margin-bottom: 6px;
+  }
+
+  body.resume-olberding-onepage .education-item {
+    margin-bottom: 4px;
+  }
+
+  body.resume-olberding-onepage .skill-section {
+    margin-bottom: 0;
+  }
+
+  /*
+   * Core Skills: table-row print layout. Chromium often defers display:grid as
+   * one unbreakable fragment so the heading stays on the prior page while the
+   * grid jumps — table-cell participates in normal print flow.
+   */
+  body.resume-olberding-onepage .skills-print-columns {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: separate;
+    border-spacing: 0;
+    margin: 0;
+    break-before: avoid;
+    page-break-before: avoid;
+  }
+
+  body.resume-olberding-onepage .skills-print-columns .skill-section {
+    display: table-cell;
+    width: 33.33%;
+    vertical-align: top;
+    padding: 0;
+    margin: 0;
+    min-width: 0;
+    break-inside: auto;
+    page-break-inside: auto;
+  }
+
+  body.resume-olberding-onepage .skills-print-columns .skill-section:nth-child(1) {
+    padding-right: 22px;
+  }
+
+  body.resume-olberding-onepage .skills-print-columns .skill-section:nth-child(2) {
+    padding-right: 22px;
+  }
+
+  body.resume-olberding-onepage .skills-print-columns .skill-category {
+    font-size: 8.5pt;
+    margin: 5px 0 4px;
+  }
+
+  /* Same list box as experience/education: no extra table-cell offset */
+  body.resume-olberding-onepage .skills-print-columns ul {
+    margin: 4px 0 4px 16px;
+    padding: 0;
+    list-style-position: outside;
+  }
+
+  body.resume-olberding-onepage .skills-print-columns li {
+    font-size: 8.35pt;
+    line-height: 1.25;
+    margin-bottom: 1px;
   }
 
   * {
