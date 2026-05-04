@@ -147,6 +147,9 @@ function integrateAlbumCatalog(albumCatalog, photos) {
       if (typeof rawItem.full === "string" && rawItem.full.trim()) {
         clone.full = rawItem.full.trim();
       }
+      if (typeof rawItem.fullGif === "string" && rawItem.fullGif.trim()) {
+        clone.fullGif = rawItem.fullGif.trim();
+      }
       clone.__album = name || basePhoto.__album || "";
       clone.__albumKey = key;
       albumItems.push(clone);

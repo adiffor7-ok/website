@@ -3,7 +3,7 @@
 Convert photos to WebP at consistent sizes for the gallery.
 
 Both lossless and lossy use the same scaling; only compression differs.
-Reads images (JPEG, PNG, etc.) from an input directory and writes:
+Reads images (JPEG, PNG, GIF, HEIC/HEIF when pillow-heif is installed, etc.) from an input directory and writes:
   - {base}-thumb.webp  — thumbnail, longest side 640px (gallery grid)
   - {base}.webp        — full size, fit within 1920×1080 (lightbox/viewer)
 
@@ -35,6 +35,14 @@ except ImportError:
     print("Pillow is required. Install with: pip install Pillow")
     sys.exit(1)
 
+try:
+    from pillow_heif import register_heif_opener
+
+    register_heif_opener()
+except ImportError:
+    # HEIC/HEIF files require: pip install pillow-heif
+    pass
+
 WORKSPACE_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_INPUT = WORKSPACE_ROOT / "content" / "photos" / "photos large" / "incoming"
 
@@ -46,7 +54,17 @@ WEBP_QUALITY_FULL = 95
 WEBP_QUALITY_THUMB = 90
 
 # Only process these extensions
-IMAGE_EXTENSIONS = {".jpg", ".jpeg", ".png", ".gif", ".bmp", ".tiff", ".tif"}
+IMAGE_EXTENSIONS = {
+    ".jpg",
+    ".jpeg",
+    ".png",
+    ".gif",
+    ".bmp",
+    ".tiff",
+    ".tif",
+    ".heic",
+    ".heif",
+}
 
 
 def slug(name: str) -> str:

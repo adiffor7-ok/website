@@ -11,6 +11,17 @@ export function slugifyId(value) {
     .replace(/^-+|-+$/g, "");
 }
 
+/** URL used in the album viewer: animated GIF when `fullGif` exists, else full still image (e.g. WebP). */
+export function resolveAlbumViewerUrl(item) {
+  if (!item || typeof item !== "object") return "";
+  const gif = typeof item.fullGif === "string" && item.fullGif.trim() ? item.fullGif.trim() : "";
+  if (gif) return gif;
+  const full = typeof item.full === "string" && item.full.trim() ? item.full.trim() : "";
+  if (full) return full;
+  const thumb = typeof item.thumbnail === "string" && item.thumbnail.trim() ? item.thumbnail.trim() : "";
+  return thumb || "";
+}
+
 export function humanizeLabel(label) {
   if (!label) return "";
   return label

@@ -1,6 +1,6 @@
 // Gallery rendering functions
 import { state, BLACK_LIGHTNESS_MAX, BLACK_CHROMA_MAX, WHITE_LIGHTNESS_MIN, WHITE_CHROMA_MAX, GREY_CHROMA_MAX, NEUTRAL_GROUPS, NEUTRAL_RANK } from './state.js';
-import { hasGalleryElements, hasDigitalArtElements, slugifyId } from './utils.js';
+import { hasGalleryElements, hasDigitalArtElements, slugifyId, resolveAlbumViewerUrl } from './utils.js';
 import { isVideoItem, generateLowQualityPlaceholder, clearImageError, retryImageLoad, setupWebPImage } from './image-handling.js';
 import { setupLazyLoading } from './lazy-loading.js';
 
@@ -196,15 +196,20 @@ export function renderCollection(images, { container, template }) {
     const altText = image.alt ?? image.id?.replace(/[-_]+/g, " ") ?? "";
     const thumbnail = image.thumbnail ?? image.src ?? image.full ?? "";
     const full = image.full ?? image.src ?? image.thumbnail ?? "";
-    
+    const viewerFull = resolveAlbumViewerUrl(image) || full || "";
+
     // For Google Photos URLs, use them directly without encodeURI
     // encodeURI can break Google Photos URLs that are already properly encoded
     const safeThumbnail = thumbnail || "";
     const safeFull = full || "";
-    
+
     // In album mode, use thumbnails for the grid
     const { gallery } = state.selectors;
     const isAlbumMode = gallery && gallery.classList.contains("is-album-mode") && container === gallery;
+    /* Album grid: show animated GIF when catalog has fullGif (WebP stays fallback for errors / metadata). */
+    const fullGifTrim =
+      typeof image.fullGif === "string" && image.fullGif.trim() ? image.fullGif.trim() : "";
+    const albumGridVisibleSrc = isAlbumMode && fullGifTrim ? fullGifTrim : safeThumbnail;
     
     // Make gallery card keyboard accessible
     node.setAttribute('role', 'button');
@@ -226,15 +231,15 @@ export function renderCollection(images, { container, template }) {
     // Use Intersection Observer for lazy loading if available
     if (state.lazyLoadObserver && safeThumbnail) {
       // Store src in data-src for lazy loading
-      img.dataset.src = safeThumbnail || safeFull;
-      img.dataset.full = safeFull;
+      img.dataset.src = albumGridVisibleSrc || safeFull;
+      img.dataset.full = viewerFull || safeFull;
       
       // In album mode, load thumbnails directly without blur
       // In main gallery, use progressive loading with blur
       if (isAlbumMode) {
         // Album mode: load thumbnail directly, no blur
-        const actualImg = setupWebPImage(img, safeThumbnail, safeFull, altText);
-        actualImg.src = safeThumbnail || safeFull;
+        const actualImg = setupWebPImage(img, albumGridVisibleSrc || safeThumbnail, safeFull, altText);
+        actualImg.src = albumGridVisibleSrc || safeFull;
         actualImg.alt = altText;
         actualImg.referrerPolicy = 'no-referrer';
         if (safeThumbnail && safeThumbnail.includes('googleusercontent.com')) {
@@ -268,8 +273,8 @@ export function renderCollection(images, { container, template }) {
       }
     } else {
       // Fallback to native lazy loading
-      const actualImg = setupWebPImage(img, safeThumbnail, safeFull, altText);
-      actualImg.src = safeThumbnail || safeFull;
+      const actualImg = setupWebPImage(img, albumGridVisibleSrc || safeThumbnail, safeFull, altText);
+      actualImg.src = albumGridVisibleSrc || safeFull;
       actualImg.alt = altText;
       actualImg.referrerPolicy = 'no-referrer';
       if (safeThumbnail && safeThumbnail.includes('googleusercontent.com')) {
@@ -278,10 +283,11 @@ export function renderCollection(images, { container, template }) {
     }
     
     // Set up error handling with retry mechanism
-    if (safeThumbnail || safeFull) {
+    if (safeThumbnail || safeFull || albumGridVisibleSrc) {
       const urlsToTry = [];
-      if (safeThumbnail) urlsToTry.push(safeThumbnail);
-      if (safeFull && safeFull !== safeThumbnail) urlsToTry.push(safeFull);
+      if (albumGridVisibleSrc) urlsToTry.push(albumGridVisibleSrc);
+      if (safeThumbnail && safeThumbnail !== albumGridVisibleSrc) urlsToTry.push(safeThumbnail);
+      if (safeFull && safeFull !== albumGridVisibleSrc && safeFull !== safeThumbnail) urlsToTry.push(safeFull);
       
       // Only set up error handling if we're not using lazy loading
       // (lazy loading handles errors in the observer)
@@ -310,8 +316,8 @@ export function renderCollection(images, { container, template }) {
     if (safeThumbnail) {
       img.dataset.thumbnail = safeThumbnail;
     }
-    if (safeFull) {
-      img.dataset.full = safeFull;
+    if (viewerFull || safeFull) {
+      img.dataset.full = viewerFull || safeFull;
     }
     /* Hover (-ue) overlay is only used in the standalone album viewer, not in the grid */
     img.dataset.caption = image.caption || "";

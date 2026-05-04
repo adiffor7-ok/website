@@ -1,7 +1,7 @@
 // Album viewer functionality
 import { state } from './state.js';
 import { isVideoItem } from './image-handling.js';
-import { parseDatasetJSON } from './utils.js';
+import { parseDatasetJSON, resolveAlbumViewerUrl } from './utils.js';
 import { trapFocus, restoreFocus, removeFocusTrap } from './focus-management.js';
 import { initImageZoom } from './image-zoom.js';
 
@@ -746,17 +746,19 @@ export function openAlbumPhotoViewer(imgElement, clickEvent, options) {
     const { images, currentIndex } = state.albumViewer;
     if (!images || images.length === 0) return;
     
-    if (currentIndex + 1 < images.length && images[currentIndex + 1]?.full) {
+    const nextHref = currentIndex + 1 < images.length ? resolveAlbumViewerUrl(images[currentIndex + 1]) : '';
+    if (nextHref) {
       const link = document.createElement('link');
       link.rel = 'prefetch';
-      link.href = images[currentIndex + 1].full;
+      link.href = nextHref;
       link.as = 'image';
       document.head.appendChild(link);
     }
-    if (currentIndex - 1 >= 0 && images[currentIndex - 1]?.full) {
+    const prevHref = currentIndex - 1 >= 0 ? resolveAlbumViewerUrl(images[currentIndex - 1]) : '';
+    if (prevHref) {
       const link = document.createElement('link');
       link.rel = 'prefetch';
-      link.href = images[currentIndex - 1].full;
+      link.href = prevHref;
       link.as = 'image';
       document.head.appendChild(link);
     }
@@ -803,7 +805,7 @@ export function navigateAlbumViewer(direction) {
   if (existingError) existingError.remove();
   
   // Get image data directly from the image object
-  const full = image.full || image.thumbnail || '';
+  const full = resolveAlbumViewerUrl(image) || image.full || image.thumbnail || '';
   const caption = image.caption || image.alt || '';
   const description = image.description || '';
   const linksData = image.links || null;

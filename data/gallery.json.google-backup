@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-27T18:24:07.769247+00:00",
-  "count": 154,
+  "generatedAt": "2026-05-04T15:21:25.491043+00:00",
+  "count": 189,
   "images": [
     {
       "id": "bokeh-edit-13",
@@ -1330,6 +1330,84 @@
       "hover": "content/photos/albums/Nature/Milky Way/mw-ii-ue.webp"
     },
     {
+      "id": "nature-nature-general-birch-log",
+      "thumbnail": "content/photos/albums/Nature/Nature General/birch-log-thumb.webp",
+      "full": "content/photos/albums/Nature/Nature General/birch-log.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "birch-log.webp",
+        "type": "image"
+      },
+      "caption": "Birch Log",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "nature-nature-general-honeydew-hey-iii",
+      "thumbnail": "content/photos/albums/Nature/Nature General/honeydew-hey-iii-thumb.webp",
+      "full": "content/photos/albums/Nature/Nature General/honeydew-hey-iii.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "honeydew-hey-iii.webp",
+        "type": "image"
+      },
+      "caption": "Honeydew Hey Iii",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "nature-nature-general-i-ii",
+      "thumbnail": "content/photos/albums/Nature/Nature General/i-ii-thumb.webp",
+      "full": "content/photos/albums/Nature/Nature General/i-ii.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "i-ii.webp",
+        "type": "image"
+      },
+      "caption": "I Ii",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "nature-nature-general-img-1999",
+      "thumbnail": "content/photos/albums/Nature/Nature General/img_1999-thumb.webp",
+      "full": "content/photos/albums/Nature/Nature General/img_1999.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "img_1999.webp",
+        "type": "image"
+      },
+      "caption": "Img 1999",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "nature-nature-general-img-2223",
+      "thumbnail": "content/photos/albums/Nature/Nature General/img_2223-thumb.webp",
+      "full": "content/photos/albums/Nature/Nature General/img_2223.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "img_2223.webp",
+        "type": "image"
+      },
+      "caption": "Img 2223",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "nature-nature-general-img-2264",
+      "thumbnail": "content/photos/albums/Nature/Nature General/img_2264-thumb.webp",
+      "full": "content/photos/albums/Nature/Nature General/img_2264.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "img_2264.webp",
+        "type": "image"
+      },
+      "caption": "Img 2264",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
       "id": "nature-night-andromeda-e",
       "thumbnail": "content/photos/albums/Nature/Night/andromeda-e-thumb.webp",
       "full": "content/photos/albums/Nature/Night/andromeda-e.webp",
@@ -1343,6 +1421,59 @@
       "orientation": "landscape"
     },
     {
+      "id": "nature-night-edit-1",
+      "thumbnail": "content/photos/albums/Nature/Night/edit-1-thumb.webp",
+      "full": "content/photos/albums/Nature/Night/edit-1.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-1.webp",
+        "type": "image"
+      },
+      "caption": "Edit 1",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "nature-night-edit-2",
+      "thumbnail": "content/photos/albums/Nature/Night/edit-2-thumb.webp",
+      "full": "content/photos/albums/Nature/Night/edit-2.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-2.webp",
+        "type": "image"
+      },
+      "caption": "Edit 2",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "nature-night-edit-26",
+      "thumbnail": "content/photos/albums/Nature/Night/edit-26-thumb.webp",
+      "full": "content/photos/albums/Nature/Night/edit-26.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-26.webp",
+        "type": "image"
+      },
+      "caption": "Edit 26",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "nature-night-norm-e",
+      "thumbnail": "content/photos/albums/Nature/Night/norm-e-thumb.webp",
+      "full": "content/photos/albums/Nature/Night/norm-e.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "norm-e.webp",
+        "type": "image"
+      },
+      "caption": "Norm E",
+      "description": "",
+      "orientation": "landscape",
+      "hover": "content/photos/albums/Nature/Night/norm-ue.webp"
+    },
+    {
       "id": "nature-night-orion-edit",
       "thumbnail": "content/photos/albums/Nature/Night/orion-edit-thumb.webp",
       "full": "content/photos/albums/Nature/Night/orion-edit.webp",
@@ -1352,6 +1483,19 @@
         "type": "image"
       },
       "caption": "Orion Edit",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "nature-night-rcyl3607",
+      "thumbnail": "content/photos/albums/Nature/Night/rcyl3607-thumb.webp",
+      "full": "content/photos/albums/Nature/Night/rcyl3607.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "rcyl3607.webp",
+        "type": "image"
+      },
+      "caption": "Rcyl3607",
       "description": "",
       "orientation": "landscape"
     },
@@ -1397,6 +1541,19 @@
       "hover": "content/photos/albums/Nature/Solar System/eclipse-ue.webp"
     },
     {
+      "id": "nature-solar-system-img-2557",
+      "thumbnail": "content/photos/albums/Nature/Solar System/img_2557-thumb.webp",
+      "full": "content/photos/albums/Nature/Solar System/img_2557.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "img_2557.webp",
+        "type": "image"
+      },
+      "caption": "Img 2557",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
       "id": "nature-solar-system-jupiter-resize-sharpen-ii",
       "thumbnail": "content/photos/albums/Nature/Solar System/jupiter_resize_sharpen_ii-thumb.webp",
       "full": "content/photos/albums/Nature/Solar System/jupiter_resize_sharpen_ii.webp",
@@ -1419,6 +1576,19 @@
         "type": "image"
       },
       "caption": "Mars",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "nature-solar-system-moon-shot-comparison",
+      "thumbnail": "content/photos/albums/Nature/Solar System/moon-shot-comparison-thumb.webp",
+      "full": "content/photos/albums/Nature/Solar System/moon-shot-comparison.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "moon-shot-comparison.webp",
+        "type": "image"
+      },
+      "caption": "Moon Shot Comparison",
       "description": "",
       "orientation": "landscape"
     },
@@ -1478,6 +1648,19 @@
       "hover": "content/photos/albums/Nature/Wisconsin/wisco-m-ue.webp"
     },
     {
+      "id": "other-edit-88",
+      "thumbnail": "content/photos/albums/Other/edit-88-thumb.webp",
+      "full": "content/photos/albums/Other/edit-88.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "edit-88.webp",
+        "type": "image"
+      },
+      "caption": "Edit 88",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
       "id": "other-ia",
       "thumbnail": "content/photos/albums/Other/ia-thumb.webp",
       "full": "content/photos/albums/Other/ia.webp",
@@ -1517,18 +1700,56 @@
       "orientation": "landscape"
     },
     {
-      "id": "other-norm-e",
-      "thumbnail": "content/photos/albums/Other/norm-e-thumb.webp",
-      "full": "content/photos/albums/Other/norm-e.webp",
+      "id": "other-img-0830",
+      "thumbnail": "content/photos/albums/Other/img_0830-thumb.webp",
+      "full": "content/photos/albums/Other/img_0830.webp",
       "source": "local",
       "metadata": {
-        "filename": "norm-e.webp",
+        "filename": "img_0830.webp",
         "type": "image"
       },
-      "caption": "Norm E",
+      "caption": "Img 0830",
       "description": "",
-      "orientation": "landscape",
-      "hover": "content/photos/albums/Other/norm-ue.webp"
+      "orientation": "landscape"
+    },
+    {
+      "id": "other-img-1213",
+      "thumbnail": "content/photos/albums/Other/img_1213-thumb.webp",
+      "full": "content/photos/albums/Other/img_1213.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "img_1213.webp",
+        "type": "image"
+      },
+      "caption": "Img 1213",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "other-img-1268",
+      "thumbnail": "content/photos/albums/Other/img_1268-thumb.webp",
+      "full": "content/photos/albums/Other/img_1268.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "img_1268.webp",
+        "type": "image"
+      },
+      "caption": "Img 1268",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "other-img-1433",
+      "thumbnail": "content/photos/albums/Other/img_1433-thumb.webp",
+      "full": "content/photos/albums/Other/img_1433.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "img_1433.webp",
+        "type": "image"
+      },
+      "caption": "Img 1433",
+      "description": "",
+      "orientation": "landscape"
     },
     {
       "id": "people-football-edit-144",
@@ -1843,6 +2064,19 @@
       "orientation": "landscape"
     },
     {
+      "id": "people-parades-dsc00233",
+      "thumbnail": "content/photos/albums/People/parades/dsc00233-thumb.webp",
+      "full": "content/photos/albums/People/parades/dsc00233.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "dsc00233.webp",
+        "type": "image"
+      },
+      "caption": "Dsc00233",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
       "id": "people-parades-edit-108",
       "thumbnail": "content/photos/albums/People/parades/edit-108-thumb.webp",
       "full": "content/photos/albums/People/parades/edit-108.webp",
@@ -2028,6 +2262,227 @@
       "caption": "Edit 97",
       "description": "",
       "orientation": "landscape"
+    },
+    {
+      "id": "school-digital-color-difson-v9",
+      "thumbnail": "content/photos/albums/School/Digital & Color/difson-v9-thumb.webp",
+      "full": "content/photos/albums/School/Digital & Color/difson-v9.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "difson-v9.webp",
+        "type": "image"
+      },
+      "caption": "Difson V9",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "school-digital-color-img-1488",
+      "thumbnail": "content/photos/albums/School/Digital & Color/img_1488-thumb.webp",
+      "full": "content/photos/albums/School/Digital & Color/img_1488.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "img_1488.webp",
+        "type": "image"
+      },
+      "caption": "Img 1488",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "school-digital-color-img-1584",
+      "thumbnail": "content/photos/albums/School/Digital & Color/img_1584-thumb.webp",
+      "full": "content/photos/albums/School/Digital & Color/img_1584.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "img_1584.webp",
+        "type": "image"
+      },
+      "caption": "Img 1584",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "school-digital-color-unnamed",
+      "thumbnail": "content/photos/albums/School/Digital & Color/unnamed-thumb.webp",
+      "full": "content/photos/albums/School/Digital & Color/unnamed.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "unnamed.webp",
+        "type": "image"
+      },
+      "caption": "Unnamed",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "school-packaging-buds-graphic-ii",
+      "thumbnail": "content/photos/albums/School/Packaging/buds-graphic-ii-thumb.webp",
+      "full": "content/photos/albums/School/Packaging/buds-graphic-ii.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "buds-graphic-ii.webp",
+        "type": "image"
+      },
+      "caption": "Buds Graphic Ii",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "school-packaging-img-1372",
+      "thumbnail": "content/photos/albums/School/Packaging/img_1372-thumb.webp",
+      "full": "content/photos/albums/School/Packaging/img_1372.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "img_1372.webp",
+        "type": "image"
+      },
+      "caption": "Img 1372",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "school-packaging-img-1375",
+      "thumbnail": "content/photos/albums/School/Packaging/img_1375-thumb.webp",
+      "full": "content/photos/albums/School/Packaging/img_1375.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "img_1375.webp",
+        "type": "image"
+      },
+      "caption": "Img 1375",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "school-packaging-img-1376",
+      "thumbnail": "content/photos/albums/School/Packaging/img_1376-thumb.webp",
+      "full": "content/photos/albums/School/Packaging/img_1376.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "img_1376.webp",
+        "type": "image"
+      },
+      "caption": "Img 1376",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "school-packaging-img-1377",
+      "thumbnail": "content/photos/albums/School/Packaging/img_1377-thumb.webp",
+      "full": "content/photos/albums/School/Packaging/img_1377.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "img_1377.webp",
+        "type": "image"
+      },
+      "caption": "Img 1377",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "school-packaging-img-1378",
+      "thumbnail": "content/photos/albums/School/Packaging/img_1378-thumb.webp",
+      "full": "content/photos/albums/School/Packaging/img_1378.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "img_1378.webp",
+        "type": "image"
+      },
+      "caption": "Img 1378",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "school-packaging-img-1381",
+      "thumbnail": "content/photos/albums/School/Packaging/img_1381-thumb.webp",
+      "full": "content/photos/albums/School/Packaging/img_1381.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "img_1381.webp",
+        "type": "image"
+      },
+      "caption": "Img 1381",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "school-packaging-img-1382",
+      "thumbnail": "content/photos/albums/School/Packaging/img_1382-thumb.webp",
+      "full": "content/photos/albums/School/Packaging/img_1382.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "img_1382.webp",
+        "type": "image"
+      },
+      "caption": "Img 1382",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "school-packaging-img-1384",
+      "thumbnail": "content/photos/albums/School/Packaging/img_1384-thumb.webp",
+      "full": "content/photos/albums/School/Packaging/img_1384.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "img_1384.webp",
+        "type": "image"
+      },
+      "caption": "Img 1384",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "school-packaging-img-1385",
+      "thumbnail": "content/photos/albums/School/Packaging/img_1385-thumb.webp",
+      "full": "content/photos/albums/School/Packaging/img_1385.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "img_1385.webp",
+        "type": "image"
+      },
+      "caption": "Img 1385",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "school-packaging-package-dimensions",
+      "thumbnail": "content/photos/albums/School/Packaging/package-dimensions-thumb.webp",
+      "full": "content/photos/albums/School/Packaging/package-dimensions.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "package-dimensions.webp",
+        "type": "image"
+      },
+      "caption": "Package Dimensions",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "stardew-valley-jester-2-16-2025-58252739",
+      "thumbnail": "content/photos/albums/Stardew Valley/jester_2-16-2025_58252739-thumb.webp",
+      "full": "content/photos/albums/Stardew Valley/jester_2-16-2025_58252739.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "jester_2-16-2025_58252739.webp",
+        "type": "image"
+      },
+      "caption": "Jester 2 16 2025 58252739",
+      "description": "",
+      "orientation": "landscape"
+    },
+    {
+      "id": "stardew-valley-reyna-10-17-2025-15757888",
+      "thumbnail": "content/photos/albums/Stardew Valley/reyna_10-17-2025_15757888-thumb.webp",
+      "full": "content/photos/albums/Stardew Valley/reyna_10-17-2025_15757888.webp",
+      "source": "local",
+      "metadata": {
+        "filename": "reyna_10-17-2025_15757888.webp",
+        "type": "image"
+      },
+      "caption": "Reyna 10 17 2025 15757888",
+      "description": "",
+      "orientation": "landscape"
     }
   ],
   "albums": [
@@ -2057,7 +2512,9 @@
           "full": "content/photos/albums/Bokeh/stick-e.webp"
         }
       ],
-      "cover": "bokeh-stick-e"
+      "cover": "bokeh-stick-e",
+      "albumViewBackgroundId": "bokeh-edit-15",
+      "albumViewBackground": "content/photos/albums/Bokeh/edit-15-thumb.webp"
     },
     {
       "id": "cars-bmw",
@@ -2092,7 +2549,7 @@
       ],
       "cover": "cars-bmw-bmw-e",
       "albumViewBackgroundId": "cars-bmw-bmw-ii",
-      "albumViewBackground": "content/photos/albums/Cars/BMW/bmw-ii.webp"
+      "albumViewBackground": "content/photos/albums/Cars/BMW/bmw-ii-thumb.webp"
     },
     {
       "id": "digital-art",
@@ -2305,7 +2762,9 @@
           "full": "content/photos/albums/Digital Art/xerophthalmia.webp"
         }
       ],
-      "cover": "digital-art-24-disk-art-slight-fade-large"
+      "cover": "digital-art-24-disk-art-slight-fade-large",
+      "albumViewBackgroundId": "digital-art-mpso1218",
+      "albumViewBackground": "content/photos/albums/Digital Art/mpso1218-thumb.webp"
     },
     {
       "id": "minecraft",
@@ -2468,7 +2927,9 @@
           "full": "content/photos/albums/Minecraft/tpte1981.webp"
         }
       ],
-      "cover": "minecraft-2021-11-30-230755"
+      "cover": "minecraft-2021-11-30-230755",
+      "albumViewBackgroundId": "minecraft-aixj6543",
+      "albumViewBackground": "content/photos/albums/Minecraft/aixj6543-thumb.webp"
     },
     {
       "id": "nature-fire",
@@ -2491,7 +2952,9 @@
           "full": "content/photos/albums/Nature/Fire/edit-71.webp"
         }
       ],
-      "cover": "nature-fire-edit-10"
+      "cover": "nature-fire-edit-10",
+      "albumViewBackgroundId": "nature-fire-edit-150",
+      "albumViewBackground": "content/photos/albums/Nature/Fire/edit-150-thumb.webp"
     },
     {
       "id": "nature-lightning",
@@ -2514,7 +2977,9 @@
           "full": "content/photos/albums/Nature/Lightning/lightning-iii-e.webp"
         }
       ],
-      "cover": "nature-lightning-lightning-e"
+      "cover": "nature-lightning-lightning-e",
+      "albumViewBackgroundId": "nature-lightning-lightning-e",
+      "albumViewBackground": "content/photos/albums/Nature/Lightning/lightning-e-thumb.webp"
     },
     {
       "id": "nature-macros",
@@ -2572,7 +3037,9 @@
           "full": "content/photos/albums/Nature/Macros/wisco-m-ii-e.webp"
         }
       ],
-      "cover": "nature-macros-moss-i"
+      "cover": "nature-macros-moss-i",
+      "albumViewBackgroundId": "nature-macros-grass-e",
+      "albumViewBackground": "content/photos/albums/Nature/Macros/grass-ue-thumb.webp"
     },
     {
       "id": "nature-mark-twain",
@@ -2590,7 +3057,9 @@
           "full": "content/photos/albums/Nature/Mark Twain/twain-tents.webp"
         }
       ],
-      "cover": "nature-mark-twain-twain-sky"
+      "cover": "nature-mark-twain-twain-sky",
+      "albumViewBackgroundId": "nature-mark-twain-twain-tents",
+      "albumViewBackground": "content/photos/albums/Nature/Mark Twain/twain-tents-thumb.webp"
     },
     {
       "id": "nature-milky-way",
@@ -2608,7 +3077,49 @@
           "full": "content/photos/albums/Nature/Milky Way/mw-ii-e.webp"
         }
       ],
-      "cover": "nature-milky-way-mw-e"
+      "cover": "nature-milky-way-mw-e",
+      "albumViewBackgroundId": "nature-milky-way-mw-e",
+      "albumViewBackground": "content/photos/albums/Nature/Milky Way/mw-e-thumb.webp"
+    },
+    {
+      "id": "nature-nature-general",
+      "name": "Nature General",
+      "description": "",
+      "items": [
+        {
+          "id": "nature-nature-general-birch-log",
+          "thumbnail": "content/photos/albums/Nature/Nature General/birch-log-thumb.webp",
+          "full": "content/photos/albums/Nature/Nature General/birch-log.webp"
+        },
+        {
+          "id": "nature-nature-general-honeydew-hey-iii",
+          "thumbnail": "content/photos/albums/Nature/Nature General/honeydew-hey-iii-thumb.webp",
+          "full": "content/photos/albums/Nature/Nature General/honeydew-hey-iii.webp"
+        },
+        {
+          "id": "nature-nature-general-i-ii",
+          "thumbnail": "content/photos/albums/Nature/Nature General/i-ii-thumb.webp",
+          "full": "content/photos/albums/Nature/Nature General/i-ii.webp"
+        },
+        {
+          "id": "nature-nature-general-img-1999",
+          "thumbnail": "content/photos/albums/Nature/Nature General/img_1999-thumb.webp",
+          "full": "content/photos/albums/Nature/Nature General/img_1999.webp"
+        },
+        {
+          "id": "nature-nature-general-img-2223",
+          "thumbnail": "content/photos/albums/Nature/Nature General/img_2223-thumb.webp",
+          "full": "content/photos/albums/Nature/Nature General/img_2223.webp"
+        },
+        {
+          "id": "nature-nature-general-img-2264",
+          "thumbnail": "content/photos/albums/Nature/Nature General/img_2264-thumb.webp",
+          "full": "content/photos/albums/Nature/Nature General/img_2264.webp"
+        }
+      ],
+      "cover": "nature-nature-general-birch-log",
+      "albumViewBackgroundId": "nature-nature-general-img-2223",
+      "albumViewBackground": "content/photos/albums/Nature/Nature General/img_2223-thumb.webp"
     },
     {
       "id": "nature-night",
@@ -2621,9 +3132,34 @@
           "full": "content/photos/albums/Nature/Night/andromeda-e.webp"
         },
         {
+          "id": "nature-night-edit-1",
+          "thumbnail": "content/photos/albums/Nature/Night/edit-1-thumb.webp",
+          "full": "content/photos/albums/Nature/Night/edit-1.webp"
+        },
+        {
+          "id": "nature-night-edit-2",
+          "thumbnail": "content/photos/albums/Nature/Night/edit-2-thumb.webp",
+          "full": "content/photos/albums/Nature/Night/edit-2.webp"
+        },
+        {
+          "id": "nature-night-edit-26",
+          "thumbnail": "content/photos/albums/Nature/Night/edit-26-thumb.webp",
+          "full": "content/photos/albums/Nature/Night/edit-26.webp"
+        },
+        {
+          "id": "nature-night-norm-e",
+          "thumbnail": "content/photos/albums/Nature/Night/norm-e-thumb.webp",
+          "full": "content/photos/albums/Nature/Night/norm-e.webp"
+        },
+        {
           "id": "nature-night-orion-edit",
           "thumbnail": "content/photos/albums/Nature/Night/orion-edit-thumb.webp",
           "full": "content/photos/albums/Nature/Night/orion-edit.webp"
+        },
+        {
+          "id": "nature-night-rcyl3607",
+          "thumbnail": "content/photos/albums/Nature/Night/rcyl3607-thumb.webp",
+          "full": "content/photos/albums/Nature/Night/rcyl3607.webp"
         },
         {
           "id": "nature-night-siloh-e",
@@ -2636,7 +3172,9 @@
           "full": "content/photos/albums/Nature/Night/street-e.webp"
         }
       ],
-      "cover": "nature-night-siloh-e"
+      "cover": "nature-night-siloh-e",
+      "albumViewBackgroundId": "nature-night-orion-edit",
+      "albumViewBackground": "content/photos/albums/Nature/Night/orion-edit-thumb.webp"
     },
     {
       "id": "nature-solar-system",
@@ -2649,6 +3187,11 @@
           "full": "content/photos/albums/Nature/Solar System/eclipse-e.webp"
         },
         {
+          "id": "nature-solar-system-img-2557",
+          "thumbnail": "content/photos/albums/Nature/Solar System/img_2557-thumb.webp",
+          "full": "content/photos/albums/Nature/Solar System/img_2557.webp"
+        },
+        {
           "id": "nature-solar-system-jupiter-resize-sharpen-ii",
           "thumbnail": "content/photos/albums/Nature/Solar System/jupiter_resize_sharpen_ii-thumb.webp",
           "full": "content/photos/albums/Nature/Solar System/jupiter_resize_sharpen_ii.webp"
@@ -2657,6 +3200,11 @@
           "id": "nature-solar-system-mars",
           "thumbnail": "content/photos/albums/Nature/Solar System/mars-thumb.webp",
           "full": "content/photos/albums/Nature/Solar System/mars.webp"
+        },
+        {
+          "id": "nature-solar-system-moon-shot-comparison",
+          "thumbnail": "content/photos/albums/Nature/Solar System/moon-shot-comparison-thumb.webp",
+          "full": "content/photos/albums/Nature/Solar System/moon-shot-comparison.webp"
         },
         {
           "id": "nature-solar-system-moon-stacked-e",
@@ -2669,7 +3217,9 @@
           "full": "content/photos/albums/Nature/Solar System/saturn.webp"
         }
       ],
-      "cover": "nature-solar-system-moon-stacked-e"
+      "cover": "nature-solar-system-moon-stacked-e",
+      "albumViewBackgroundId": "nature-solar-system-eclipse-e",
+      "albumViewBackground": "content/photos/albums/Nature/Solar System/eclipse-e-thumb.webp"
     },
     {
       "id": "nature-wisconsin",
@@ -2687,13 +3237,20 @@
           "full": "content/photos/albums/Nature/Wisconsin/wisco-m-e.webp"
         }
       ],
-      "cover": "nature-wisconsin-w-pan-e"
+      "cover": "nature-wisconsin-w-pan-e",
+      "albumViewBackgroundId": "nature-wisconsin-wisco-m-e",
+      "albumViewBackground": "content/photos/albums/Nature/Wisconsin/wisco-m-e-thumb.webp"
     },
     {
       "id": "other",
       "name": "Other",
       "description": "Uncategorized photos I didn't know where to display.",
       "items": [
+        {
+          "id": "other-edit-88",
+          "thumbnail": "content/photos/albums/Other/edit-88-thumb.webp",
+          "full": "content/photos/albums/Other/edit-88.webp"
+        },
         {
           "id": "other-ia",
           "thumbnail": "content/photos/albums/Other/ia-thumb.webp",
@@ -2710,12 +3267,28 @@
           "full": "content/photos/albums/Other/iii.webp"
         },
         {
-          "id": "other-norm-e",
-          "thumbnail": "content/photos/albums/Other/norm-e-thumb.webp",
-          "full": "content/photos/albums/Other/norm-e.webp"
+          "id": "other-img-0830",
+          "thumbnail": "content/photos/albums/Other/img_0830-thumb.webp",
+          "full": "content/photos/albums/Other/img_0830.webp"
+        },
+        {
+          "id": "other-img-1213",
+          "thumbnail": "content/photos/albums/Other/img_1213-thumb.webp",
+          "full": "content/photos/albums/Other/img_1213.webp"
+        },
+        {
+          "id": "other-img-1268",
+          "thumbnail": "content/photos/albums/Other/img_1268-thumb.webp",
+          "full": "content/photos/albums/Other/img_1268.webp"
+        },
+        {
+          "id": "other-img-1433",
+          "thumbnail": "content/photos/albums/Other/img_1433-thumb.webp",
+          "full": "content/photos/albums/Other/img_1433.webp"
         }
       ],
-      "cover": "other-norm-e"
+      "cover": "other-edit-88",
+      "albumViewBackground": "content/photos/albums/Other/norm-e-thumb.webp"
     },
     {
       "id": "people-football",
@@ -2768,7 +3341,9 @@
           "full": "content/photos/albums/People/football/edit-80.webp"
         }
       ],
-      "cover": "people-football-edit-80"
+      "cover": "people-football-edit-80",
+      "albumViewBackgroundId": "people-football-edit-195",
+      "albumViewBackground": "content/photos/albums/People/football/edit-195-thumb.webp"
     },
     {
       "id": "people-mrj",
@@ -2851,13 +3426,20 @@
           "full": "content/photos/albums/People/mrj/tagabow-iii.webp"
         }
       ],
-      "cover": "people-mrj-iv"
+      "cover": "people-mrj-iv",
+      "albumViewBackgroundId": "people-mrj-mrj-i",
+      "albumViewBackground": "content/photos/albums/People/mrj/mrj-i-thumb.webp"
     },
     {
       "id": "people-parades",
       "name": "parades",
       "description": "Moments from parades, runs, and other events while I was a part of University Marketing at Illinois State.",
       "items": [
+        {
+          "id": "people-parades-dsc00233",
+          "thumbnail": "content/photos/albums/People/parades/dsc00233-thumb.webp",
+          "full": "content/photos/albums/People/parades/dsc00233.webp"
+        },
         {
           "id": "people-parades-edit-108",
           "thumbnail": "content/photos/albums/People/parades/edit-108-thumb.webp",
@@ -2889,7 +3471,9 @@
           "full": "content/photos/albums/People/parades/edit-99.webp"
         }
       ],
-      "cover": "people-parades-edit-108"
+      "cover": "people-parades-edit-108",
+      "albumViewBackgroundId": "people-parades-edit-108",
+      "albumViewBackground": "content/photos/albums/People/parades/edit-108-thumb.webp"
     },
     {
       "id": "people-portraits",
@@ -2922,7 +3506,9 @@
           "full": "content/photos/albums/People/portraits/tom-e.webp"
         }
       ],
-      "cover": "people-portraits-meg-e"
+      "cover": "people-portraits-meg-e",
+      "albumViewBackgroundId": "people-portraits-meg-iii-e",
+      "albumViewBackground": "content/photos/albums/People/portraits/meg-iii-e-thumb.webp"
     },
     {
       "id": "people-soccer",
@@ -2945,7 +3531,124 @@
           "full": "content/photos/albums/People/soccer/edit-97.webp"
         }
       ],
-      "cover": "people-soccer-edit-97"
+      "cover": "people-soccer-edit-97",
+      "albumViewBackgroundId": "people-soccer-edit-97",
+      "albumViewBackground": "content/photos/albums/People/soccer/edit-97-thumb.webp"
+    },
+    {
+      "id": "school-digital-color",
+      "name": "Digital & Color",
+      "description": "",
+      "items": [
+        {
+          "id": "school-digital-color-difson-v9",
+          "thumbnail": "content/photos/albums/School/Digital & Color/difson-v9-thumb.webp",
+          "full": "content/photos/albums/School/Digital & Color/difson-v9.webp"
+        },
+        {
+          "id": "school-digital-color-img-1488",
+          "thumbnail": "content/photos/albums/School/Digital & Color/img_1488-thumb.webp",
+          "full": "content/photos/albums/School/Digital & Color/img_1488.webp"
+        },
+        {
+          "id": "school-digital-color-img-1584",
+          "thumbnail": "content/photos/albums/School/Digital & Color/img_1584-thumb.webp",
+          "full": "content/photos/albums/School/Digital & Color/img_1584.webp"
+        },
+        {
+          "id": "school-digital-color-unnamed",
+          "thumbnail": "content/photos/albums/School/Digital & Color/unnamed-thumb.webp",
+          "full": "content/photos/albums/School/Digital & Color/unnamed.webp"
+        }
+      ],
+      "cover": "school-digital-color-difson-v9",
+      "albumViewBackgroundId": "school-digital-color-img-1488",
+      "albumViewBackground": "content/photos/albums/School/Digital & Color/img_1488-thumb.webp"
+    },
+    {
+      "id": "school-packaging",
+      "name": "Packaging",
+      "description": "",
+      "items": [
+        {
+          "id": "school-packaging-buds-graphic-ii",
+          "thumbnail": "content/photos/albums/School/Packaging/buds-graphic-ii-thumb.webp",
+          "full": "content/photos/albums/School/Packaging/buds-graphic-ii.webp"
+        },
+        {
+          "id": "school-packaging-img-1372",
+          "thumbnail": "content/photos/albums/School/Packaging/img_1372-thumb.webp",
+          "full": "content/photos/albums/School/Packaging/img_1372.webp"
+        },
+        {
+          "id": "school-packaging-img-1375",
+          "thumbnail": "content/photos/albums/School/Packaging/img_1375-thumb.webp",
+          "full": "content/photos/albums/School/Packaging/img_1375.webp"
+        },
+        {
+          "id": "school-packaging-img-1376",
+          "thumbnail": "content/photos/albums/School/Packaging/img_1376-thumb.webp",
+          "full": "content/photos/albums/School/Packaging/img_1376.webp"
+        },
+        {
+          "id": "school-packaging-img-1377",
+          "thumbnail": "content/photos/albums/School/Packaging/img_1377-thumb.webp",
+          "full": "content/photos/albums/School/Packaging/img_1377.webp"
+        },
+        {
+          "id": "school-packaging-img-1378",
+          "thumbnail": "content/photos/albums/School/Packaging/img_1378-thumb.webp",
+          "full": "content/photos/albums/School/Packaging/img_1378.webp"
+        },
+        {
+          "id": "school-packaging-img-1381",
+          "thumbnail": "content/photos/albums/School/Packaging/img_1381-thumb.webp",
+          "full": "content/photos/albums/School/Packaging/img_1381.webp"
+        },
+        {
+          "id": "school-packaging-img-1382",
+          "thumbnail": "content/photos/albums/School/Packaging/img_1382-thumb.webp",
+          "full": "content/photos/albums/School/Packaging/img_1382.webp"
+        },
+        {
+          "id": "school-packaging-img-1384",
+          "thumbnail": "content/photos/albums/School/Packaging/img_1384-thumb.webp",
+          "full": "content/photos/albums/School/Packaging/img_1384.webp"
+        },
+        {
+          "id": "school-packaging-img-1385",
+          "thumbnail": "content/photos/albums/School/Packaging/img_1385-thumb.webp",
+          "full": "content/photos/albums/School/Packaging/img_1385.webp"
+        },
+        {
+          "id": "school-packaging-package-dimensions",
+          "thumbnail": "content/photos/albums/School/Packaging/package-dimensions-thumb.webp",
+          "full": "content/photos/albums/School/Packaging/package-dimensions.webp"
+        }
+      ],
+      "cover": "school-packaging-buds-graphic-ii",
+      "albumViewBackgroundId": "school-packaging-img-1381",
+      "albumViewBackground": "content/photos/albums/School/Packaging/img_1381-thumb.webp"
+    },
+    {
+      "id": "stardew-valley",
+      "name": "Stardew Valley",
+      "description": "",
+      "items": [
+        {
+          "id": "stardew-valley-jester-2-16-2025-58252739",
+          "thumbnail": "content/photos/albums/Stardew Valley/jester_2-16-2025_58252739-thumb.webp",
+          "full": "content/photos/albums/Stardew Valley/jester_2-16-2025_58252739.webp"
+        },
+        {
+          "id": "stardew-valley-reyna-10-17-2025-15757888",
+          "thumbnail": "content/photos/albums/Stardew Valley/reyna_10-17-2025_15757888-thumb.webp",
+          "full": "content/photos/albums/Stardew Valley/reyna_10-17-2025_15757888.webp"
+        }
+      ],
+      "cover": "stardew-valley-jester-2-16-2025-58252739",
+      "albumViewBackgroundId": "stardew-valley-jester-2-16-2025-58252739",
+      "albumViewBackground": "content/photos/albums/Stardew Valley/jester_2-16-2025_58252739-thumb.webp"
     }
   ]
 }

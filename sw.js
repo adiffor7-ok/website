@@ -1,10 +1,10 @@
 // Service Worker for Photo Spectrum Gallery
 // Version 1.4.3 — bump when clients should drop old CSS/JS/image caches
 
-const CACHE_NAME = 'photo-spectrum-v1.4.3';
-const STATIC_CACHE = 'photo-spectrum-static-v1.4.3';
-const IMAGE_CACHE = 'photo-spectrum-images-v1.4.3';
-const DATA_CACHE = 'photo-spectrum-data-v1.4.3';
+const CACHE_NAME = 'photo-spectrum-v1.4.4';
+const STATIC_CACHE = 'photo-spectrum-static-v1.4.4';
+const IMAGE_CACHE = 'photo-spectrum-images-v1.4.4';
+const DATA_CACHE = 'photo-spectrum-data-v1.4.4';
 
 const MAX_IMAGE_CACHE_SIZE = 100 * 1024 * 1024; // 100MB
 
@@ -248,11 +248,13 @@ self.addEventListener('fetch', (event) => {
   
   // Strategy 3: Cache-first for images (thumbnails and full images)
   // Skip Google Photos images - they don't support CORS and cause OpaqueResponseBlocking
+  const imagePath = url.pathname.toLowerCase();
   if (
-    (url.pathname.endsWith('.jpg') ||
-    url.pathname.endsWith('.jpeg') ||
-    url.pathname.endsWith('.png') ||
-    url.pathname.endsWith('.webp')) &&
+    (imagePath.endsWith('.jpg') ||
+    imagePath.endsWith('.jpeg') ||
+    imagePath.endsWith('.png') ||
+    imagePath.endsWith('.webp') ||
+    imagePath.endsWith('.gif')) &&
     !url.hostname.includes('googleusercontent.com')
   ) {
     event.respondWith(
